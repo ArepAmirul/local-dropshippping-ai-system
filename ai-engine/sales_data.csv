@@ -1,0 +1,1101 @@
+Order_ID,Date,Products,Quantity,Unit Price,Customer,State,Platforms
+TRX-1000,2026-03-23,Tudung Bawal,6,126.23,Samuel Smith,Negeri Sembilan,TikTok Shop
+TRX-1001,2026-01-19,Baju Kurung Moden,6,59.34,Joseph Mooney,Kelantan,Shopee
+TRX-1002,2026-02-06,Tudung Bawal,8,130.58,Mario Welch,Sabah,Shopee
+TRX-1003,2026-04-09,Tudung Bawal,7,90.39,Cindy Rogers,Melaka,TikTok Shop
+TRX-1004,2026-03-02,Kain Pelikat,6,76.95,David White,Penang,TikTok Shop
+TRX-1005,2026-03-02,Sampul Raya,2,8.79,Stacey Little,Kelantan,Shopee
+TRX-1006,2026-02-28,Kurta Slim Fit,4,69.81,Debra Powell,Johor,TikTok Shop
+TRX-1007,2026-03-14,Sampul Raya,9,36.52,Wendy Rogers,Negeri Sembilan,TikTok Shop
+TRX-1008,2026-02-14,Kain Pelikat,5,52.84,Jennifer Williams,Sabah,TikTok Shop
+TRX-1009,2026-04-07,Tudung Bawal,3,93.87,Paula Mejia,Perak,TikTok Shop
+TRX-1010,2026-03-12,Kain Pelikat,6,15.54,John Woodard,Selangor,TikTok Shop
+TRX-1011,2026-02-09,Kurta Slim Fit,8,20.8,Noah Harrell,Negeri Sembilan,Shopee
+TRX-1012,2026-03-10,Kain Pelikat,9,17.28,Laura Bennett,Negeri Sembilan,Shopee
+TRX-1013,2026-02-26,Tudung Bawal,6,146.93,Brandy Dixon,Kelantan,TikTok Shop
+TRX-1014,2026-01-25,Kurta Slim Fit,7,39.84,Mike Watson,Sarawak,TikTok Shop
+TRX-1015,2026-01-04,Sampul Raya,1,31.98,James Rose,Melaka,Shopee
+TRX-1016,2026-01-06,Tudung Bawal,5,31.42,Richard Robertson,Kedah,TikTok Shop
+TRX-1017,2026-02-14,Kain Pelikat,9,126.35,Debra Williams,Penang,Shopee
+TRX-1018,2026-03-07,Tudung Bawal,4,47.98,Jeremiah Pope,Johor,TikTok Shop
+TRX-1019,2026-03-28,Sampul Raya,9,133.4,Meghan Harris,Perlis,Shopee
+TRX-1020,2026-04-03,Sampul Raya,4,105.79,Julie Gutierrez,Melaka,Shopee
+TRX-1021,2026-02-25,Kain Pelikat,5,49.06,Jason Farmer,Sabah,TikTok Shop
+TRX-1022,2026-01-25,Kurta Slim Fit,3,16.21,Robert Harris,Negeri Sembilan,TikTok Shop
+TRX-1023,2026-01-04,Sampul Raya,6,12.59,Rebecca Little,Penang,Shopee
+TRX-1024,2026-02-06,Kurta Slim Fit,6,36.3,William Dillon,Penang,Shopee
+TRX-1025,2026-04-12,Sampul Raya,1,32.12,Alicia Carey,Kedah,Shopee
+TRX-1026,2026-02-21,Kurta Slim Fit,9,51.89,Christine Moore,Penang,TikTok Shop
+TRX-1027,2026-03-14,Tudung Bawal,8,90.95,Mitchell Wright,Sabah,TikTok Shop
+TRX-1028,2026-01-31,Kurta Slim Fit,4,90.36,Thomas Faulkner,Selangor,Shopee
+TRX-1029,2026-01-16,Tudung Bawal,8,89.85,William Barnes,Melaka,Shopee
+TRX-1030,2026-02-03,Kain Pelikat,3,142.95,Melissa Watkins,Penang,TikTok Shop
+TRX-1031,2026-02-11,Tudung Bawal,9,122.46,Leslie Larson,Selangor,TikTok Shop
+TRX-1032,2026-01-15,Kain Pelikat,1,61.74,Lindsay Crane,Perlis,Shopee
+TRX-1033,2026-03-05,Tudung Bawal,10,27.79,Sandra Johnson,Sabah,TikTok Shop
+TRX-1034,2026-01-04,Kain Pelikat,10,127.42,John Costa,Johor,TikTok Shop
+TRX-1035,2026-02-22,Kurta Slim Fit,6,91.4,Juan Jones,Perlis,TikTok Shop
+TRX-1036,2026-01-18,Baju Kurung Moden,2,81.31,Wendy Gray,Perlis,Shopee
+TRX-1037,2026-01-25,Kain Pelikat,1,78.77,John Richard,Sarawak,Shopee
+TRX-1038,2026-03-14,Baju Kurung Moden,3,127.71,Michael Lloyd,Negeri Sembilan,TikTok Shop
+TRX-1039,2026-02-20,Kurta Slim Fit,8,65.95,Tony West,Perlis,Shopee
+TRX-1040,2026-03-11,Baju Kurung Moden,8,96.47,Christopher Mcclure,Selangor,TikTok Shop
+TRX-1041,2026-03-13,Baju Kurung Moden,8,110.99,Jane Mcmillan,Negeri Sembilan,Shopee
+TRX-1042,2026-02-18,Sampul Raya,10,12.24,James Daniels,Perlis,Shopee
+TRX-1043,2026-04-02,Sampul Raya,7,54.18,Johnathan Wells,Selangor,TikTok Shop
+TRX-1044,2026-02-15,Sampul Raya,5,47.9,James Rollins,Perak,Shopee
+TRX-1045,2026-04-12,Kurta Slim Fit,7,24.69,Judy Chavez,Perlis,TikTok Shop
+TRX-1046,2026-03-11,Kain Pelikat,2,12.12,Douglas Ellis,Melaka,Shopee
+TRX-1047,2026-03-21,Kain Pelikat,7,15.73,Sara Robertson,Kelantan,TikTok Shop
+TRX-1048,2026-04-13,Sampul Raya,8,148.6,Carl Simon,Melaka,TikTok Shop
+TRX-1049,2026-01-04,Tudung Bawal,3,104.04,Trevor Diaz,Sarawak,Shopee
+TRX-1050,2026-04-09,Baju Kurung Moden,10,95.98,Daniel Hall MD,Negeri Sembilan,Shopee
+TRX-1051,2026-03-21,Baju Kurung Moden,7,89.06,Amber Vincent,Kedah,TikTok Shop
+TRX-1052,2026-03-05,Kain Pelikat,8,29.92,Elizabeth Glass,Selangor,TikTok Shop
+TRX-1053,2026-02-04,Kurta Slim Fit,7,32.67,Matthew Caldwell,Kedah,Shopee
+TRX-1054,2026-02-28,Sampul Raya,7,61.22,John Roy,Sabah,TikTok Shop
+TRX-1055,2026-04-13,Kurta Slim Fit,9,10.7,David Williams,Perak,TikTok Shop
+TRX-1056,2026-02-07,Kain Pelikat,2,69.7,Yesenia Ramirez,Kelantan,TikTok Shop
+TRX-1057,2026-03-14,Baju Kurung Moden,1,17.4,Donna Parker,Johor,TikTok Shop
+TRX-1058,2026-01-10,Tudung Bawal,6,89.35,Adrian Bryant,Melaka,TikTok Shop
+TRX-1059,2026-04-06,Sampul Raya,9,112.22,Jeffrey Le,Perak,Shopee
+TRX-1060,2026-01-18,Kurta Slim Fit,1,42.75,Julie Gonzalez,Negeri Sembilan,TikTok Shop
+TRX-1061,2026-03-16,Sampul Raya,1,148.53,John Murray,Perak,TikTok Shop
+TRX-1062,2026-03-05,Kain Pelikat,5,115.54,Brandon Roberts,Kelantan,Shopee
+TRX-1063,2026-01-07,Baju Kurung Moden,3,86.32,Gabriel Kelly,Sabah,Shopee
+TRX-1064,2026-03-17,Baju Kurung Moden,3,146.47,Laura Snow,Sarawak,Shopee
+TRX-1065,2026-03-12,Kurta Slim Fit,7,87.15,Jonathan Thomas,Johor,TikTok Shop
+TRX-1066,2026-03-14,Sampul Raya,3,56.04,Tonya Shaw,Negeri Sembilan,TikTok Shop
+TRX-1067,2026-01-08,Kain Pelikat,2,132.92,Kelly Mendoza,Sarawak,TikTok Shop
+TRX-1068,2026-03-13,Kurta Slim Fit,9,105.83,Robert Park,Sabah,Shopee
+TRX-1069,2026-02-23,Sampul Raya,9,58.53,Larry King,Selangor,TikTok Shop
+TRX-1070,2026-01-28,Kain Pelikat,5,77.97,Kevin Jones,Kedah,Shopee
+TRX-1071,2026-01-20,Kurta Slim Fit,4,53.39,Timothy Adams,Johor,Shopee
+TRX-1072,2026-01-14,Sampul Raya,8,101.07,Elizabeth Boyd,Sabah,Shopee
+TRX-1073,2026-04-15,Sampul Raya,2,42.24,Paul Bailey,Penang,TikTok Shop
+TRX-1074,2026-04-08,Baju Kurung Moden,2,28.27,Colleen Flores,Selangor,TikTok Shop
+TRX-1075,2026-02-24,Kain Pelikat,1,47.35,Samantha Dean,Perlis,TikTok Shop
+TRX-1076,2026-02-14,Baju Kurung Moden,8,94.97,Mark Hernandez,Perak,Shopee
+TRX-1077,2026-01-14,Kurta Slim Fit,1,133.69,Michael Lee,Kedah,Shopee
+TRX-1078,2026-01-29,Sampul Raya,7,83.36,Jennifer Robinson,Kelantan,Shopee
+TRX-1079,2026-01-20,Kurta Slim Fit,3,74.79,Karen Vaughn,Perak,Shopee
+TRX-1080,2026-01-31,Kain Pelikat,1,12.76,Zachary Matthews,Sarawak,TikTok Shop
+TRX-1081,2026-02-17,Tudung Bawal,8,113.05,John Sanchez MD,Selangor,Shopee
+TRX-1082,2026-01-21,Tudung Bawal,3,88.1,Briana Simmons,Selangor,TikTok Shop
+TRX-1083,2026-01-22,Sampul Raya,7,35.87,Olivia Lewis,Kelantan,TikTok Shop
+TRX-1084,2026-02-22,Tudung Bawal,8,122.83,Michael Carter,Perlis,TikTok Shop
+TRX-1085,2026-03-17,Sampul Raya,1,127.56,Jordan Miles,Melaka,Shopee
+TRX-1086,2026-01-12,Tudung Bawal,8,132.94,Kyle Newman,Kedah,TikTok Shop
+TRX-1087,2026-04-10,Tudung Bawal,1,46.38,Amy Santiago,Perak,TikTok Shop
+TRX-1088,2026-04-10,Tudung Bawal,6,34.79,Jennifer Sharp,Kedah,TikTok Shop
+TRX-1089,2026-03-22,Kain Pelikat,4,30.25,Daniel Manning,Perlis,Shopee
+TRX-1090,2026-02-14,Kurta Slim Fit,5,31.29,Andrew Powell,Sabah,TikTok Shop
+TRX-1091,2026-03-15,Kurta Slim Fit,5,143.51,Billy Lopez,Johor,TikTok Shop
+TRX-1092,2026-01-09,Baju Kurung Moden,8,33.01,Aaron Clark,Perlis,Shopee
+TRX-1093,2026-03-29,Baju Kurung Moden,5,89.29,Kimberly Haney,Perak,Shopee
+TRX-1094,2026-03-22,Tudung Bawal,8,142.11,Richard Griffin,Melaka,Shopee
+TRX-1095,2026-02-01,Sampul Raya,9,37.07,Jeremiah Key,Johor,TikTok Shop
+TRX-1096,2026-02-20,Tudung Bawal,8,26.8,Stephanie Moore,Penang,TikTok Shop
+TRX-1097,2026-03-24,Kain Pelikat,7,115.1,Peter Wyatt,Sarawak,Shopee
+TRX-1098,2026-04-12,Kain Pelikat,10,95.07,Ian Jordan,Johor,Shopee
+TRX-1099,2026-01-14,Kain Pelikat,3,85.42,Valerie Scott,Selangor,TikTok Shop
+TRX-1100,2026-01-06,Kurta Slim Fit,10,77.23,Andrew Burnett,Sarawak,Shopee
+TRX-1101,2026-03-29,Baju Kurung Moden,7,123.03,David Cummings,Penang,TikTok Shop
+TRX-1102,2026-03-21,Tudung Bawal,7,9.76,Daniel Thompson,Sarawak,TikTok Shop
+TRX-1103,2026-04-09,Kurta Slim Fit,9,106.21,Mark Douglas,Penang,Shopee
+TRX-1104,2026-02-13,Baju Kurung Moden,2,64.72,Rachael Kirby,Kelantan,Shopee
+TRX-1105,2026-01-23,Baju Kurung Moden,8,120.85,Emily Woods,Kelantan,Shopee
+TRX-1106,2026-01-26,Kurta Slim Fit,1,91.18,Rebecca Williams,Perak,Shopee
+TRX-1107,2026-01-30,Tudung Bawal,1,66.86,Randall Orr,Perlis,Shopee
+TRX-1108,2026-01-06,Kain Pelikat,6,72.36,Joseph Powell,Perlis,TikTok Shop
+TRX-1109,2026-02-19,Tudung Bawal,10,94.9,Kayla Hardin,Sarawak,TikTok Shop
+TRX-1110,2026-03-26,Sampul Raya,1,127.27,David Sheppard,Kelantan,Shopee
+TRX-1111,2026-03-29,Kurta Slim Fit,6,54.86,Thomas Williams,Penang,TikTok Shop
+TRX-1112,2026-03-01,Kain Pelikat,10,108.38,Thomas Diaz,Kelantan,TikTok Shop
+TRX-1113,2026-02-11,Kurta Slim Fit,6,132.91,Walter Johnson,Sarawak,Shopee
+TRX-1114,2026-03-04,Kain Pelikat,10,28.49,Mark Edwards,Penang,Shopee
+TRX-1115,2026-01-20,Kurta Slim Fit,3,133.15,Micheal Mason,Melaka,Shopee
+TRX-1116,2026-03-23,Sampul Raya,8,99.97,Jessica Gardner,Sabah,Shopee
+TRX-1117,2026-03-23,Sampul Raya,6,116.12,Kim Nelson,Perak,TikTok Shop
+TRX-1118,2026-03-26,Kain Pelikat,4,40.57,Cody Webster,Negeri Sembilan,TikTok Shop
+TRX-1119,2026-02-14,Kurta Slim Fit,6,103.35,Joan Guerrero,Kedah,TikTok Shop
+TRX-1120,2026-01-27,Tudung Bawal,7,106.33,Jeffery Bauer,Perlis,Shopee
+TRX-1121,2026-01-12,Tudung Bawal,8,104.84,Robert Joseph,Sarawak,TikTok Shop
+TRX-1122,2026-01-08,Baju Kurung Moden,8,112.35,Cynthia Riley,Selangor,TikTok Shop
+TRX-1123,2026-04-03,Kurta Slim Fit,8,34.34,Darren Petersen,Sarawak,TikTok Shop
+TRX-1124,2026-01-28,Tudung Bawal,4,28.6,Mark Simpson,Kedah,Shopee
+TRX-1125,2026-02-05,Baju Kurung Moden,7,41.68,Joe Lee,Penang,Shopee
+TRX-1126,2026-01-12,Sampul Raya,5,125.2,Angela Ross,Perak,Shopee
+TRX-1127,2026-03-19,Baju Kurung Moden,4,20.24,Richard Guerrero,Perak,TikTok Shop
+TRX-1128,2026-03-03,Kurta Slim Fit,2,93.96,Jonathan Cobb,Perak,TikTok Shop
+TRX-1129,2026-03-06,Baju Kurung Moden,5,19.6,Susan Aguirre,Negeri Sembilan,Shopee
+TRX-1130,2026-01-07,Sampul Raya,9,40.01,Trevor Ward,Negeri Sembilan,TikTok Shop
+TRX-1131,2026-04-08,Sampul Raya,8,16.4,Destiny Williams,Penang,TikTok Shop
+TRX-1132,2026-03-28,Sampul Raya,2,84.85,Jennifer Ortiz,Perlis,TikTok Shop
+TRX-1133,2026-02-23,Kain Pelikat,5,72.66,James Stokes,Perak,Shopee
+TRX-1134,2026-03-07,Kurta Slim Fit,10,21.62,Marie Davis,Negeri Sembilan,Shopee
+TRX-1135,2026-04-13,Kain Pelikat,10,41.56,Claudia Green,Kedah,TikTok Shop
+TRX-1136,2026-03-21,Kain Pelikat,10,119.7,Andrew White,Perak,Shopee
+TRX-1137,2026-02-04,Kain Pelikat,8,48.44,Cathy Hinton,Kedah,TikTok Shop
+TRX-1138,2026-03-23,Tudung Bawal,3,99.64,Tamara Smith,Johor,Shopee
+TRX-1139,2026-02-21,Kain Pelikat,8,141.92,Matthew Powell,Sabah,TikTok Shop
+TRX-1140,2026-01-26,Kurta Slim Fit,10,134.87,Lori Rodriguez,Johor,TikTok Shop
+TRX-1141,2026-01-11,Baju Kurung Moden,7,54.56,Alyssa Diaz,Negeri Sembilan,Shopee
+TRX-1142,2026-04-03,Sampul Raya,4,60.1,Kelly Stone,Perak,Shopee
+TRX-1143,2026-03-29,Kain Pelikat,4,36.81,Anna Gray,Johor,TikTok Shop
+TRX-1144,2026-03-08,Kurta Slim Fit,4,59.73,Emily Fleming,Melaka,Shopee
+TRX-1145,2026-02-07,Tudung Bawal,9,25.22,Jose Rodriguez,Perlis,Shopee
+TRX-1146,2026-04-05,Kain Pelikat,9,137.81,Laura Coffey,Kedah,TikTok Shop
+TRX-1147,2026-02-27,Tudung Bawal,10,78.48,Maria Morris,Perak,TikTok Shop
+TRX-1148,2026-01-16,Kain Pelikat,5,141.72,Ariana Anderson,Perlis,TikTok Shop
+TRX-1149,2026-03-22,Sampul Raya,10,108.68,Brendan Rice,Perlis,Shopee
+TRX-1150,2026-03-28,Sampul Raya,6,12.6,Patricia Jacobs,Melaka,Shopee
+TRX-1151,2026-02-11,Sampul Raya,1,28.28,Ronald Winters,Sarawak,TikTok Shop
+TRX-1152,2026-04-02,Kain Pelikat,1,57.89,Melody Phillips,Kelantan,TikTok Shop
+TRX-1153,2026-01-09,Baju Kurung Moden,1,83.08,Mark Church,Selangor,Shopee
+TRX-1154,2026-02-21,Kurta Slim Fit,2,85.49,Michael Johnson,Kedah,Shopee
+TRX-1155,2026-04-10,Kain Pelikat,8,49.4,Anthony Taylor,Negeri Sembilan,TikTok Shop
+TRX-1156,2026-02-09,Sampul Raya,10,90.42,Shane Bowen,Melaka,TikTok Shop
+TRX-1157,2026-04-13,Sampul Raya,7,27.39,Joel Hill,Selangor,TikTok Shop
+TRX-1158,2026-04-07,Sampul Raya,5,18.11,Donna Callahan,Penang,TikTok Shop
+TRX-1159,2026-01-14,Kain Pelikat,10,44.38,Terry Ford DVM,Penang,Shopee
+TRX-1160,2026-04-07,Baju Kurung Moden,4,34.06,Robert Lucas,Selangor,TikTok Shop
+TRX-1161,2026-02-19,Tudung Bawal,9,14.54,Tanya Johnson,Kedah,TikTok Shop
+TRX-1162,2026-03-09,Baju Kurung Moden,9,74.87,Diana Bowers,Sarawak,Shopee
+TRX-1163,2026-02-15,Baju Kurung Moden,2,148.17,Colleen Harper,Penang,Shopee
+TRX-1164,2026-01-02,Kain Pelikat,3,106.43,Dr. Christopher Horne,Kelantan,TikTok Shop
+TRX-1165,2026-03-13,Sampul Raya,10,67.24,Erika Jones,Melaka,TikTok Shop
+TRX-1166,2026-02-06,Baju Kurung Moden,4,47.01,Laura Kelly,Sabah,Shopee
+TRX-1167,2026-02-20,Baju Kurung Moden,3,109.81,Joshua Mathews,Johor,Shopee
+TRX-1168,2026-04-15,Tudung Bawal,2,31.12,Jacob Carter,Sarawak,TikTok Shop
+TRX-1169,2026-02-07,Sampul Raya,6,98.66,Gwendolyn Richards,Sabah,TikTok Shop
+TRX-1170,2026-02-10,Kurta Slim Fit,5,112.92,Michelle Riley,Kedah,Shopee
+TRX-1171,2026-03-07,Kurta Slim Fit,4,32.37,Brenda Rice,Selangor,TikTok Shop
+TRX-1172,2026-03-07,Baju Kurung Moden,7,85.12,Jason Rangel,Selangor,TikTok Shop
+TRX-1173,2026-04-08,Sampul Raya,10,12.07,Anthony Melton,Perlis,Shopee
+TRX-1174,2026-01-31,Tudung Bawal,8,112.64,Travis Friedman,Kelantan,TikTok Shop
+TRX-1175,2026-02-01,Tudung Bawal,4,35.38,Alexandria Torres,Perak,Shopee
+TRX-1176,2026-02-25,Sampul Raya,2,19.48,Richard Hawkins,Kedah,Shopee
+TRX-1177,2026-01-17,Baju Kurung Moden,3,28.49,Monique Reynolds,Sabah,TikTok Shop
+TRX-1178,2026-04-11,Kain Pelikat,2,108.95,Elizabeth Rollins,Kelantan,Shopee
+TRX-1179,2026-01-13,Kain Pelikat,4,44.66,Roy Miller,Kelantan,Shopee
+TRX-1180,2026-01-19,Kain Pelikat,4,83.66,Paul Barnes,Johor,TikTok Shop
+TRX-1181,2026-04-04,Kain Pelikat,6,12.11,Richard Morales,Penang,TikTok Shop
+TRX-1182,2026-01-02,Sampul Raya,5,10.52,Natalie Murphy,Kedah,TikTok Shop
+TRX-1183,2026-02-26,Tudung Bawal,1,92.01,Michael Robinson,Sabah,TikTok Shop
+TRX-1184,2026-04-07,Sampul Raya,2,90.5,Ryan Hughes,Sarawak,TikTok Shop
+TRX-1185,2026-03-16,Baju Kurung Moden,5,74.24,Holly Joseph,Perak,TikTok Shop
+TRX-1186,2026-03-06,Baju Kurung Moden,4,64.53,Jamie Jefferson,Kelantan,Shopee
+TRX-1187,2026-03-28,Sampul Raya,6,30.2,Brandon Higgins,Penang,Shopee
+TRX-1188,2026-02-17,Tudung Bawal,6,19.35,James Simmons,Perlis,TikTok Shop
+TRX-1189,2026-01-18,Kurta Slim Fit,2,94.57,Robert Pearson,Kelantan,Shopee
+TRX-1190,2026-02-01,Baju Kurung Moden,3,104.54,Christopher Garcia,Sabah,Shopee
+TRX-1191,2026-01-19,Kurta Slim Fit,8,30.86,Alexa Kaufman,Sabah,Shopee
+TRX-1192,2026-01-15,Kurta Slim Fit,9,24.01,Jennifer Smith,Perlis,TikTok Shop
+TRX-1193,2026-01-10,Kurta Slim Fit,3,59.47,Nathaniel Barker,Negeri Sembilan,TikTok Shop
+TRX-1194,2026-02-11,Sampul Raya,8,107.05,Maurice Anderson,Johor,Shopee
+TRX-1195,2026-01-28,Baju Kurung Moden,1,132.16,Jeffrey Vazquez,Negeri Sembilan,Shopee
+TRX-1196,2026-01-15,Baju Kurung Moden,10,29.48,Karen Johnson,Selangor,TikTok Shop
+TRX-1197,2026-01-16,Sampul Raya,10,42.13,Kyle Turner,Johor,Shopee
+TRX-1198,2026-01-05,Baju Kurung Moden,8,24.7,David Collier,Perak,TikTok Shop
+TRX-1199,2026-03-13,Kain Pelikat,3,100.55,Sarah Dixon,Sabah,TikTok Shop
+TRX-1200,2026-04-10,Kain Pelikat,5,5.42,Jason Jones,Johor,Shopee
+TRX-1201,2026-03-11,Baju Kurung Moden,5,42.93,Shelley Vargas,Negeri Sembilan,TikTok Shop
+TRX-1202,2026-02-12,Sampul Raya,9,91.92,Jacob Griffin,Sabah,Shopee
+TRX-1203,2026-02-19,Kain Pelikat,5,146.68,Karen Sullivan,Selangor,TikTok Shop
+TRX-1204,2026-04-06,Sampul Raya,4,122.43,Jennifer Stewart,Melaka,TikTok Shop
+TRX-1205,2026-01-13,Baju Kurung Moden,7,35.6,Keith Cole,Negeri Sembilan,Shopee
+TRX-1206,2026-01-29,Tudung Bawal,1,136.08,Sherry Singleton,Penang,Shopee
+TRX-1207,2026-01-20,Baju Kurung Moden,6,116.57,Edward Marquez,Sabah,Shopee
+TRX-1208,2026-03-31,Kain Pelikat,2,110.46,Michael Bradley,Selangor,TikTok Shop
+TRX-1209,2026-03-13,Baju Kurung Moden,4,38.15,Judith Carpenter,Selangor,TikTok Shop
+TRX-1210,2026-02-12,Tudung Bawal,3,24.65,Courtney Mcclain,Kelantan,TikTok Shop
+TRX-1211,2026-02-13,Kain Pelikat,2,10.43,Travis Nelson,Kedah,TikTok Shop
+TRX-1212,2026-03-01,Kain Pelikat,8,70.98,Mariah Hill,Negeri Sembilan,TikTok Shop
+TRX-1213,2026-01-31,Kain Pelikat,10,129.5,Nicole Owen,Sabah,TikTok Shop
+TRX-1214,2026-04-11,Kurta Slim Fit,8,59.72,Shirley Rhodes,Sabah,Shopee
+TRX-1215,2026-01-17,Kain Pelikat,2,13.46,Patrick Alexander,Perak,TikTok Shop
+TRX-1216,2026-04-05,Sampul Raya,7,29.15,Elizabeth Fox,Sabah,TikTok Shop
+TRX-1217,2026-04-06,Sampul Raya,1,68.7,Anthony Warner,Melaka,Shopee
+TRX-1218,2026-02-03,Baju Kurung Moden,4,86.91,Jeanette Henderson,Perlis,Shopee
+TRX-1219,2026-02-13,Sampul Raya,2,99.18,Jacob Jordan,Kedah,Shopee
+TRX-1220,2026-04-01,Kurta Slim Fit,8,60.18,Zachary Gonzalez,Johor,TikTok Shop
+TRX-1221,2026-02-23,Baju Kurung Moden,8,147.56,Maxwell Kirk,Negeri Sembilan,TikTok Shop
+TRX-1222,2026-02-08,Baju Kurung Moden,10,8.94,Morgan Lowe,Sabah,TikTok Shop
+TRX-1223,2026-01-02,Tudung Bawal,10,136.63,Dorothy Douglas,Penang,TikTok Shop
+TRX-1224,2026-02-15,Kain Pelikat,9,148.01,Nicholas Marquez,Selangor,TikTok Shop
+TRX-1225,2026-02-08,Kain Pelikat,5,68.06,Jeffrey Bailey,Johor,TikTok Shop
+TRX-1226,2026-04-11,Sampul Raya,5,38.03,Amy Howe,Johor,Shopee
+TRX-1227,2026-02-21,Baju Kurung Moden,3,40.53,Michael Harris,Kedah,TikTok Shop
+TRX-1228,2026-01-08,Tudung Bawal,9,105.07,Linda Williams,Negeri Sembilan,TikTok Shop
+TRX-1229,2026-03-11,Sampul Raya,5,37.23,John Cole,Kedah,Shopee
+TRX-1230,2026-03-09,Tudung Bawal,5,61.94,Savannah Cruz,Melaka,TikTok Shop
+TRX-1231,2026-01-22,Sampul Raya,2,97.32,Shannon Rivera,Perlis,Shopee
+TRX-1232,2026-04-06,Kain Pelikat,1,126.28,Mark Bauer,Sarawak,Shopee
+TRX-1233,2026-01-06,Tudung Bawal,8,31.45,Jamie Bell,Melaka,Shopee
+TRX-1234,2026-01-26,Kain Pelikat,4,99.96,Jonathan Morales,Penang,TikTok Shop
+TRX-1235,2026-01-18,Tudung Bawal,6,78.26,Tyler Colon,Kedah,Shopee
+TRX-1236,2026-01-14,Baju Kurung Moden,5,62.15,Jonathan Lee,Selangor,Shopee
+TRX-1237,2026-01-26,Kain Pelikat,1,132.47,Anthony Rosales,Sabah,TikTok Shop
+TRX-1238,2026-03-11,Kurta Slim Fit,1,12.04,Angel Maynard,Perak,Shopee
+TRX-1239,2026-04-15,Kain Pelikat,1,127.14,Lisa Melton,Melaka,Shopee
+TRX-1240,2026-02-02,Tudung Bawal,8,91.79,Justin White,Kedah,TikTok Shop
+TRX-1241,2026-02-18,Tudung Bawal,10,134.45,Samantha Boyd,Sabah,TikTok Shop
+TRX-1242,2026-02-08,Kain Pelikat,4,95.93,Henry Goodwin,Perak,TikTok Shop
+TRX-1243,2026-03-04,Kain Pelikat,4,98.8,Jennifer Jackson,Sarawak,TikTok Shop
+TRX-1244,2026-03-18,Kain Pelikat,6,23.4,Michael Campbell,Negeri Sembilan,Shopee
+TRX-1245,2026-03-09,Baju Kurung Moden,3,46.69,Gerald Vaughn,Kedah,Shopee
+TRX-1246,2026-03-06,Kurta Slim Fit,5,115.35,Thomas Jenkins,Perak,TikTok Shop
+TRX-1247,2026-03-04,Kain Pelikat,8,19.7,Caroline Collins,Sarawak,Shopee
+TRX-1248,2026-01-04,Sampul Raya,1,42.82,Rachel Conway,Penang,Shopee
+TRX-1249,2026-03-07,Tudung Bawal,7,105.74,Allen Cook,Penang,Shopee
+TRX-1250,2026-04-07,Sampul Raya,8,146.57,Michael Jones,Kelantan,Shopee
+TRX-1251,2026-02-17,Baju Kurung Moden,6,16.97,Paula Bailey,Sabah,Shopee
+TRX-1252,2026-01-25,Baju Kurung Moden,7,81.17,Brandon Edwards,Melaka,TikTok Shop
+TRX-1253,2026-02-25,Baju Kurung Moden,10,135.35,Maria Johnson,Johor,TikTok Shop
+TRX-1254,2026-01-01,Kain Pelikat,4,71.88,Elizabeth Richards,Kelantan,Shopee
+TRX-1255,2026-01-03,Kain Pelikat,7,115.39,Ronald Davis,Sabah,TikTok Shop
+TRX-1256,2026-02-05,Baju Kurung Moden,7,57.25,John Holder,Melaka,TikTok Shop
+TRX-1257,2026-01-11,Kurta Slim Fit,9,72.04,Kara Jones,Sabah,TikTok Shop
+TRX-1258,2026-02-27,Baju Kurung Moden,7,147.99,Sandra Carter,Negeri Sembilan,Shopee
+TRX-1259,2026-02-17,Tudung Bawal,1,48.75,Jennifer Brady,Sabah,TikTok Shop
+TRX-1260,2026-02-11,Kain Pelikat,9,77.47,Sara Sanchez,Perak,Shopee
+TRX-1261,2026-01-09,Kain Pelikat,10,148.72,Tracy Reese,Kelantan,Shopee
+TRX-1262,2026-04-10,Baju Kurung Moden,2,60.65,Tony Webb,Penang,TikTok Shop
+TRX-1263,2026-03-26,Baju Kurung Moden,5,85.75,Tiffany Marshall,Perak,Shopee
+TRX-1264,2026-02-25,Kurta Slim Fit,8,52.97,Tracy Atkins,Sarawak,Shopee
+TRX-1265,2026-01-28,Tudung Bawal,8,57.05,Deanna Henderson,Penang,TikTok Shop
+TRX-1266,2026-03-27,Baju Kurung Moden,5,93.26,Jennifer Pineda,Negeri Sembilan,Shopee
+TRX-1267,2026-03-06,Baju Kurung Moden,7,67.82,William Miller,Penang,Shopee
+TRX-1268,2026-01-03,Baju Kurung Moden,7,131.0,Victoria Herrera,Melaka,TikTok Shop
+TRX-1269,2026-01-24,Kurta Slim Fit,6,119.81,Theresa Nelson,Kelantan,Shopee
+TRX-1270,2026-01-09,Baju Kurung Moden,3,60.8,Craig Miller,Perlis,TikTok Shop
+TRX-1271,2026-02-17,Baju Kurung Moden,9,48.95,Daniel Turner,Perlis,Shopee
+TRX-1272,2026-04-01,Kurta Slim Fit,2,15.29,Miss Felicia Williams,Perlis,Shopee
+TRX-1273,2026-04-05,Sampul Raya,4,141.04,Ms. Ann Benjamin,Negeri Sembilan,TikTok Shop
+TRX-1274,2026-01-17,Tudung Bawal,7,148.31,Darryl Johnson,Perlis,Shopee
+TRX-1275,2026-03-27,Kurta Slim Fit,6,84.92,Kaitlyn Frank,Penang,TikTok Shop
+TRX-1276,2026-04-03,Sampul Raya,4,89.69,Michelle Rodriguez,Sarawak,TikTok Shop
+TRX-1277,2026-03-24,Tudung Bawal,3,33.59,Curtis Mendez,Sarawak,TikTok Shop
+TRX-1278,2026-01-14,Baju Kurung Moden,10,99.64,Tanya Howard,Kedah,Shopee
+TRX-1279,2026-01-07,Kurta Slim Fit,10,64.24,Jermaine Lee,Kelantan,Shopee
+TRX-1280,2026-01-15,Kurta Slim Fit,9,55.58,William Hansen,Sabah,TikTok Shop
+TRX-1281,2026-01-24,Tudung Bawal,8,96.28,Mr. Cory Gordon,Perak,TikTok Shop
+TRX-1282,2026-03-25,Kain Pelikat,1,27.57,David Wheeler,Melaka,Shopee
+TRX-1283,2026-03-22,Tudung Bawal,5,11.21,Angela Clay,Sabah,TikTok Shop
+TRX-1284,2026-03-16,Kurta Slim Fit,10,33.88,Zachary Smith,Sarawak,Shopee
+TRX-1285,2026-04-03,Kurta Slim Fit,7,105.88,Anne Santana,Selangor,Shopee
+TRX-1286,2026-04-07,Kain Pelikat,10,132.3,Eric Jones,Kedah,Shopee
+TRX-1287,2026-04-11,Sampul Raya,1,109.11,Danielle Williams,Selangor,Shopee
+TRX-1288,2026-01-06,Tudung Bawal,1,104.22,Dawn Jones,Johor,TikTok Shop
+TRX-1289,2026-03-01,Kain Pelikat,4,46.69,Lori Cochran,Perlis,TikTok Shop
+TRX-1290,2026-02-07,Sampul Raya,1,11.56,Maria Duncan,Kedah,Shopee
+TRX-1291,2026-04-15,Kain Pelikat,8,72.95,Daniel Liu,Kedah,Shopee
+TRX-1292,2026-03-23,Baju Kurung Moden,8,100.91,Corey Bradley,Negeri Sembilan,Shopee
+TRX-1293,2026-02-15,Tudung Bawal,4,15.82,Matthew Gutierrez,Kedah,TikTok Shop
+TRX-1294,2026-04-04,Sampul Raya,5,107.92,Donald Wilkinson,Sarawak,Shopee
+TRX-1295,2026-03-09,Tudung Bawal,2,43.15,Nicole Griffin,Negeri Sembilan,Shopee
+TRX-1296,2026-03-19,Tudung Bawal,10,136.67,Vincent Rodriguez,Kedah,Shopee
+TRX-1297,2026-02-09,Kurta Slim Fit,6,106.95,Timothy Ochoa,Melaka,Shopee
+TRX-1298,2026-03-22,Kain Pelikat,8,33.81,Billy Hull,Perak,Shopee
+TRX-1299,2026-01-02,Tudung Bawal,10,133.49,Mary Smith,Kelantan,TikTok Shop
+TRX-1300,2026-04-05,Kain Pelikat,1,12.12,Lori Ritter,Sabah,Shopee
+TRX-1301,2026-02-03,Kurta Slim Fit,3,135.0,Cheyenne Espinoza,Kedah,Shopee
+TRX-1302,2026-02-12,Kurta Slim Fit,5,27.28,William Calderon,Kelantan,Shopee
+TRX-1303,2026-04-01,Kurta Slim Fit,1,97.47,Stacy James,Kedah,TikTok Shop
+TRX-1304,2026-01-05,Sampul Raya,5,124.45,David Whitaker,Negeri Sembilan,Shopee
+TRX-1305,2026-02-15,Sampul Raya,6,54.73,Linda Rodriguez,Perak,Shopee
+TRX-1306,2026-04-11,Kurta Slim Fit,9,13.76,James Hunter,Sarawak,Shopee
+TRX-1307,2026-01-29,Kurta Slim Fit,2,23.3,Joseph Jefferson,Melaka,Shopee
+TRX-1308,2026-02-06,Sampul Raya,8,147.67,Catherine Smith,Negeri Sembilan,Shopee
+TRX-1309,2026-01-24,Sampul Raya,4,94.57,Joseph Tran,Penang,Shopee
+TRX-1310,2026-01-28,Tudung Bawal,4,18.81,Peggy Hanna,Penang,Shopee
+TRX-1311,2026-03-23,Baju Kurung Moden,3,10.68,Jesse Evans,Melaka,TikTok Shop
+TRX-1312,2026-04-12,Baju Kurung Moden,2,74.76,Ruth Santos,Penang,Shopee
+TRX-1313,2026-01-16,Kurta Slim Fit,5,35.31,Joanna Carter,Perlis,Shopee
+TRX-1314,2026-01-05,Sampul Raya,6,85.65,Dr. Tyler Jackson,Melaka,Shopee
+TRX-1315,2026-01-16,Baju Kurung Moden,2,40.43,Dylan Joseph,Kedah,Shopee
+TRX-1316,2026-02-14,Baju Kurung Moden,3,12.47,Crystal Barker,Selangor,Shopee
+TRX-1317,2026-04-04,Kain Pelikat,8,53.06,Patrick Cline,Perlis,Shopee
+TRX-1318,2026-03-19,Tudung Bawal,8,73.04,Pedro Hill,Sarawak,Shopee
+TRX-1319,2026-01-25,Kain Pelikat,7,6.06,Susan Ho,Melaka,Shopee
+TRX-1320,2026-03-28,Tudung Bawal,9,117.02,Sarah Singleton,Johor,TikTok Shop
+TRX-1321,2026-03-25,Baju Kurung Moden,4,28.88,Joseph Williams,Johor,Shopee
+TRX-1322,2026-01-12,Baju Kurung Moden,4,119.47,Jordan Rodriguez,Sarawak,Shopee
+TRX-1323,2026-03-03,Kurta Slim Fit,4,94.95,Becky Ramos,Selangor,TikTok Shop
+TRX-1324,2026-01-20,Kain Pelikat,6,40.13,Lisa Valenzuela,Kelantan,TikTok Shop
+TRX-1325,2026-01-23,Tudung Bawal,2,138.01,Rachel Martinez,Sarawak,TikTok Shop
+TRX-1326,2026-01-01,Kurta Slim Fit,2,24.26,Christopher Martinez PhD,Kelantan,TikTok Shop
+TRX-1327,2026-01-25,Sampul Raya,6,53.71,Johnny Buck,Penang,TikTok Shop
+TRX-1328,2026-03-17,Baju Kurung Moden,10,81.32,Tiffany Daniels,Kedah,Shopee
+TRX-1329,2026-04-02,Sampul Raya,10,128.33,Samuel Lee,Perlis,TikTok Shop
+TRX-1330,2026-03-15,Tudung Bawal,10,118.62,Jacob Potter,Sarawak,TikTok Shop
+TRX-1331,2026-04-15,Kain Pelikat,2,115.19,Sara Garcia,Melaka,TikTok Shop
+TRX-1332,2026-02-12,Kurta Slim Fit,8,98.34,Ariel Barry,Selangor,Shopee
+TRX-1333,2026-01-31,Baju Kurung Moden,9,64.67,Rebecca Spears,Kedah,Shopee
+TRX-1334,2026-02-28,Tudung Bawal,10,24.75,Scott Leblanc,Kedah,TikTok Shop
+TRX-1335,2026-03-24,Tudung Bawal,3,77.03,Kevin Lewis,Selangor,Shopee
+TRX-1336,2026-02-21,Kain Pelikat,3,57.54,Kimberly Wells,Perlis,Shopee
+TRX-1337,2026-01-22,Sampul Raya,2,107.79,Jason Wilson,Perlis,TikTok Shop
+TRX-1338,2026-03-17,Baju Kurung Moden,4,61.91,Jonathan Morris,Perlis,TikTok Shop
+TRX-1339,2026-02-09,Kurta Slim Fit,10,139.5,Jeffrey Miller,Kedah,Shopee
+TRX-1340,2026-02-05,Kain Pelikat,9,21.73,Cody Walton,Selangor,TikTok Shop
+TRX-1341,2026-01-08,Baju Kurung Moden,3,28.29,Jeffrey Mclean,Kedah,TikTok Shop
+TRX-1342,2026-03-31,Kain Pelikat,7,97.98,Thomas Hutchinson,Johor,Shopee
+TRX-1343,2026-01-26,Sampul Raya,7,62.6,Alexander Hendrix,Melaka,TikTok Shop
+TRX-1344,2026-04-10,Kurta Slim Fit,6,148.18,Raymond Duffy,Selangor,TikTok Shop
+TRX-1345,2026-04-14,Tudung Bawal,8,70.65,Michael Elliott,Selangor,TikTok Shop
+TRX-1346,2026-03-26,Kain Pelikat,1,42.8,Jacob Kennedy,Kelantan,TikTok Shop
+TRX-1347,2026-03-21,Baju Kurung Moden,3,45.04,Natasha Gonzalez,Penang,Shopee
+TRX-1348,2026-03-23,Sampul Raya,1,75.05,Derek Horne,Melaka,Shopee
+TRX-1349,2026-03-04,Baju Kurung Moden,5,142.74,Christian King,Johor,TikTok Shop
+TRX-1350,2026-03-30,Sampul Raya,9,82.43,Terry Wright,Perak,Shopee
+TRX-1351,2026-02-23,Baju Kurung Moden,2,97.27,Cynthia Martin,Kedah,TikTok Shop
+TRX-1352,2026-03-26,Baju Kurung Moden,6,6.57,Zachary Campbell,Perak,Shopee
+TRX-1353,2026-01-08,Kurta Slim Fit,10,53.77,Lori Thompson,Sabah,TikTok Shop
+TRX-1354,2026-02-24,Kurta Slim Fit,6,107.16,David Leonard,Johor,Shopee
+TRX-1355,2026-03-22,Baju Kurung Moden,2,71.25,Roger Frazier,Kelantan,Shopee
+TRX-1356,2026-04-09,Tudung Bawal,8,70.79,Erin Mcdaniel,Sarawak,Shopee
+TRX-1357,2026-03-25,Kurta Slim Fit,5,112.8,Courtney Adams,Perlis,Shopee
+TRX-1358,2026-04-12,Sampul Raya,7,132.0,Daniel Sanders,Johor,Shopee
+TRX-1359,2026-01-01,Sampul Raya,8,72.1,Sara Phillips,Negeri Sembilan,Shopee
+TRX-1360,2026-02-13,Tudung Bawal,1,90.31,Emily Reynolds,Kedah,TikTok Shop
+TRX-1361,2026-02-05,Sampul Raya,8,110.2,Anthony Foster,Johor,TikTok Shop
+TRX-1362,2026-01-08,Kain Pelikat,10,14.85,Anthony Martinez,Johor,Shopee
+TRX-1363,2026-03-31,Kurta Slim Fit,9,38.36,Gary Turner,Sarawak,TikTok Shop
+TRX-1364,2026-02-12,Baju Kurung Moden,8,47.63,Taylor Ruiz,Kelantan,TikTok Shop
+TRX-1365,2026-03-03,Kurta Slim Fit,3,36.12,Robin Jackson,Kelantan,Shopee
+TRX-1366,2026-01-22,Sampul Raya,2,25.3,James Johnson,Melaka,TikTok Shop
+TRX-1367,2026-03-21,Sampul Raya,1,54.15,Lori Blevins,Kelantan,TikTok Shop
+TRX-1368,2026-01-31,Baju Kurung Moden,1,130.08,Cynthia Wright,Penang,TikTok Shop
+TRX-1369,2026-03-08,Baju Kurung Moden,8,38.32,Samuel Leach,Johor,TikTok Shop
+TRX-1370,2026-01-13,Kurta Slim Fit,2,89.56,Angel Richards,Johor,Shopee
+TRX-1371,2026-03-16,Tudung Bawal,5,47.29,Joel Mckinney,Melaka,Shopee
+TRX-1372,2026-03-03,Kain Pelikat,5,20.65,Jesus Fisher,Sabah,Shopee
+TRX-1373,2026-02-01,Sampul Raya,4,69.04,Patricia Brown,Sarawak,Shopee
+TRX-1374,2026-01-13,Baju Kurung Moden,1,119.5,Jacob Phillips,Kelantan,TikTok Shop
+TRX-1375,2026-04-08,Sampul Raya,10,67.15,Scott Schwartz,Perlis,Shopee
+TRX-1376,2026-04-07,Tudung Bawal,10,54.12,Joseph Moody,Perak,TikTok Shop
+TRX-1377,2026-04-11,Sampul Raya,7,35.56,Daniel Mclaughlin,Sarawak,Shopee
+TRX-1378,2026-04-07,Sampul Raya,4,35.45,Kristin White,Perak,TikTok Shop
+TRX-1379,2026-03-06,Tudung Bawal,9,30.73,Jessica Pace,Sabah,TikTok Shop
+TRX-1380,2026-02-13,Baju Kurung Moden,9,125.01,Sarah Branch,Kelantan,TikTok Shop
+TRX-1381,2026-02-12,Kain Pelikat,8,49.88,Joseph Cole,Kedah,TikTok Shop
+TRX-1382,2026-01-28,Kain Pelikat,1,133.93,Craig Oliver,Melaka,TikTok Shop
+TRX-1383,2026-01-26,Tudung Bawal,6,128.55,Jerry Fisher,Selangor,TikTok Shop
+TRX-1384,2026-04-01,Sampul Raya,7,22.08,Joseph Cowan,Kedah,Shopee
+TRX-1385,2026-01-10,Kurta Slim Fit,7,104.69,Dr. Tommy Everett,Kedah,Shopee
+TRX-1386,2026-04-14,Sampul Raya,6,98.55,Haley Pruitt,Perak,Shopee
+TRX-1387,2026-03-03,Sampul Raya,10,16.99,Kara Barry,Sabah,Shopee
+TRX-1388,2026-01-12,Tudung Bawal,5,75.46,Richard Arnold,Kelantan,TikTok Shop
+TRX-1389,2026-01-09,Kain Pelikat,9,35.3,Duane Daniels,Kedah,Shopee
+TRX-1390,2026-03-24,Baju Kurung Moden,2,129.25,Hannah Webb,Selangor,Shopee
+TRX-1391,2026-01-20,Kurta Slim Fit,9,60.96,Mitchell Santiago,Melaka,Shopee
+TRX-1392,2026-01-09,Sampul Raya,3,16.68,Michelle Perez,Johor,TikTok Shop
+TRX-1393,2026-03-08,Baju Kurung Moden,7,43.15,Jody Dean,Sarawak,TikTok Shop
+TRX-1394,2026-03-25,Tudung Bawal,1,81.73,Carol Lee,Perlis,Shopee
+TRX-1395,2026-01-02,Baju Kurung Moden,9,98.14,Andrew Martinez,Kelantan,TikTok Shop
+TRX-1396,2026-01-11,Tudung Bawal,5,129.55,Christopher Gonzalez,Selangor,TikTok Shop
+TRX-1397,2026-03-25,Sampul Raya,8,61.28,Steven Frank,Penang,TikTok Shop
+TRX-1398,2026-03-23,Kain Pelikat,9,11.85,Wesley Fletcher,Negeri Sembilan,TikTok Shop
+TRX-1399,2026-04-05,Tudung Bawal,8,33.6,Joshua Nelson,Negeri Sembilan,TikTok Shop
+TRX-1400,2026-02-27,Kurta Slim Fit,1,92.76,Jeffrey Atkinson,Kedah,TikTok Shop
+TRX-1401,2026-01-11,Kurta Slim Fit,3,31.92,Jennifer Williams,Perlis,TikTok Shop
+TRX-1402,2026-01-18,Baju Kurung Moden,10,136.26,Brian Logan,Perlis,Shopee
+TRX-1403,2026-02-28,Tudung Bawal,6,68.45,Carly Roman,Negeri Sembilan,TikTok Shop
+TRX-1404,2026-01-07,Baju Kurung Moden,2,28.42,Eric Norton,Selangor,Shopee
+TRX-1405,2026-02-19,Baju Kurung Moden,3,79.56,Michael Grant,Sabah,Shopee
+TRX-1406,2026-02-19,Kain Pelikat,7,56.36,Derrick Robertson,Sabah,Shopee
+TRX-1407,2026-03-19,Baju Kurung Moden,8,70.79,Melissa Young,Sabah,TikTok Shop
+TRX-1408,2026-02-23,Sampul Raya,1,107.24,Tammy Olson,Melaka,Shopee
+TRX-1409,2026-02-28,Kurta Slim Fit,9,93.11,Nancy Herrera,Perak,Shopee
+TRX-1410,2026-03-26,Kurta Slim Fit,9,55.92,Thomas Wilson,Kedah,TikTok Shop
+TRX-1411,2026-03-07,Kain Pelikat,2,46.35,Rebecca Woods,Selangor,TikTok Shop
+TRX-1412,2026-04-14,Kain Pelikat,1,36.66,Stephen Vega,Perak,Shopee
+TRX-1413,2026-03-10,Tudung Bawal,9,108.75,Sarah Levy,Penang,Shopee
+TRX-1414,2026-01-20,Baju Kurung Moden,4,100.26,Daisy Cruz,Sarawak,TikTok Shop
+TRX-1415,2026-01-20,Kurta Slim Fit,9,134.28,Jeremiah Oliver,Negeri Sembilan,Shopee
+TRX-1416,2026-03-29,Sampul Raya,9,125.01,Rebecca Rodriguez,Sabah,Shopee
+TRX-1417,2026-02-15,Tudung Bawal,2,9.9,Brenda Jackson,Negeri Sembilan,TikTok Shop
+TRX-1418,2026-03-16,Sampul Raya,8,97.78,Keith Shaffer,Selangor,Shopee
+TRX-1419,2026-04-09,Baju Kurung Moden,3,33.79,Dr. Kenneth Young,Perlis,Shopee
+TRX-1420,2026-03-06,Kain Pelikat,1,24.01,Wanda Cisneros,Johor,TikTok Shop
+TRX-1421,2026-02-22,Kurta Slim Fit,6,113.1,Kristin Young,Perlis,TikTok Shop
+TRX-1422,2026-01-10,Sampul Raya,1,9.3,Mary Grant,Kelantan,Shopee
+TRX-1423,2026-01-13,Tudung Bawal,4,67.63,Travis Peterson,Perlis,Shopee
+TRX-1424,2026-04-06,Tudung Bawal,9,100.47,Curtis Hansen,Penang,Shopee
+TRX-1425,2026-03-24,Tudung Bawal,4,15.99,Melissa Liu,Sabah,TikTok Shop
+TRX-1426,2026-01-16,Tudung Bawal,10,75.7,Christopher Shaw,Perlis,Shopee
+TRX-1427,2026-01-31,Tudung Bawal,8,11.79,John Mcgee,Negeri Sembilan,TikTok Shop
+TRX-1428,2026-01-28,Kurta Slim Fit,5,74.79,Michael Beck,Kedah,Shopee
+TRX-1429,2026-01-10,Tudung Bawal,4,115.96,Aaron Carter,Perak,Shopee
+TRX-1430,2026-04-11,Tudung Bawal,2,24.56,Brandon Walker,Negeri Sembilan,TikTok Shop
+TRX-1431,2026-03-14,Kain Pelikat,1,43.99,Christine Turner,Perlis,Shopee
+TRX-1432,2026-04-01,Baju Kurung Moden,9,132.99,Jamie Smith,Sabah,TikTok Shop
+TRX-1433,2026-02-04,Sampul Raya,9,109.11,Troy Lewis,Perak,TikTok Shop
+TRX-1434,2026-03-11,Tudung Bawal,2,117.47,Sharon Wong,Sabah,Shopee
+TRX-1435,2026-01-24,Kain Pelikat,6,23.74,Kathleen Daniels,Sabah,Shopee
+TRX-1436,2026-03-03,Kurta Slim Fit,10,30.67,Joshua Guerrero,Perak,TikTok Shop
+TRX-1437,2026-02-20,Tudung Bawal,6,108.01,Heather Bailey,Kelantan,Shopee
+TRX-1438,2026-02-24,Tudung Bawal,6,27.69,Regina Benitez,Sarawak,TikTok Shop
+TRX-1439,2026-03-10,Kurta Slim Fit,8,6.9,Ryan Hale,Johor,Shopee
+TRX-1440,2026-01-14,Baju Kurung Moden,6,117.17,Devin Adams,Selangor,TikTok Shop
+TRX-1441,2026-04-06,Kurta Slim Fit,7,147.73,Robyn Kaufman,Perak,TikTok Shop
+TRX-1442,2026-03-16,Baju Kurung Moden,4,56.83,Jason Turner,Penang,Shopee
+TRX-1443,2026-04-14,Kain Pelikat,2,123.37,Matthew Acosta,Kedah,TikTok Shop
+TRX-1444,2026-02-02,Kurta Slim Fit,8,136.52,Jane Flores,Johor,TikTok Shop
+TRX-1445,2026-02-26,Sampul Raya,2,141.89,Lisa Hall,Penang,TikTok Shop
+TRX-1446,2026-03-23,Kurta Slim Fit,5,10.86,Brenda Barajas,Negeri Sembilan,Shopee
+TRX-1447,2026-01-04,Tudung Bawal,8,64.14,Andrew Walton,Penang,TikTok Shop
+TRX-1448,2026-03-18,Tudung Bawal,1,43.94,Robert Skinner,Penang,TikTok Shop
+TRX-1449,2026-03-07,Kurta Slim Fit,2,76.44,Amber Pratt,Kelantan,TikTok Shop
+TRX-1450,2026-03-29,Tudung Bawal,1,137.52,Jacob Carrillo,Kedah,Shopee
+TRX-1451,2026-02-24,Kurta Slim Fit,9,31.31,Dennis Reyes,Sabah,TikTok Shop
+TRX-1452,2026-01-31,Sampul Raya,7,106.33,Teresa Wood,Perak,TikTok Shop
+TRX-1453,2026-03-22,Tudung Bawal,1,104.1,Elizabeth Harris,Selangor,TikTok Shop
+TRX-1454,2026-03-23,Kurta Slim Fit,7,22.71,Billy Weaver,Perlis,TikTok Shop
+TRX-1455,2026-01-05,Kain Pelikat,4,121.89,Sydney Scott,Johor,Shopee
+TRX-1456,2026-03-11,Kurta Slim Fit,7,128.21,Brian Wilson,Penang,TikTok Shop
+TRX-1457,2026-03-07,Kain Pelikat,6,139.98,Bill Sellers,Sabah,Shopee
+TRX-1458,2026-03-09,Tudung Bawal,6,121.29,Crystal Sullivan,Sarawak,Shopee
+TRX-1459,2026-03-26,Baju Kurung Moden,8,85.22,Mary Hernandez,Kedah,Shopee
+TRX-1460,2026-02-28,Baju Kurung Moden,10,53.61,Ryan Lyons,Sarawak,TikTok Shop
+TRX-1461,2026-01-29,Kurta Slim Fit,1,93.09,Erica Patton,Kelantan,Shopee
+TRX-1462,2026-03-09,Tudung Bawal,4,44.83,Jessica Young,Kelantan,Shopee
+TRX-1463,2026-01-05,Baju Kurung Moden,6,22.49,Jessica Wilson,Melaka,Shopee
+TRX-1464,2026-01-24,Sampul Raya,9,82.05,Brian Combs,Kedah,TikTok Shop
+TRX-1465,2026-01-31,Sampul Raya,1,22.12,Dr. Cynthia Wood,Sabah,Shopee
+TRX-1466,2026-02-06,Tudung Bawal,2,117.09,Kendra Coleman,Kedah,TikTok Shop
+TRX-1467,2026-02-14,Sampul Raya,7,47.81,Vicki Potter,Sabah,Shopee
+TRX-1468,2026-04-07,Tudung Bawal,2,58.11,Dennis Norton,Sabah,TikTok Shop
+TRX-1469,2026-02-08,Baju Kurung Moden,6,119.13,Jasmine Bean,Penang,TikTok Shop
+TRX-1470,2026-02-12,Kain Pelikat,6,144.5,Amanda Hughes,Sarawak,TikTok Shop
+TRX-1471,2026-01-12,Kurta Slim Fit,7,40.86,Jennifer Le,Sarawak,Shopee
+TRX-1472,2026-02-20,Baju Kurung Moden,2,101.38,Suzanne Kelly,Johor,TikTok Shop
+TRX-1473,2026-01-31,Tudung Bawal,9,36.65,Omar Ramsey,Sabah,Shopee
+TRX-1474,2026-04-11,Tudung Bawal,1,30.09,Kayla Stanley,Kedah,TikTok Shop
+TRX-1475,2026-03-16,Tudung Bawal,2,10.8,Samantha Buck,Selangor,Shopee
+TRX-1476,2026-01-30,Sampul Raya,8,123.66,Heather Bailey,Perak,TikTok Shop
+TRX-1477,2026-03-01,Tudung Bawal,4,144.39,Nicholas Davila,Sabah,TikTok Shop
+TRX-1478,2026-01-29,Sampul Raya,5,107.25,Anna Garza,Negeri Sembilan,TikTok Shop
+TRX-1479,2026-03-24,Kurta Slim Fit,8,44.47,Sharon Nunez,Penang,TikTok Shop
+TRX-1480,2026-01-18,Baju Kurung Moden,9,137.95,Cynthia Lopez,Penang,TikTok Shop
+TRX-1481,2026-03-18,Kurta Slim Fit,8,44.66,Michelle Lewis,Melaka,TikTok Shop
+TRX-1482,2026-01-09,Kain Pelikat,8,103.81,Brian Kennedy,Sarawak,Shopee
+TRX-1483,2026-02-05,Tudung Bawal,1,94.98,Wesley Gates,Melaka,Shopee
+TRX-1484,2026-01-07,Kain Pelikat,1,141.29,Joel Logan,Penang,TikTok Shop
+TRX-1485,2026-04-02,Kain Pelikat,6,76.32,Danielle Perez,Sarawak,TikTok Shop
+TRX-1486,2026-01-24,Baju Kurung Moden,8,50.15,Melissa Herring,Kedah,Shopee
+TRX-1487,2026-03-14,Kain Pelikat,4,5.96,Amy Palmer,Perak,Shopee
+TRX-1488,2026-04-11,Baju Kurung Moden,9,22.58,Tamara West,Johor,TikTok Shop
+TRX-1489,2026-01-08,Kurta Slim Fit,2,70.9,Alexis Burton,Sabah,TikTok Shop
+TRX-1490,2026-03-02,Kurta Slim Fit,4,24.31,Robert Ewing,Perlis,Shopee
+TRX-1491,2026-02-23,Kurta Slim Fit,2,20.48,Katherine Thompson,Kedah,TikTok Shop
+TRX-1492,2026-01-11,Kain Pelikat,1,8.81,Daniel Roy,Selangor,Shopee
+TRX-1493,2026-03-17,Sampul Raya,1,100.99,Brian Powell,Sarawak,Shopee
+TRX-1494,2026-01-17,Sampul Raya,3,11.17,Mary James,Sabah,Shopee
+TRX-1495,2026-02-09,Sampul Raya,1,49.72,Jacob Schwartz,Sarawak,TikTok Shop
+TRX-1496,2026-03-16,Kain Pelikat,10,71.4,Angel Williams,Perak,Shopee
+TRX-1497,2026-04-03,Tudung Bawal,1,37.28,Heather Skinner,Sabah,Shopee
+TRX-1498,2026-03-07,Tudung Bawal,8,133.95,Brian Diaz,Johor,Shopee
+TRX-1499,2026-03-04,Tudung Bawal,8,43.94,Diane Franklin,Selangor,TikTok Shop
+TRX-1500,2026-01-13,Kurta Slim Fit,5,63.4,Jeffrey Garcia,Penang,TikTok Shop
+TRX-1501,2026-02-11,Tudung Bawal,4,33.6,Ethan Williams,Kedah,TikTok Shop
+TRX-1502,2026-02-10,Sampul Raya,3,45.73,Robert Lindsey,Negeri Sembilan,TikTok Shop
+TRX-1503,2026-01-01,Kurta Slim Fit,4,30.73,James Larson,Melaka,Shopee
+TRX-1504,2026-03-08,Kurta Slim Fit,4,131.71,Christopher Nelson,Johor,Shopee
+TRX-1505,2026-02-28,Kurta Slim Fit,7,38.95,Sean Miller,Sabah,TikTok Shop
+TRX-1506,2026-03-21,Kurta Slim Fit,2,81.23,Brian Duncan,Kedah,TikTok Shop
+TRX-1507,2026-04-05,Tudung Bawal,7,103.29,Nicole Zavala,Sabah,Shopee
+TRX-1508,2026-03-10,Tudung Bawal,4,123.7,James Lynn,Negeri Sembilan,TikTok Shop
+TRX-1509,2026-04-07,Tudung Bawal,2,34.64,Francisco Jones,Melaka,Shopee
+TRX-1510,2026-03-19,Kain Pelikat,8,35.11,Brandy Beck,Sarawak,TikTok Shop
+TRX-1511,2026-01-06,Sampul Raya,9,137.34,Amy Coleman,Sarawak,Shopee
+TRX-1512,2026-01-21,Tudung Bawal,9,37.14,Nicholas Travis,Melaka,TikTok Shop
+TRX-1513,2026-02-16,Kurta Slim Fit,3,95.26,Mr. Brian Odonnell,Sarawak,TikTok Shop
+TRX-1514,2026-04-09,Sampul Raya,3,57.68,Jeffrey Mccormick,Perak,TikTok Shop
+TRX-1515,2026-02-01,Sampul Raya,4,117.91,Mr. Roy Vang,Kelantan,TikTok Shop
+TRX-1516,2026-01-30,Sampul Raya,5,93.86,Darlene Mueller,Sabah,Shopee
+TRX-1517,2026-03-06,Tudung Bawal,6,10.51,Jessica Chen,Perlis,Shopee
+TRX-1518,2026-01-25,Kain Pelikat,6,15.57,Kaitlyn Rodgers,Melaka,TikTok Shop
+TRX-1519,2026-02-10,Sampul Raya,9,70.04,Terry Martinez,Melaka,TikTok Shop
+TRX-1520,2026-02-26,Kurta Slim Fit,8,144.82,Robin Mora,Sabah,Shopee
+TRX-1521,2026-03-21,Kurta Slim Fit,3,30.38,Michael Fisher,Negeri Sembilan,TikTok Shop
+TRX-1522,2026-02-25,Kain Pelikat,8,96.52,Joseph Gonzalez,Perlis,Shopee
+TRX-1523,2026-02-17,Kurta Slim Fit,9,81.39,Jerome Davis,Melaka,TikTok Shop
+TRX-1524,2026-01-07,Kain Pelikat,10,75.64,Jacqueline Garcia,Selangor,Shopee
+TRX-1525,2026-03-03,Baju Kurung Moden,1,34.84,Gary Gonzalez,Sabah,Shopee
+TRX-1526,2026-02-23,Tudung Bawal,7,107.69,Anthony Garcia,Kedah,Shopee
+TRX-1527,2026-04-12,Kain Pelikat,2,68.42,Sarah Yu,Sabah,Shopee
+TRX-1528,2026-02-23,Sampul Raya,8,83.17,Rhonda Roberts,Sarawak,Shopee
+TRX-1529,2026-03-06,Kurta Slim Fit,1,104.18,Christopher Hardin,Negeri Sembilan,TikTok Shop
+TRX-1530,2026-01-14,Baju Kurung Moden,4,10.98,Jonathan Jackson,Sabah,TikTok Shop
+TRX-1531,2026-04-01,Tudung Bawal,7,144.01,Leroy Jones,Sabah,TikTok Shop
+TRX-1532,2026-02-28,Sampul Raya,10,9.51,Samantha Walton,Penang,TikTok Shop
+TRX-1533,2026-01-02,Tudung Bawal,9,29.79,Alison Martinez,Sabah,Shopee
+TRX-1534,2026-03-06,Kain Pelikat,7,75.02,Eric Moses,Kelantan,TikTok Shop
+TRX-1535,2026-04-13,Tudung Bawal,1,22.69,Carlos White,Selangor,Shopee
+TRX-1536,2026-03-21,Sampul Raya,7,17.44,Karen Alexander,Kelantan,Shopee
+TRX-1537,2026-02-01,Kurta Slim Fit,9,105.44,Jennifer West,Perak,Shopee
+TRX-1538,2026-04-14,Tudung Bawal,8,146.12,Jason Edwards,Perak,Shopee
+TRX-1539,2026-03-17,Baju Kurung Moden,7,70.68,Karl Harrison,Perak,Shopee
+TRX-1540,2026-02-16,Baju Kurung Moden,4,108.58,Teresa Chase,Perlis,TikTok Shop
+TRX-1541,2026-03-12,Baju Kurung Moden,5,98.8,Jared Fitzpatrick,Perlis,TikTok Shop
+TRX-1542,2026-01-18,Kurta Slim Fit,3,46.14,Karen Odonnell,Melaka,TikTok Shop
+TRX-1543,2026-03-06,Kurta Slim Fit,6,55.52,Patrick Martinez,Sarawak,Shopee
+TRX-1544,2026-04-15,Kain Pelikat,4,138.19,Ronald Johnson,Kelantan,Shopee
+TRX-1545,2026-02-04,Kurta Slim Fit,4,78.16,Wesley West,Kedah,Shopee
+TRX-1546,2026-03-11,Baju Kurung Moden,9,65.7,Martha Olson,Perlis,TikTok Shop
+TRX-1547,2026-04-14,Sampul Raya,9,79.52,Linda Jones,Negeri Sembilan,Shopee
+TRX-1548,2026-01-15,Baju Kurung Moden,9,76.01,Brenda Smith,Perlis,Shopee
+TRX-1549,2026-01-26,Kurta Slim Fit,2,101.74,Rachel Stewart,Kelantan,Shopee
+TRX-1550,2026-01-26,Tudung Bawal,4,140.92,Elizabeth Saunders,Negeri Sembilan,TikTok Shop
+TRX-1551,2026-01-22,Kurta Slim Fit,10,7.31,Sarah Johnson,Johor,Shopee
+TRX-1552,2026-02-14,Kurta Slim Fit,3,61.45,Dr. Christine Allen,Melaka,Shopee
+TRX-1553,2026-01-14,Kain Pelikat,4,8.69,Christopher Lambert,Selangor,TikTok Shop
+TRX-1554,2026-03-30,Kurta Slim Fit,2,25.09,Brian Smith,Sabah,Shopee
+TRX-1555,2026-04-09,Sampul Raya,7,27.61,Roger Gilbert,Kelantan,TikTok Shop
+TRX-1556,2026-02-14,Sampul Raya,2,81.0,Tammy Ellis,Sabah,TikTok Shop
+TRX-1557,2026-03-18,Baju Kurung Moden,3,103.77,Jennifer Watson,Johor,Shopee
+TRX-1558,2026-03-25,Tudung Bawal,7,55.43,Amber Miller,Perak,TikTok Shop
+TRX-1559,2026-01-28,Kurta Slim Fit,10,78.55,Bonnie Anderson,Sarawak,Shopee
+TRX-1560,2026-01-06,Baju Kurung Moden,6,12.77,Dan Bailey,Kedah,TikTok Shop
+TRX-1561,2026-02-27,Sampul Raya,7,83.21,Morgan Turner,Melaka,Shopee
+TRX-1562,2026-02-05,Kurta Slim Fit,5,44.11,John Frost,Johor,TikTok Shop
+TRX-1563,2026-03-03,Sampul Raya,10,6.17,Karen Mccullough,Perak,Shopee
+TRX-1564,2026-02-25,Tudung Bawal,6,124.44,Fred Martinez,Perak,Shopee
+TRX-1565,2026-02-27,Baju Kurung Moden,6,59.08,Andrew Adams,Sabah,TikTok Shop
+TRX-1566,2026-01-16,Kain Pelikat,6,68.49,Amy Lin,Sabah,TikTok Shop
+TRX-1567,2026-01-02,Baju Kurung Moden,1,103.43,Ryan Ray,Selangor,TikTok Shop
+TRX-1568,2026-02-02,Tudung Bawal,7,27.99,Robert Hunt,Selangor,Shopee
+TRX-1569,2026-01-03,Baju Kurung Moden,4,9.65,Jose Lewis,Sabah,TikTok Shop
+TRX-1570,2026-02-22,Kain Pelikat,8,129.8,Wesley Dixon,Johor,Shopee
+TRX-1571,2026-03-12,Kurta Slim Fit,5,44.39,Patricia Lopez,Johor,TikTok Shop
+TRX-1572,2026-01-27,Baju Kurung Moden,5,143.84,Beth Reed,Sabah,Shopee
+TRX-1573,2026-01-26,Sampul Raya,4,66.76,Rachel Lucero,Sarawak,Shopee
+TRX-1574,2026-03-17,Baju Kurung Moden,1,36.51,Cody Morales,Kedah,TikTok Shop
+TRX-1575,2026-01-29,Kain Pelikat,6,80.91,Zachary Edwards,Kelantan,TikTok Shop
+TRX-1576,2026-03-06,Sampul Raya,8,109.0,Jessica Wood,Perak,TikTok Shop
+TRX-1577,2026-03-28,Tudung Bawal,7,126.91,Danny Miller,Sarawak,Shopee
+TRX-1578,2026-04-12,Sampul Raya,7,86.69,William Martinez,Melaka,TikTok Shop
+TRX-1579,2026-02-14,Kain Pelikat,8,94.66,Patrick Martinez,Perlis,Shopee
+TRX-1580,2026-04-04,Kain Pelikat,6,115.49,Robert Cherry,Kedah,TikTok Shop
+TRX-1581,2026-01-22,Baju Kurung Moden,8,113.35,Ashley Richardson,Penang,TikTok Shop
+TRX-1582,2026-03-05,Tudung Bawal,6,39.57,Ricky Morales,Kedah,TikTok Shop
+TRX-1583,2026-03-05,Sampul Raya,8,63.58,Joel Schultz,Johor,Shopee
+TRX-1584,2026-02-27,Kain Pelikat,7,114.95,Ronald Ortiz,Johor,TikTok Shop
+TRX-1585,2026-02-18,Tudung Bawal,9,110.95,Alexander Smith,Kedah,TikTok Shop
+TRX-1586,2026-04-15,Baju Kurung Moden,5,32.67,Joshua Wright,Johor,Shopee
+TRX-1587,2026-02-03,Kurta Slim Fit,10,130.77,Daniel Burke,Melaka,Shopee
+TRX-1588,2026-03-24,Kurta Slim Fit,8,137.0,Robin Chung,Kelantan,Shopee
+TRX-1589,2026-03-14,Kurta Slim Fit,10,65.58,Ryan Armstrong,Sabah,TikTok Shop
+TRX-1590,2026-04-11,Kain Pelikat,5,130.26,Meghan Brown,Negeri Sembilan,Shopee
+TRX-1591,2026-01-18,Kain Pelikat,4,32.55,Lauren Guerrero,Kelantan,Shopee
+TRX-1592,2026-02-28,Kurta Slim Fit,4,33.57,Jason Martinez,Selangor,Shopee
+TRX-1593,2026-03-07,Kurta Slim Fit,5,143.32,David Thompson,Kedah,Shopee
+TRX-1594,2026-03-18,Sampul Raya,8,139.16,Thomas Johnson,Kelantan,Shopee
+TRX-1595,2026-01-17,Tudung Bawal,3,137.79,Crystal Day,Perlis,Shopee
+TRX-1596,2026-04-01,Sampul Raya,1,8.81,Mrs. Brooke Delgado,Kelantan,Shopee
+TRX-1597,2026-02-14,Kain Pelikat,3,70.15,Andrew Harris,Penang,TikTok Shop
+TRX-1598,2026-04-15,Sampul Raya,6,97.83,Dean Berg,Melaka,Shopee
+TRX-1599,2026-01-09,Kurta Slim Fit,8,116.21,Timothy Rowe,Sarawak,Shopee
+TRX-1600,2026-02-05,Baju Kurung Moden,3,49.4,Timothy Yang,Negeri Sembilan,TikTok Shop
+TRX-1601,2026-03-31,Tudung Bawal,4,45.58,Amanda Crawford,Selangor,Shopee
+TRX-1602,2026-03-03,Sampul Raya,5,59.49,Robert Alvarado,Sarawak,Shopee
+TRX-1603,2026-03-06,Kurta Slim Fit,3,107.41,Diana Olson,Penang,TikTok Shop
+TRX-1604,2026-03-29,Baju Kurung Moden,4,77.23,Christopher Blanchard,Perak,Shopee
+TRX-1605,2026-02-20,Tudung Bawal,10,76.94,Lisa Cook,Perak,Shopee
+TRX-1606,2026-03-04,Sampul Raya,5,131.99,Dawn Brooks,Kelantan,Shopee
+TRX-1607,2026-03-24,Kurta Slim Fit,10,60.73,Victoria Perez,Penang,Shopee
+TRX-1608,2026-02-23,Kain Pelikat,7,76.86,Jamie Phillips,Johor,Shopee
+TRX-1609,2026-02-25,Sampul Raya,5,146.17,Morgan Thomas,Negeri Sembilan,Shopee
+TRX-1610,2026-02-11,Sampul Raya,9,76.2,Elizabeth Wolfe,Sarawak,TikTok Shop
+TRX-1611,2026-01-11,Baju Kurung Moden,4,132.7,Christina Villarreal,Perak,TikTok Shop
+TRX-1612,2026-02-10,Kain Pelikat,3,10.57,Laura Lewis,Negeri Sembilan,Shopee
+TRX-1613,2026-01-19,Kain Pelikat,2,87.54,Robert Smith,Penang,TikTok Shop
+TRX-1614,2026-03-15,Kain Pelikat,3,132.27,Jimmy Pierce,Melaka,Shopee
+TRX-1615,2026-02-23,Sampul Raya,3,146.64,Shirley Carpenter,Negeri Sembilan,Shopee
+TRX-1616,2026-01-08,Baju Kurung Moden,8,27.85,Sarah Williams,Johor,TikTok Shop
+TRX-1617,2026-01-09,Kurta Slim Fit,6,142.98,Teresa Bell,Perlis,Shopee
+TRX-1618,2026-03-01,Baju Kurung Moden,7,25.33,Karen Brown,Sabah,Shopee
+TRX-1619,2026-04-04,Kurta Slim Fit,3,126.3,Nicholas Burke,Selangor,Shopee
+TRX-1620,2026-03-17,Tudung Bawal,1,106.07,Vincent Preston,Sarawak,Shopee
+TRX-1621,2026-03-17,Sampul Raya,8,116.0,Mrs. Angela Oliver,Penang,TikTok Shop
+TRX-1622,2026-02-22,Kain Pelikat,9,104.6,Kayla Bowers,Perlis,Shopee
+TRX-1623,2026-04-02,Kurta Slim Fit,8,119.3,Amanda Leonard,Sabah,TikTok Shop
+TRX-1624,2026-03-22,Baju Kurung Moden,3,18.27,Ruth Weber,Sabah,Shopee
+TRX-1625,2026-01-14,Sampul Raya,3,129.8,Omar Wilkinson,Melaka,Shopee
+TRX-1626,2026-01-11,Kurta Slim Fit,4,73.98,Antonio Jones,Perak,Shopee
+TRX-1627,2026-02-25,Kurta Slim Fit,6,144.68,John Howard,Perlis,TikTok Shop
+TRX-1628,2026-01-25,Tudung Bawal,9,41.02,Eric Blanchard,Perak,TikTok Shop
+TRX-1629,2026-04-05,Baju Kurung Moden,5,113.18,Christopher Gordon,Negeri Sembilan,TikTok Shop
+TRX-1630,2026-03-26,Baju Kurung Moden,5,22.33,Cassandra Allen,Kedah,Shopee
+TRX-1631,2026-01-13,Baju Kurung Moden,4,41.53,Christopher Henry,Penang,TikTok Shop
+TRX-1632,2026-03-12,Sampul Raya,1,105.85,Roger Werner,Kelantan,TikTok Shop
+TRX-1633,2026-03-23,Sampul Raya,2,49.05,Meredith Gray,Selangor,Shopee
+TRX-1634,2026-02-02,Kain Pelikat,5,144.47,Erica Sexton,Kelantan,Shopee
+TRX-1635,2026-04-02,Tudung Bawal,8,126.18,Ryan Clark,Perak,Shopee
+TRX-1636,2026-03-26,Kurta Slim Fit,4,115.54,Devin Buckley,Perlis,Shopee
+TRX-1637,2026-04-04,Baju Kurung Moden,1,82.82,Fernando Allen,Negeri Sembilan,TikTok Shop
+TRX-1638,2026-03-28,Tudung Bawal,7,133.98,Chad Mitchell,Sarawak,TikTok Shop
+TRX-1639,2026-03-09,Sampul Raya,2,69.74,Tristan Ferguson,Selangor,TikTok Shop
+TRX-1640,2026-01-24,Baju Kurung Moden,1,81.8,Ryan Hill,Negeri Sembilan,Shopee
+TRX-1641,2026-03-06,Sampul Raya,5,89.17,Gregory Hunter,Perlis,TikTok Shop
+TRX-1642,2026-01-21,Baju Kurung Moden,10,64.13,Christopher Wilson,Sabah,Shopee
+TRX-1643,2026-01-13,Baju Kurung Moden,10,71.79,Andrew Garcia,Johor,TikTok Shop
+TRX-1644,2026-04-14,Tudung Bawal,2,77.42,Kristen Calhoun,Perlis,Shopee
+TRX-1645,2026-01-13,Tudung Bawal,4,37.29,Danielle Costa,Perlis,Shopee
+TRX-1646,2026-03-03,Sampul Raya,3,78.46,Kevin Williams,Perak,TikTok Shop
+TRX-1647,2026-03-07,Kurta Slim Fit,5,24.55,Samantha Cole,Penang,TikTok Shop
+TRX-1648,2026-02-19,Sampul Raya,3,144.63,Brittany Powell,Perlis,Shopee
+TRX-1649,2026-02-08,Tudung Bawal,2,21.77,Joseph Conrad,Kedah,Shopee
+TRX-1650,2026-02-27,Tudung Bawal,1,141.77,Stephanie Davis,Perak,Shopee
+TRX-1651,2026-03-23,Kain Pelikat,10,6.91,Megan Ramirez,Johor,Shopee
+TRX-1652,2026-02-27,Kain Pelikat,5,63.57,Brian Wright,Sabah,TikTok Shop
+TRX-1653,2026-01-07,Tudung Bawal,9,7.8,Jacqueline Kennedy,Selangor,Shopee
+TRX-1654,2026-04-11,Baju Kurung Moden,9,146.76,Rebecca Taylor,Negeri Sembilan,Shopee
+TRX-1655,2026-02-26,Sampul Raya,6,79.74,Philip Weaver,Selangor,Shopee
+TRX-1656,2026-01-07,Sampul Raya,10,43.59,John Owens,Perlis,Shopee
+TRX-1657,2026-03-09,Kurta Slim Fit,5,135.72,Mark Small,Melaka,TikTok Shop
+TRX-1658,2026-04-08,Sampul Raya,3,33.42,Nicole Gomez,Perak,TikTok Shop
+TRX-1659,2026-04-13,Sampul Raya,4,9.68,Ricky Madden,Penang,Shopee
+TRX-1660,2026-04-15,Sampul Raya,8,63.68,Heather Burgess,Kelantan,Shopee
+TRX-1661,2026-01-13,Kain Pelikat,8,35.23,William White,Sabah,TikTok Shop
+TRX-1662,2026-02-11,Tudung Bawal,3,144.41,Kathryn Whitney,Johor,Shopee
+TRX-1663,2026-02-12,Sampul Raya,3,91.74,Ashley Jenkins,Kedah,TikTok Shop
+TRX-1664,2026-02-19,Kain Pelikat,7,38.09,Cathy Moore,Perlis,Shopee
+TRX-1665,2026-02-25,Baju Kurung Moden,4,43.15,Juan Cook,Sabah,TikTok Shop
+TRX-1666,2026-02-15,Tudung Bawal,10,5.08,Melinda West,Sarawak,Shopee
+TRX-1667,2026-01-09,Tudung Bawal,3,52.33,Kristina Warner,Kelantan,TikTok Shop
+TRX-1668,2026-03-18,Tudung Bawal,7,79.33,Jerry Cortez,Johor,TikTok Shop
+TRX-1669,2026-02-19,Kain Pelikat,10,10.77,Cassandra Reed,Kelantan,Shopee
+TRX-1670,2026-03-26,Sampul Raya,6,61.92,Joshua Richardson,Kedah,Shopee
+TRX-1671,2026-04-15,Sampul Raya,9,126.79,Sean Barr,Sabah,TikTok Shop
+TRX-1672,2026-02-25,Kurta Slim Fit,9,64.07,Crystal Stanley,Johor,TikTok Shop
+TRX-1673,2026-01-11,Sampul Raya,9,41.14,Kayla Mullen,Sarawak,TikTok Shop
+TRX-1674,2026-04-02,Kain Pelikat,8,81.64,Sandra Page,Johor,Shopee
+TRX-1675,2026-03-20,Kain Pelikat,2,123.94,Kelly Santos,Melaka,TikTok Shop
+TRX-1676,2026-04-06,Tudung Bawal,8,92.62,Susan Ball,Selangor,TikTok Shop
+TRX-1677,2026-01-28,Kain Pelikat,1,118.93,Angela Barnes,Selangor,TikTok Shop
+TRX-1678,2026-03-13,Tudung Bawal,3,136.99,Keith Cummings,Sabah,Shopee
+TRX-1679,2026-04-01,Sampul Raya,2,43.38,Timothy Walker,Penang,Shopee
+TRX-1680,2026-01-12,Tudung Bawal,5,13.01,Theresa Price,Perlis,Shopee
+TRX-1681,2026-01-29,Tudung Bawal,4,108.9,Lynn Robinson,Kedah,TikTok Shop
+TRX-1682,2026-04-02,Kurta Slim Fit,4,140.54,Heather Little,Melaka,Shopee
+TRX-1683,2026-02-27,Kurta Slim Fit,1,147.25,Mary Oconnor,Selangor,Shopee
+TRX-1684,2026-01-15,Kain Pelikat,2,113.93,Joshua Clark,Sabah,TikTok Shop
+TRX-1685,2026-02-02,Kain Pelikat,1,8.29,Rachel Bailey,Melaka,TikTok Shop
+TRX-1686,2026-01-29,Baju Kurung Moden,3,35.16,Shirley Hendrix,Kelantan,TikTok Shop
+TRX-1687,2026-03-19,Kurta Slim Fit,1,133.26,Julie Alexander,Selangor,TikTok Shop
+TRX-1688,2026-04-01,Kurta Slim Fit,1,44.63,Jordan Simpson,Sabah,Shopee
+TRX-1689,2026-01-10,Sampul Raya,6,103.89,David Scott,Penang,TikTok Shop
+TRX-1690,2026-01-24,Tudung Bawal,1,136.84,Michael Walsh,Perlis,Shopee
+TRX-1691,2026-03-15,Sampul Raya,2,48.63,Yolanda Sullivan,Sabah,TikTok Shop
+TRX-1692,2026-03-11,Baju Kurung Moden,9,23.69,Benjamin Campbell,Perlis,TikTok Shop
+TRX-1693,2026-01-09,Tudung Bawal,10,64.11,James Zamora,Kelantan,TikTok Shop
+TRX-1694,2026-01-12,Kurta Slim Fit,6,20.76,Edward Fuentes,Perak,TikTok Shop
+TRX-1695,2026-03-29,Sampul Raya,7,40.03,Hannah Stephens,Kelantan,Shopee
+TRX-1696,2026-03-26,Kain Pelikat,7,70.09,Charles Alvarado,Sarawak,Shopee
+TRX-1697,2026-01-13,Tudung Bawal,6,71.78,Angel Hampton,Perak,TikTok Shop
+TRX-1698,2026-01-13,Kain Pelikat,6,103.48,Steven Lewis,Penang,Shopee
+TRX-1699,2026-03-30,Sampul Raya,6,22.42,Shelly Mcintyre,Perak,TikTok Shop
+TRX-1700,2026-02-23,Baju Kurung Moden,6,84.07,Harry Mayo,Selangor,TikTok Shop
+TRX-1701,2026-02-15,Kurta Slim Fit,8,111.06,Jon Murphy,Perak,TikTok Shop
+TRX-1702,2026-02-01,Baju Kurung Moden,6,38.65,Catherine Pierce,Perak,TikTok Shop
+TRX-1703,2026-02-24,Tudung Bawal,6,43.74,Douglas Boone,Negeri Sembilan,Shopee
+TRX-1704,2026-03-05,Kain Pelikat,8,142.44,Stephen Murray,Negeri Sembilan,TikTok Shop
+TRX-1705,2026-04-14,Baju Kurung Moden,10,128.27,Christopher Zimmerman,Kedah,Shopee
+TRX-1706,2026-02-28,Tudung Bawal,9,113.7,Erik Simmons,Negeri Sembilan,TikTok Shop
+TRX-1707,2026-03-24,Kurta Slim Fit,9,40.01,Morgan Vazquez,Penang,TikTok Shop
+TRX-1708,2026-03-03,Kurta Slim Fit,7,68.14,Alex Butler,Sarawak,TikTok Shop
+TRX-1709,2026-02-17,Kain Pelikat,3,84.02,John Garcia,Perak,Shopee
+TRX-1710,2026-02-16,Tudung Bawal,8,8.11,Trevor Kelley,Johor,TikTok Shop
+TRX-1711,2026-02-02,Baju Kurung Moden,10,93.87,Jessica Scott,Selangor,Shopee
+TRX-1712,2026-01-21,Kurta Slim Fit,1,98.78,Marie Randall,Sarawak,TikTok Shop
+TRX-1713,2026-02-09,Kurta Slim Fit,10,7.89,Amy Morales,Perlis,Shopee
+TRX-1714,2026-01-22,Tudung Bawal,5,53.31,Nicole Stephens,Penang,Shopee
+TRX-1715,2026-03-29,Kurta Slim Fit,4,62.13,Erik Salazar,Perlis,Shopee
+TRX-1716,2026-04-13,Baju Kurung Moden,7,105.79,Robin Gonzalez,Johor,TikTok Shop
+TRX-1717,2026-04-06,Tudung Bawal,1,65.49,Riley Johnson,Sarawak,Shopee
+TRX-1718,2026-03-08,Tudung Bawal,4,126.79,Michael Zimmerman,Selangor,Shopee
+TRX-1719,2026-03-25,Sampul Raya,2,108.44,Kimberly Alexander,Johor,Shopee
+TRX-1720,2026-04-01,Kain Pelikat,9,140.91,Samuel Wilson,Johor,Shopee
+TRX-1721,2026-01-29,Kain Pelikat,7,35.19,Christine Martinez,Selangor,Shopee
+TRX-1722,2026-01-22,Kurta Slim Fit,5,125.9,Mr. Benjamin Martinez,Melaka,Shopee
+TRX-1723,2026-03-18,Sampul Raya,5,76.2,Christine Herrera,Sarawak,Shopee
+TRX-1724,2026-01-30,Tudung Bawal,2,79.98,Brian Silva,Melaka,Shopee
+TRX-1725,2026-02-04,Kain Pelikat,3,88.63,Jennifer Johnson,Sarawak,Shopee
+TRX-1726,2026-02-17,Kain Pelikat,6,143.35,Laura Jones,Sabah,TikTok Shop
+TRX-1727,2026-02-15,Sampul Raya,2,99.59,Christine Bradley,Melaka,TikTok Shop
+TRX-1728,2026-03-25,Tudung Bawal,3,140.9,Charles Hurley,Kelantan,Shopee
+TRX-1729,2026-03-31,Sampul Raya,9,109.99,Melissa Anderson,Kedah,Shopee
+TRX-1730,2026-02-17,Tudung Bawal,7,97.85,Johnny Marshall,Johor,TikTok Shop
+TRX-1731,2026-02-10,Kurta Slim Fit,1,15.8,Douglas Li,Johor,TikTok Shop
+TRX-1732,2026-04-06,Baju Kurung Moden,9,46.6,Jason Hodges,Perak,TikTok Shop
+TRX-1733,2026-03-07,Sampul Raya,10,71.53,Deanna Ray,Sarawak,TikTok Shop
+TRX-1734,2026-02-07,Sampul Raya,1,83.26,Kristin Johnston,Melaka,Shopee
+TRX-1735,2026-03-04,Sampul Raya,9,127.5,Molly Zuniga,Perlis,Shopee
+TRX-1736,2026-04-06,Sampul Raya,9,13.08,Michael West,Johor,Shopee
+TRX-1737,2026-03-04,Sampul Raya,1,66.02,Zachary Garcia,Melaka,Shopee
+TRX-1738,2026-01-09,Tudung Bawal,9,65.86,Darren West,Negeri Sembilan,TikTok Shop
+TRX-1739,2026-04-08,Baju Kurung Moden,6,83.08,Andrea Gray,Kedah,Shopee
+TRX-1740,2026-01-08,Tudung Bawal,8,53.62,Madison Grimes,Selangor,Shopee
+TRX-1741,2026-03-18,Sampul Raya,8,143.74,Jodi Vang,Sabah,Shopee
+TRX-1742,2026-03-24,Baju Kurung Moden,10,22.05,Richard Wood MD,Kedah,Shopee
+TRX-1743,2026-01-03,Tudung Bawal,1,89.98,Kristen Harris,Johor,Shopee
+TRX-1744,2026-03-15,Kurta Slim Fit,5,41.44,Matthew Nguyen,Sarawak,TikTok Shop
+TRX-1745,2026-01-09,Baju Kurung Moden,6,46.55,Ms. Courtney Thompson,Kedah,TikTok Shop
+TRX-1746,2026-01-12,Sampul Raya,10,6.38,Maurice Fischer Jr.,Sarawak,Shopee
+TRX-1747,2026-01-31,Sampul Raya,10,140.78,Julia Barnes,Negeri Sembilan,TikTok Shop
+TRX-1748,2026-01-09,Sampul Raya,10,25.84,Grace Lewis,Selangor,TikTok Shop
+TRX-1749,2026-03-15,Tudung Bawal,6,74.95,Barbara Gonzalez,Melaka,Shopee
+TRX-1750,2026-04-06,Tudung Bawal,1,102.63,Eileen Smith,Kedah,Shopee
+TRX-1751,2026-02-05,Kurta Slim Fit,10,114.39,Katherine Weber,Kedah,TikTok Shop
+TRX-1752,2026-03-28,Sampul Raya,6,74.74,Caitlyn Robinson,Sarawak,Shopee
+TRX-1753,2026-04-10,Kain Pelikat,5,143.5,Susan Stanton,Perak,TikTok Shop
+TRX-1754,2026-04-10,Kain Pelikat,7,128.07,Stacy Mason,Perak,Shopee
+TRX-1755,2026-02-13,Kurta Slim Fit,6,80.15,Frank Graham,Kedah,TikTok Shop
+TRX-1756,2026-01-03,Kain Pelikat,8,43.26,Steven Peterson,Sarawak,TikTok Shop
+TRX-1757,2026-03-22,Sampul Raya,8,91.33,Timothy Hudson,Johor,TikTok Shop
+TRX-1758,2026-03-31,Sampul Raya,8,110.62,Janice Jennings,Kedah,Shopee
+TRX-1759,2026-01-06,Tudung Bawal,8,105.85,Walter Evans,Sarawak,Shopee
+TRX-1760,2026-01-20,Baju Kurung Moden,1,125.68,Cheyenne Santiago,Perlis,TikTok Shop
+TRX-1761,2026-04-02,Tudung Bawal,10,107.86,Sara Krueger,Perak,TikTok Shop
+TRX-1762,2026-01-22,Sampul Raya,6,84.43,Teresa Henderson,Sarawak,Shopee
+TRX-1763,2026-02-15,Kurta Slim Fit,4,143.59,Robert Rodriguez,Sabah,Shopee
+TRX-1764,2026-03-26,Sampul Raya,2,33.6,Jeffrey Bernard,Penang,TikTok Shop
+TRX-1765,2026-04-13,Kurta Slim Fit,7,62.14,Brett White,Selangor,TikTok Shop
+TRX-1766,2026-01-04,Tudung Bawal,7,145.98,Samuel Green,Johor,TikTok Shop
+TRX-1767,2026-03-22,Sampul Raya,2,62.33,Colleen Gaines,Kedah,TikTok Shop
+TRX-1768,2026-03-08,Kain Pelikat,8,51.29,Lori Lewis,Kelantan,Shopee
+TRX-1769,2026-01-09,Baju Kurung Moden,2,14.81,Valerie Crawford,Johor,Shopee
+TRX-1770,2026-02-11,Kain Pelikat,7,88.55,Samuel Burch,Selangor,TikTok Shop
+TRX-1771,2026-03-06,Tudung Bawal,6,107.83,Matthew Butler,Kelantan,TikTok Shop
+TRX-1772,2026-01-10,Kain Pelikat,4,144.56,Keith Mathews,Sabah,TikTok Shop
+TRX-1773,2026-02-08,Kain Pelikat,7,58.23,Mark Watkins,Sabah,Shopee
+TRX-1774,2026-03-13,Baju Kurung Moden,3,111.1,Abigail Jones,Sabah,Shopee
+TRX-1775,2026-04-08,Tudung Bawal,5,46.95,Alexander Mack,Kedah,TikTok Shop
+TRX-1776,2026-03-15,Kain Pelikat,6,116.99,Adrian Ramirez,Melaka,TikTok Shop
+TRX-1777,2026-01-23,Kain Pelikat,4,66.1,Derek Fernandez,Perak,Shopee
+TRX-1778,2026-04-01,Sampul Raya,2,128.87,Joseph Hernandez,Sabah,Shopee
+TRX-1779,2026-02-25,Kain Pelikat,3,149.86,Deanna Miller,Negeri Sembilan,TikTok Shop
+TRX-1780,2026-04-13,Kain Pelikat,5,149.17,Mr. Chad Reed,Melaka,Shopee
+TRX-1781,2026-01-21,Tudung Bawal,1,49.88,Michael Ramirez,Kelantan,Shopee
+TRX-1782,2026-02-26,Kurta Slim Fit,8,100.8,Melvin Johnson,Melaka,TikTok Shop
+TRX-1783,2026-03-19,Kurta Slim Fit,5,51.5,Mark Roman,Perlis,Shopee
+TRX-1784,2026-03-30,Tudung Bawal,7,42.13,Nicholas Barton,Johor,TikTok Shop
+TRX-1785,2026-04-04,Kurta Slim Fit,5,11.62,Michael Gray,Sabah,Shopee
+TRX-1786,2026-04-01,Tudung Bawal,5,34.79,James Bryant,Sarawak,TikTok Shop
+TRX-1787,2026-01-15,Baju Kurung Moden,2,39.3,Aaron Barnes,Perak,TikTok Shop
+TRX-1788,2026-02-19,Baju Kurung Moden,6,95.82,Garrett Barber,Kedah,TikTok Shop
+TRX-1789,2026-02-07,Tudung Bawal,5,122.13,Jean Gillespie,Sabah,TikTok Shop
+TRX-1790,2026-03-22,Kurta Slim Fit,4,148.05,Brooke Fitzpatrick,Kedah,TikTok Shop
+TRX-1791,2026-02-12,Kurta Slim Fit,2,63.13,April Brown,Johor,TikTok Shop
+TRX-1792,2026-01-26,Kurta Slim Fit,9,59.43,Erik Dunn,Selangor,Shopee
+TRX-1793,2026-04-09,Tudung Bawal,8,19.34,Tyler Gonzales,Melaka,TikTok Shop
+TRX-1794,2026-04-14,Sampul Raya,10,133.1,Chase Moore,Perak,TikTok Shop
+TRX-1795,2026-03-29,Sampul Raya,5,98.6,Megan Foster,Perlis,TikTok Shop
+TRX-1796,2026-03-03,Kain Pelikat,10,30.42,Calvin Andrews,Kelantan,TikTok Shop
+TRX-1797,2026-03-05,Kain Pelikat,3,25.24,Christina Wood DDS,Penang,TikTok Shop
+TRX-1798,2026-02-03,Kain Pelikat,8,86.74,Diane Morrison,Sarawak,TikTok Shop
+TRX-1799,2026-03-03,Baju Kurung Moden,4,80.46,Robert Gonzalez,Sabah,Shopee
+TRX-1800,2026-04-14,Sampul Raya,4,12.23,Kimberly Adams,Sarawak,TikTok Shop
+TRX-1801,2026-04-10,Sampul Raya,9,125.18,Yolanda Ruiz,Negeri Sembilan,TikTok Shop
+TRX-1802,2026-01-29,Kurta Slim Fit,9,59.99,Allison Curry,Kelantan,TikTok Shop
+TRX-1803,2026-03-14,Tudung Bawal,6,139.24,Eric Yates,Negeri Sembilan,Shopee
+TRX-1804,2026-01-23,Baju Kurung Moden,8,74.47,Christian Parrish,Kedah,Shopee
+TRX-1805,2026-01-05,Sampul Raya,10,100.5,William Pena,Kelantan,Shopee
+TRX-1806,2026-02-12,Sampul Raya,2,27.73,Erica Cruz,Penang,TikTok Shop
+TRX-1807,2026-01-14,Baju Kurung Moden,4,23.41,Christine Zhang,Selangor,TikTok Shop
+TRX-1808,2026-03-20,Tudung Bawal,5,12.34,Jean Smith,Perlis,Shopee
+TRX-1809,2026-03-08,Sampul Raya,1,105.7,Jennifer Patrick,Johor,TikTok Shop
+TRX-1810,2026-01-17,Kain Pelikat,3,138.08,Richard Reed,Sarawak,Shopee
+TRX-1811,2026-01-30,Sampul Raya,10,131.27,Donald Barrera,Johor,TikTok Shop
+TRX-1812,2026-01-17,Tudung Bawal,4,69.72,Andrew Holland,Negeri Sembilan,Shopee
+TRX-1813,2026-04-14,Baju Kurung Moden,2,8.16,Matthew Estrada,Perlis,TikTok Shop
+TRX-1814,2026-04-04,Tudung Bawal,1,57.56,Thomas White,Kelantan,TikTok Shop
+TRX-1815,2026-03-08,Baju Kurung Moden,6,76.04,Brooke Oconnell,Melaka,TikTok Shop
+TRX-1816,2026-01-08,Sampul Raya,8,83.17,Andrea Rubio,Perlis,Shopee
+TRX-1817,2026-03-15,Kain Pelikat,1,69.99,Ms. Jessica Herrera,Penang,Shopee
+TRX-1818,2026-02-05,Baju Kurung Moden,10,34.83,Peggy Long,Johor,TikTok Shop
+TRX-1819,2026-04-04,Baju Kurung Moden,5,116.24,Karen Silva,Penang,TikTok Shop
+TRX-1820,2026-03-30,Baju Kurung Moden,7,76.15,Margaret Nelson,Penang,Shopee
+TRX-1821,2026-03-12,Sampul Raya,8,78.09,Stephen King,Johor,Shopee
+TRX-1822,2026-02-17,Kurta Slim Fit,6,34.01,Tara Blackburn,Perlis,Shopee
+TRX-1823,2026-02-14,Sampul Raya,1,118.75,Joseph Cummings,Perlis,TikTok Shop
+TRX-1824,2026-01-01,Kain Pelikat,9,141.46,Aaron Avila,Kedah,TikTok Shop
+TRX-1825,2026-01-01,Sampul Raya,1,74.78,David Watts,Perak,Shopee
+TRX-1826,2026-01-27,Kurta Slim Fit,1,36.42,Kathy Ward,Melaka,TikTok Shop
+TRX-1827,2026-04-08,Tudung Bawal,4,149.86,Nancy Gray,Selangor,Shopee
+TRX-1828,2026-04-07,Kain Pelikat,5,36.51,Timothy Martinez,Perak,Shopee
+TRX-1829,2026-01-05,Tudung Bawal,8,33.81,Sharon Arias,Selangor,Shopee
+TRX-1830,2026-01-06,Kurta Slim Fit,7,22.11,Melanie Williams,Penang,Shopee
+TRX-1831,2026-03-03,Kurta Slim Fit,1,72.73,Rhonda Santos,Kelantan,TikTok Shop
+TRX-1832,2026-01-24,Tudung Bawal,6,56.09,Ariel Smith,Penang,TikTok Shop
+TRX-1833,2026-03-10,Kain Pelikat,3,52.84,Amber Davidson,Kedah,TikTok Shop
+TRX-1834,2026-03-26,Baju Kurung Moden,4,15.87,Denise Vaughn,Penang,TikTok Shop
+TRX-1835,2026-04-14,Sampul Raya,2,20.04,Keith Mitchell,Johor,Shopee
+TRX-1836,2026-02-15,Baju Kurung Moden,9,126.08,Melinda Oliver,Sabah,Shopee
+TRX-1837,2026-02-09,Kurta Slim Fit,5,143.47,Andrew Lopez,Johor,Shopee
+TRX-1838,2026-02-20,Kurta Slim Fit,6,112.74,Joan Jackson MD,Johor,Shopee
+TRX-1839,2026-03-27,Kain Pelikat,1,119.43,William Beltran,Sabah,TikTok Shop
+TRX-1840,2026-01-22,Tudung Bawal,2,62.77,Zachary Martin,Negeri Sembilan,TikTok Shop
+TRX-1841,2026-02-02,Kain Pelikat,1,51.21,James Reyes MD,Selangor,Shopee
+TRX-1842,2026-01-13,Kurta Slim Fit,2,74.68,Victoria Rhodes,Selangor,TikTok Shop
+TRX-1843,2026-04-10,Kain Pelikat,1,31.16,Cassidy Moore,Melaka,TikTok Shop
+TRX-1844,2026-02-11,Kain Pelikat,10,53.66,Mr. Jonathan Bell,Perlis,TikTok Shop
+TRX-1845,2026-01-01,Tudung Bawal,7,139.93,Scott Dixon,Penang,Shopee
+TRX-1846,2026-01-24,Baju Kurung Moden,7,139.89,Makayla Walsh,Selangor,Shopee
+TRX-1847,2026-03-03,Tudung Bawal,4,78.33,Gary Walls,Penang,TikTok Shop
+TRX-1848,2026-02-14,Kain Pelikat,1,110.65,Margaret Ford,Kedah,TikTok Shop
+TRX-1849,2026-03-16,Baju Kurung Moden,10,119.1,Ryan Taylor,Sabah,TikTok Shop
+TRX-1850,2026-01-14,Tudung Bawal,9,56.34,Amy Roman,Kedah,Shopee
+TRX-1851,2026-01-18,Baju Kurung Moden,2,106.83,Amanda Davis,Negeri Sembilan,TikTok Shop
+TRX-1852,2026-03-22,Kurta Slim Fit,6,54.38,Melanie Hernandez,Negeri Sembilan,Shopee
+TRX-1853,2026-01-31,Baju Kurung Moden,9,18.57,Steve Davenport,Kedah,TikTok Shop
+TRX-1854,2026-02-03,Tudung Bawal,4,27.96,Timothy Wright,Kedah,TikTok Shop
+TRX-1855,2026-03-18,Sampul Raya,3,64.57,Karen Gomez,Kelantan,TikTok Shop
+TRX-1856,2026-02-21,Kain Pelikat,1,56.21,Arthur Meadows,Johor,Shopee
+TRX-1857,2026-02-12,Tudung Bawal,9,110.75,Joshua Nelson,Kedah,TikTok Shop
+TRX-1858,2026-02-25,Baju Kurung Moden,3,36.81,Justin Bass,Perak,TikTok Shop
+TRX-1859,2026-02-05,Sampul Raya,9,35.28,John Harding,Penang,TikTok Shop
+TRX-1860,2026-04-15,Sampul Raya,2,129.76,Lauren Ball,Kelantan,Shopee
+TRX-1861,2026-04-14,Sampul Raya,1,123.63,Heather Woods,Penang,TikTok Shop
+TRX-1862,2026-01-09,Kurta Slim Fit,4,52.17,Linda Hernandez,Johor,TikTok Shop
+TRX-1863,2026-01-02,Baju Kurung Moden,9,134.72,Susan Hurst,Selangor,Shopee
+TRX-1864,2026-01-09,Baju Kurung Moden,2,119.36,Nichole Best,Perlis,Shopee
+TRX-1865,2026-03-25,Tudung Bawal,5,103.54,Hannah Farrell,Perlis,TikTok Shop
+TRX-1866,2026-01-21,Kain Pelikat,3,57.19,Nicole Bryant,Melaka,TikTok Shop
+TRX-1867,2026-01-10,Sampul Raya,2,89.05,Joshua Davis,Melaka,TikTok Shop
+TRX-1868,2026-01-27,Tudung Bawal,7,13.83,Jonathan Wilkins,Johor,Shopee
+TRX-1869,2026-03-07,Baju Kurung Moden,7,21.3,Mckenzie Hughes,Perlis,TikTok Shop
+TRX-1870,2026-03-25,Kurta Slim Fit,9,135.25,Samantha Carpenter,Johor,TikTok Shop
+TRX-1871,2026-02-21,Sampul Raya,3,88.36,Michael Johnson,Perak,TikTok Shop
+TRX-1872,2026-03-10,Sampul Raya,8,46.71,Randy Thomas,Selangor,Shopee
+TRX-1873,2026-01-24,Kurta Slim Fit,6,5.49,Steven Johnson,Kedah,TikTok Shop
+TRX-1874,2026-01-01,Kurta Slim Fit,4,133.64,Amanda Wilson,Melaka,TikTok Shop
+TRX-1875,2026-03-19,Baju Kurung Moden,8,108.2,Mr. Christopher Long,Sarawak,TikTok Shop
+TRX-1876,2026-03-06,Baju Kurung Moden,3,114.58,Mr. Kevin Payne,Johor,Shopee
+TRX-1877,2026-04-13,Tudung Bawal,9,81.83,Sara Figueroa,Melaka,TikTok Shop
+TRX-1878,2026-04-04,Kain Pelikat,4,83.85,John Ward,Selangor,Shopee
+TRX-1879,2026-01-06,Tudung Bawal,3,21.25,Heather Willis,Kedah,Shopee
+TRX-1880,2026-03-19,Tudung Bawal,2,68.82,Daniel Lane,Melaka,Shopee
+TRX-1881,2026-04-13,Sampul Raya,6,24.49,Megan Smith,Kedah,Shopee
+TRX-1882,2026-03-01,Sampul Raya,4,73.97,Rachel Clements,Sabah,Shopee
+TRX-1883,2026-02-02,Baju Kurung Moden,9,103.91,Gregory Esparza,Sabah,TikTok Shop
+TRX-1884,2026-02-18,Tudung Bawal,5,19.49,Lisa Hampton,Negeri Sembilan,Shopee
+TRX-1885,2026-02-17,Sampul Raya,3,28.03,Jonathan Hobbs,Melaka,Shopee
+TRX-1886,2026-02-08,Baju Kurung Moden,10,54.52,Jill Owens,Johor,Shopee
+TRX-1887,2026-01-15,Sampul Raya,5,32.34,Tina Vega,Kelantan,Shopee
+TRX-1888,2026-03-28,Tudung Bawal,3,37.1,Andrea Smith,Kedah,Shopee
+TRX-1889,2026-03-07,Tudung Bawal,6,135.08,Sarah White,Kedah,TikTok Shop
+TRX-1890,2026-04-11,Tudung Bawal,5,89.02,Jennifer Wilson,Selangor,Shopee
+TRX-1891,2026-04-04,Kurta Slim Fit,10,33.92,Albert Foster,Johor,Shopee
+TRX-1892,2026-02-13,Tudung Bawal,4,58.12,Thomas Vazquez,Kelantan,Shopee
+TRX-1893,2026-04-02,Sampul Raya,1,5.27,Ashley Murphy,Sarawak,TikTok Shop
+TRX-1894,2026-01-21,Kain Pelikat,8,100.67,Elizabeth Fleming,Penang,Shopee
+TRX-1895,2026-01-20,Kain Pelikat,5,148.46,Charles Anderson,Perlis,Shopee
+TRX-1896,2026-03-23,Kain Pelikat,10,121.17,Michele Harvey,Perak,Shopee
+TRX-1897,2026-02-11,Baju Kurung Moden,3,78.64,Rebecca Owen,Kelantan,Shopee
+TRX-1898,2026-03-11,Tudung Bawal,9,72.2,Andrew Shaw,Perlis,Shopee
+TRX-1899,2026-03-08,Kurta Slim Fit,4,8.61,Dana Jones,Selangor,Shopee
+TRX-1900,2026-02-11,Kurta Slim Fit,4,45.12,Cody Charles,Sarawak,Shopee
+TRX-1901,2026-02-08,Sampul Raya,10,16.55,Rachel Baker,Sarawak,Shopee
+TRX-1902,2026-03-11,Kain Pelikat,10,71.19,Brett Stephens,Negeri Sembilan,TikTok Shop
+TRX-1903,2026-03-19,Sampul Raya,8,85.31,Melissa Thomas,Selangor,Shopee
+TRX-1904,2026-03-20,Baju Kurung Moden,6,149.4,Clayton Sullivan,Perak,Shopee
+TRX-1905,2026-04-14,Kurta Slim Fit,4,58.17,Holly Martinez,Penang,Shopee
+TRX-1906,2026-02-26,Tudung Bawal,9,50.39,Dr. Claudia Williams MD,Kedah,TikTok Shop
+TRX-1907,2026-03-04,Kain Pelikat,5,94.37,Paula Baxter,Sabah,Shopee
+TRX-1908,2026-02-09,Baju Kurung Moden,1,60.88,Dawn Mccarty,Negeri Sembilan,TikTok Shop
+TRX-1909,2026-04-11,Tudung Bawal,3,8.65,Robert Blackwell,Kedah,TikTok Shop
+TRX-1910,2026-01-20,Baju Kurung Moden,5,51.21,Mitchell Shields,Kedah,TikTok Shop
+TRX-1911,2026-02-27,Sampul Raya,8,102.63,David Smith,Johor,Shopee
+TRX-1912,2026-02-17,Sampul Raya,5,63.91,Richard Smith,Perak,TikTok Shop
+TRX-1913,2026-01-11,Baju Kurung Moden,1,57.58,Nicole Bailey,Kelantan,Shopee
+TRX-1914,2026-01-05,Baju Kurung Moden,8,73.9,Richard Atkinson,Kedah,TikTok Shop
+TRX-1915,2026-04-15,Kurta Slim Fit,6,103.63,Susan Meyers,Selangor,Shopee
+TRX-1916,2026-04-04,Tudung Bawal,5,34.89,Rachel Chandler,Kedah,TikTok Shop
+TRX-1917,2026-03-25,Sampul Raya,4,88.6,Lisa Rodriguez,Johor,TikTok Shop
+TRX-1918,2026-03-24,Tudung Bawal,4,68.69,Heidi Taylor,Negeri Sembilan,TikTok Shop
+TRX-1919,2026-03-04,Tudung Bawal,9,85.72,Christie Keller,Perak,TikTok Shop
+TRX-1920,2026-03-12,Kurta Slim Fit,1,73.68,Mr. Brett Michael DDS,Sarawak,Shopee
+TRX-1921,2026-04-08,Kurta Slim Fit,10,122.05,Dr. Kayla Campbell,Kelantan,TikTok Shop
+TRX-1922,2026-02-01,Tudung Bawal,4,108.12,Robert Hughes,Melaka,Shopee
+TRX-1923,2026-01-21,Sampul Raya,9,77.12,Jamie Stewart,Kedah,Shopee
+TRX-1924,2026-02-03,Tudung Bawal,1,81.43,Timothy Garcia,Kelantan,TikTok Shop
+TRX-1925,2026-03-20,Tudung Bawal,10,148.42,Jamie Parker,Kelantan,TikTok Shop
+TRX-1926,2026-01-12,Kurta Slim Fit,5,5.84,Lindsey Diaz,Selangor,TikTok Shop
+TRX-1927,2026-02-15,Tudung Bawal,5,91.0,Henry Valenzuela,Melaka,Shopee
+TRX-1928,2026-04-02,Baju Kurung Moden,1,57.74,Juan Craig,Sabah,TikTok Shop
+TRX-1929,2026-01-11,Baju Kurung Moden,1,25.43,Jerome White,Sarawak,Shopee
+TRX-1930,2026-03-24,Kurta Slim Fit,5,79.46,Tammy Martin,Sabah,TikTok Shop
+TRX-1931,2026-01-29,Kurta Slim Fit,6,83.05,Erica Myers,Johor,TikTok Shop
+TRX-1932,2026-03-13,Kurta Slim Fit,3,133.54,Kenneth Elliott,Sabah,Shopee
+TRX-1933,2026-03-27,Baju Kurung Moden,6,119.11,Sara Fisher,Penang,Shopee
+TRX-1934,2026-01-04,Baju Kurung Moden,5,131.27,Sandra Bond,Selangor,TikTok Shop
+TRX-1935,2026-04-07,Sampul Raya,3,40.53,Mark Davis,Sarawak,Shopee
+TRX-1936,2026-03-01,Kurta Slim Fit,7,42.9,James West,Johor,TikTok Shop
+TRX-1937,2026-02-25,Kurta Slim Fit,5,126.5,Michael Paul,Penang,TikTok Shop
+TRX-1938,2026-03-06,Sampul Raya,10,70.06,Michael Alvarado,Negeri Sembilan,TikTok Shop
+TRX-1939,2026-02-07,Kain Pelikat,7,149.99,William Henry,Johor,TikTok Shop
+TRX-1940,2026-01-17,Sampul Raya,9,145.34,Meagan Duke,Perak,Shopee
+TRX-1941,2026-03-27,Kurta Slim Fit,4,119.82,Kyle Zuniga,Sabah,Shopee
+TRX-1942,2026-04-08,Kain Pelikat,2,55.4,Stephanie Meyers,Sabah,TikTok Shop
+TRX-1943,2026-02-08,Kurta Slim Fit,9,105.64,John Wright,Perlis,Shopee
+TRX-1944,2026-03-17,Baju Kurung Moden,2,105.79,James Stephenson,Sabah,TikTok Shop
+TRX-1945,2026-03-12,Sampul Raya,3,100.59,Jeffrey Murphy,Sabah,Shopee
+TRX-1946,2026-01-04,Kurta Slim Fit,4,52.13,Allison Payne,Sabah,Shopee
+TRX-1947,2026-02-20,Kurta Slim Fit,5,60.75,Jenna Arnold,Kelantan,TikTok Shop
+TRX-1948,2026-02-02,Sampul Raya,9,93.37,Katrina Anderson,Perlis,TikTok Shop
+TRX-1949,2026-02-17,Baju Kurung Moden,6,81.23,Gregory Nelson,Sarawak,Shopee
+TRX-1950,2026-03-30,Kain Pelikat,7,46.42,Cole Neal,Sarawak,Shopee
+TRX-1951,2026-03-13,Sampul Raya,2,102.81,Dennis Parker,Sabah,Shopee
+TRX-1952,2026-02-24,Baju Kurung Moden,2,144.01,David Hill,Sabah,TikTok Shop
+TRX-1953,2026-04-05,Sampul Raya,8,68.47,Brian Cantu,Melaka,TikTok Shop
+TRX-1954,2026-01-01,Sampul Raya,9,70.44,Jessica Ashley,Sabah,TikTok Shop
+TRX-1955,2026-02-07,Kurta Slim Fit,3,130.03,Brian Middleton,Kedah,Shopee
+TRX-1956,2026-01-14,Kurta Slim Fit,6,72.04,Brandon Zhang,Sarawak,TikTok Shop
+TRX-1957,2026-03-17,Kain Pelikat,8,38.84,Rachel Espinoza,Perlis,Shopee
+TRX-1958,2026-02-07,Baju Kurung Moden,5,135.87,Crystal Ellis,Sarawak,Shopee
+TRX-1959,2026-03-20,Sampul Raya,6,106.3,Blake Anderson,Kedah,Shopee
+TRX-1960,2026-01-06,Baju Kurung Moden,6,74.96,April Blackwell,Melaka,TikTok Shop
+TRX-1961,2026-01-16,Kurta Slim Fit,3,103.5,Katherine Thompson,Melaka,TikTok Shop
+TRX-1962,2026-01-06,Sampul Raya,6,94.96,Derek Young,Johor,Shopee
+TRX-1963,2026-02-04,Baju Kurung Moden,3,16.11,Michelle Anderson,Kedah,Shopee
+TRX-1964,2026-03-07,Sampul Raya,9,101.72,Linda Cox,Penang,Shopee
+TRX-1965,2026-04-06,Kain Pelikat,2,15.9,Brittany Powell,Sabah,TikTok Shop
+TRX-1966,2026-01-29,Baju Kurung Moden,2,82.57,Joshua Lin,Penang,Shopee
+TRX-1967,2026-02-25,Baju Kurung Moden,3,9.33,William Abbott,Perak,Shopee
+TRX-1968,2026-01-11,Kurta Slim Fit,6,80.33,Brenda Turner,Johor,Shopee
+TRX-1969,2026-02-09,Sampul Raya,10,82.87,Kelly Warren,Selangor,Shopee
+TRX-1970,2026-03-17,Tudung Bawal,1,109.43,Eric Sanchez,Negeri Sembilan,Shopee
+TRX-1971,2026-01-16,Tudung Bawal,10,53.04,Darrell Curtis,Melaka,TikTok Shop
+TRX-1972,2026-01-08,Kain Pelikat,6,30.41,Amber Smith,Melaka,TikTok Shop
+TRX-1973,2026-03-31,Tudung Bawal,9,128.67,Marcus Davidson,Sabah,Shopee
+TRX-1974,2026-03-12,Sampul Raya,7,130.31,Renee Burton,Selangor,TikTok Shop
+TRX-1975,2026-02-13,Sampul Raya,2,42.92,Michael Johnson,Johor,TikTok Shop
+TRX-1976,2026-02-21,Tudung Bawal,10,138.45,James Hernandez,Melaka,Shopee
+TRX-1977,2026-03-29,Kurta Slim Fit,4,148.58,Jacqueline Herring,Kedah,TikTok Shop
+TRX-1978,2026-01-24,Baju Kurung Moden,5,34.28,Erica Larson,Sarawak,Shopee
+TRX-1979,2026-04-06,Kain Pelikat,10,92.01,Amanda Levy,Negeri Sembilan,Shopee
+TRX-1980,2026-01-29,Baju Kurung Moden,2,55.51,Timothy Fitzgerald,Kelantan,TikTok Shop
+TRX-1981,2026-01-08,Kain Pelikat,1,102.28,Tracie Rodriguez,Selangor,Shopee
+TRX-1982,2026-03-01,Kurta Slim Fit,8,21.61,Jennifer Campbell,Sabah,TikTok Shop
+TRX-1983,2026-04-14,Sampul Raya,3,100.54,Jill Ochoa,Johor,TikTok Shop
+TRX-1984,2026-02-19,Tudung Bawal,7,80.88,Belinda Vaughn,Sabah,TikTok Shop
+TRX-1985,2026-02-15,Kain Pelikat,8,23.21,Mark Gomez,Kelantan,TikTok Shop
+TRX-1986,2026-01-27,Sampul Raya,10,81.63,Michele Maldonado,Kelantan,Shopee
+TRX-1987,2026-01-10,Baju Kurung Moden,5,13.59,Michael Lopez,Johor,TikTok Shop
+TRX-1988,2026-03-27,Baju Kurung Moden,4,11.62,Erin Jones,Penang,Shopee
+TRX-1989,2026-02-21,Kain Pelikat,10,121.85,Samantha Wood,Penang,TikTok Shop
+TRX-1990,2026-04-04,Sampul Raya,9,28.98,Christie Walls,Johor,TikTok Shop
+TRX-1991,2026-02-01,Tudung Bawal,6,31.45,Austin Carlson,Kedah,TikTok Shop
+TRX-1992,2026-03-04,Tudung Bawal,8,67.31,Stephanie Morgan,Negeri Sembilan,Shopee
+TRX-1993,2026-02-01,Kain Pelikat,6,33.9,Jonathan Bell,Kelantan,Shopee
+TRX-1994,2026-03-22,Kain Pelikat,10,13.93,Tamara Garner,Kelantan,Shopee
+TRX-1995,2026-02-25,Kurta Slim Fit,7,45.1,Laurie Taylor,Selangor,TikTok Shop
+TRX-1996,2026-01-11,Kain Pelikat,7,85.55,Jonathan Simmons,Kelantan,Shopee
+TRX-1997,2026-01-14,Kain Pelikat,10,130.89,Timothy Brady,Negeri Sembilan,Shopee
+TRX-1998,2026-04-13,Baju Kurung Moden,9,59.81,Jordan Copeland,Negeri Sembilan,Shopee
+TRX-1999,2026-04-03,Sampul Raya,9,61.92,Emily Davidson,Negeri Sembilan,TikTok Shop
+TRX-2000,2026-03-13,Sampul Raya,4,97.61,Chelsea Kim,Perak,TikTok Shop
+TRX-2001,2026-03-01,Kain Pelikat,5,41.02,Cheyenne Morgan,Penang,TikTok Shop
+TRX-2002,2026-03-22,Kurta Slim Fit,2,131.28,Robert Shannon,Sarawak,Shopee
+TRX-2003,2026-02-06,Baju Kurung Moden,8,65.06,Andrea Robinson,Perak,Shopee
+TRX-2004,2026-01-04,Tudung Bawal,4,14.42,Robert Smith,Perak,Shopee
+TRX-2005,2026-02-20,Tudung Bawal,9,138.96,Erin Morgan,Selangor,Shopee
+TRX-2006,2026-01-25,Baju Kurung Moden,3,21.45,Teresa Nguyen,Kedah,Shopee
+TRX-2007,2026-03-13,Tudung Bawal,10,46.57,Lisa Bradley,Perak,TikTok Shop
+TRX-2008,2026-04-04,Kurta Slim Fit,9,22.44,Betty Mcfarland,Perak,TikTok Shop
+TRX-2009,2026-03-24,Sampul Raya,7,98.81,Christopher Wells,Kelantan,TikTok Shop
+TRX-2010,2026-02-27,Tudung Bawal,8,16.34,Megan Wilson,Sarawak,TikTok Shop
+TRX-2011,2026-04-14,Sampul Raya,3,5.63,April Harvey,Sabah,Shopee
+TRX-2012,2026-01-01,Sampul Raya,2,31.72,Thomas Ellis,Perak,Shopee
+TRX-2013,2026-01-06,Kurta Slim Fit,6,61.55,Kevin Davis,Penang,TikTok Shop
+TRX-2014,2026-03-09,Kurta Slim Fit,8,144.61,John Robinson,Selangor,Shopee
+TRX-2015,2026-02-03,Kain Pelikat,7,129.93,Mrs. Sarah Anderson MD,Melaka,Shopee
+TRX-2016,2026-04-01,Kain Pelikat,4,106.76,John Thomas,Kelantan,TikTok Shop
+TRX-2017,2026-01-18,Sampul Raya,9,74.32,Brian Neal,Kedah,TikTok Shop
+TRX-2018,2026-01-12,Sampul Raya,8,102.05,Brandon Armstrong,Negeri Sembilan,Shopee
+TRX-2019,2026-04-02,Tudung Bawal,10,148.19,Thomas Bonilla,Perak,TikTok Shop
+TRX-2020,2026-02-27,Tudung Bawal,6,141.14,John Shepherd,Penang,Shopee
+TRX-2021,2026-03-26,Sampul Raya,6,5.63,Tiffany Hopkins,Selangor,Shopee
+TRX-2022,2026-02-06,Baju Kurung Moden,5,26.84,Dana Hill,Selangor,TikTok Shop
+TRX-2023,2026-04-09,Sampul Raya,7,60.77,William Jackson,Perlis,TikTok Shop
+TRX-2024,2026-02-26,Baju Kurung Moden,10,14.09,Christopher Booth,Sabah,TikTok Shop
+TRX-2025,2026-01-06,Sampul Raya,6,123.65,Christopher Henderson,Kedah,TikTok Shop
+TRX-2026,2026-02-04,Kurta Slim Fit,3,93.28,Chad Richmond,Kedah,Shopee
+TRX-2027,2026-01-14,Kain Pelikat,3,32.61,Kimberly Garrison,Perlis,TikTok Shop
+TRX-2028,2026-03-30,Tudung Bawal,9,87.48,Colin Espinoza,Melaka,TikTok Shop
+TRX-2029,2026-03-16,Kurta Slim Fit,4,122.56,Gina Shepherd,Sarawak,TikTok Shop
+TRX-2030,2026-04-11,Baju Kurung Moden,4,120.67,Jennifer Brown,Sarawak,TikTok Shop
+TRX-2031,2026-03-01,Sampul Raya,5,59.65,Kayla Stark,Melaka,Shopee
+TRX-2032,2026-02-17,Kain Pelikat,3,25.25,Andrew Boyd,Selangor,Shopee
+TRX-2033,2026-02-12,Kurta Slim Fit,3,102.21,Linda Francis,Melaka,TikTok Shop
+TRX-2034,2026-03-15,Tudung Bawal,10,65.4,James Espinoza,Sabah,TikTok Shop
+TRX-2035,2026-04-02,Sampul Raya,10,22.36,Crystal Burns,Sarawak,Shopee
+TRX-2036,2026-01-12,Sampul Raya,6,53.28,Joshua Johnson,Selangor,Shopee
+TRX-2037,2026-01-26,Baju Kurung Moden,1,138.62,Stephanie Lopez,Negeri Sembilan,Shopee
+TRX-2038,2026-01-31,Baju Kurung Moden,4,8.06,Reginald Stein,Melaka,Shopee
+TRX-2039,2026-02-25,Kurta Slim Fit,4,75.31,Victoria Ford,Johor,TikTok Shop
+TRX-2040,2026-03-25,Kurta Slim Fit,10,79.74,Carol Jones,Sabah,Shopee
+TRX-2041,2026-03-11,Sampul Raya,9,62.71,Steven Nelson,Selangor,Shopee
+TRX-2042,2026-04-02,Baju Kurung Moden,6,139.92,Tara Thomas,Kelantan,TikTok Shop
+TRX-2043,2026-03-21,Kurta Slim Fit,8,5.79,Randy Bell,Sarawak,TikTok Shop
+TRX-2044,2026-03-16,Tudung Bawal,8,27.77,Julie Cooke,Kelantan,Shopee
+TRX-2045,2026-01-13,Baju Kurung Moden,6,137.64,Michael Mckenzie,Melaka,Shopee
+TRX-2046,2026-01-09,Baju Kurung Moden,3,67.85,Melissa Gaines,Penang,TikTok Shop
+TRX-2047,2026-02-03,Baju Kurung Moden,4,124.56,David Richards,Perak,Shopee
+TRX-2048,2026-03-09,Tudung Bawal,9,74.71,Henry Lyons,Kedah,TikTok Shop
+TRX-2049,2026-03-30,Sampul Raya,1,100.93,Charles Rivas,Kelantan,TikTok Shop
+TRX-2050,2026-02-21,Kain Pelikat,7,12.38,Christopher Wiggins,Melaka,TikTok Shop
+TRX-2051,2026-01-30,Baju Kurung Moden,9,25.18,Alejandro Mills,Sarawak,TikTok Shop
+TRX-2052,2026-03-06,Kain Pelikat,8,144.45,Jessica Castro,Selangor,TikTok Shop
+TRX-2053,2026-01-22,Baju Kurung Moden,5,149.52,Alicia Thomas,Negeri Sembilan,TikTok Shop
+TRX-2054,2026-02-26,Kurta Slim Fit,3,9.68,Eric Spears,Perlis,TikTok Shop
+TRX-2055,2026-01-23,Kurta Slim Fit,10,43.87,Bradley Brooks,Sabah,Shopee
+TRX-2056,2026-01-23,Kurta Slim Fit,3,47.39,Amy Douglas,Negeri Sembilan,TikTok Shop
+TRX-2057,2026-03-02,Kain Pelikat,5,147.2,Anthony Shaw,Kelantan,Shopee
+TRX-2058,2026-01-24,Kurta Slim Fit,3,41.24,Evelyn Gonzalez,Penang,Shopee
+TRX-2059,2026-03-30,Sampul Raya,10,100.32,Sarah Smith,Kedah,TikTok Shop
+TRX-2060,2026-02-06,Tudung Bawal,10,130.35,Troy Rhodes,Perlis,TikTok Shop
+TRX-2061,2026-01-29,Tudung Bawal,2,21.04,Jeanne Stevens,Sabah,Shopee
+TRX-2062,2026-01-02,Baju Kurung Moden,2,53.03,Hannah Lucas,Penang,TikTok Shop
+TRX-2063,2026-04-10,Kurta Slim Fit,4,138.17,Jason Lewis,Johor,TikTok Shop
+TRX-2064,2026-01-19,Kain Pelikat,6,124.22,Jennifer Deleon,Melaka,TikTok Shop
+TRX-2065,2026-01-12,Sampul Raya,2,35.3,Amy Johnson,Negeri Sembilan,TikTok Shop
+TRX-2066,2026-01-06,Kain Pelikat,1,32.2,Daniel Jones,Kelantan,TikTok Shop
+TRX-2067,2026-01-05,Kain Pelikat,1,92.28,Mark Davis,Johor,TikTok Shop
+TRX-2068,2026-01-27,Kurta Slim Fit,2,61.98,Frank Johns,Kedah,Shopee
+TRX-2069,2026-01-12,Kain Pelikat,4,121.68,Alexander Dawson,Sarawak,Shopee
+TRX-2070,2026-03-22,Baju Kurung Moden,8,13.56,Ryan Alvarez DVM,Melaka,TikTok Shop
+TRX-2071,2026-02-21,Tudung Bawal,7,21.47,Brenda Oconnor,Selangor,Shopee
+TRX-2072,2026-02-08,Baju Kurung Moden,8,62.9,Rachel Turner,Perak,Shopee
+TRX-2073,2026-02-06,Kain Pelikat,4,76.81,Dennis Sanchez,Penang,TikTok Shop
+TRX-2074,2026-01-04,Kain Pelikat,6,13.2,Wendy Fletcher,Selangor,Shopee
+TRX-2075,2026-04-03,Kain Pelikat,4,93.96,Mr. Timothy Meyer PhD,Perak,Shopee
+TRX-2076,2026-01-24,Kain Pelikat,6,134.04,Stephen Poole,Kedah,Shopee
+TRX-2077,2026-03-12,Baju Kurung Moden,6,36.22,Dave Arnold,Selangor,TikTok Shop
+TRX-2078,2026-04-04,Kain Pelikat,6,112.55,Gregory Ward Jr.,Kelantan,Shopee
+TRX-2079,2026-01-05,Kain Pelikat,4,28.37,Paige Morales,Johor,Shopee
+TRX-2080,2026-04-07,Baju Kurung Moden,4,53.28,Krystal Wright,Penang,TikTok Shop
+TRX-2081,2026-03-30,Kain Pelikat,10,91.95,Elizabeth Olson,Selangor,Shopee
+TRX-2082,2026-01-23,Baju Kurung Moden,4,21.66,Lance Moore,Sabah,TikTok Shop
+TRX-2083,2026-03-06,Tudung Bawal,4,136.29,Tiffany Edwards,Kedah,TikTok Shop
+TRX-2084,2026-04-14,Tudung Bawal,9,107.71,William Higgins,Selangor,Shopee
+TRX-2085,2026-02-13,Kain Pelikat,5,13.15,Tyler Whitehead V,Melaka,TikTok Shop
+TRX-2086,2026-04-02,Kain Pelikat,3,26.66,Chase Newman,Sarawak,TikTok Shop
+TRX-2087,2026-02-26,Tudung Bawal,5,109.81,Joseph Hernandez,Sabah,TikTok Shop
+TRX-2088,2026-01-18,Tudung Bawal,10,88.28,Stacey Ramos,Selangor,Shopee
+TRX-2089,2026-02-02,Sampul Raya,4,135.76,Beverly Butler,Kedah,TikTok Shop
+TRX-2090,2026-03-11,Kurta Slim Fit,6,16.27,Katrina Brock,Melaka,Shopee
+TRX-2091,2026-02-21,Kurta Slim Fit,10,9.93,Kelsey Waller,Melaka,TikTok Shop
+TRX-2092,2026-01-17,Baju Kurung Moden,8,132.03,Pamela Bailey,Perak,TikTok Shop
+TRX-2093,2026-01-30,Baju Kurung Moden,10,91.51,Jennifer Williams,Kedah,Shopee
+TRX-2094,2026-02-20,Tudung Bawal,1,10.11,Jean Hatfield DVM,Sabah,Shopee
+TRX-2095,2026-02-04,Kurta Slim Fit,1,7.27,Hannah Liu,Selangor,Shopee
+TRX-2096,2026-02-21,Sampul Raya,3,123.23,Jennifer Williams,Negeri Sembilan,Shopee
+TRX-2097,2026-04-10,Tudung Bawal,2,132.53,Cassandra Smith,Kedah,Shopee
+TRX-2098,2026-02-11,Baju Kurung Moden,2,147.1,Natalie Mitchell,Penang,TikTok Shop
+TRX-2099,2026-02-09,Tudung Bawal,2,127.3,Kara Smith,Kedah,TikTok Shop
