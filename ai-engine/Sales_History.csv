@@ -1,0 +1,1201 @@
+Order_Date,Product_Name,Category,Quantity,Cost_Price,Unit_Price,Total_Revenue,Platform
+2025-04-26,Kain Pelikat,Clothing,7,12.0,25.0,175.0,Shopee
+2025-04-26,Kain Pelikat,Clothing,6,12.0,25.0,150.0,TikTok
+2025-04-26,Kain Pelikat,Clothing,1,12.0,25.0,25.0,TikTok
+2025-04-26,Sampul Raya,Accessories,8,1.5,5.0,40.0,TikTok
+2025-04-26,Kain Pelikat,Clothing,7,12.0,25.0,175.0,TikTok
+2025-04-27,Sampul Raya,Accessories,8,1.5,5.0,40.0,TikTok
+2025-04-27,Tudung Shawl,Hijab,9,18.0,35.0,315.0,TikTok
+2025-04-27,Tudung Bawal,Hijab,6,15.0,25.0,150.0,Shopee
+2025-04-28,Baju Kurung Moden,Clothing,2,45.0,85.0,170.0,TikTok
+2025-04-28,Tudung Shawl,Hijab,4,18.0,35.0,140.0,TikTok
+2025-04-28,Tudung Bawal,Hijab,1,15.0,25.0,25.0,Shopee
+2025-04-29,Kain Pelikat,Clothing,6,12.0,25.0,150.0,Shopee
+2025-04-29,Baju Kurung Moden,Clothing,10,45.0,85.0,850.0,TikTok
+2025-04-29,Baju Melayu,Clothing,10,50.0,120.0,1200.0,Shopee
+2025-04-30,Baju Kurung Moden,Clothing,9,45.0,85.0,765.0,TikTok
+2025-04-30,Tudung Bawal,Hijab,5,15.0,25.0,125.0,TikTok
+2025-05-01,Sampul Raya,Accessories,5,1.5,5.0,25.0,Shopee
+2025-05-02,Kurta Slim Fit,Clothing,9,35.0,65.0,585.0,Shopee
+2025-05-02,Kurta Slim Fit,Clothing,5,35.0,65.0,325.0,TikTok
+2025-05-02,Kurta Slim Fit,Clothing,8,35.0,65.0,520.0,TikTok
+2025-05-02,Baju Melayu,Clothing,6,50.0,120.0,720.0,Shopee
+2025-05-02,Tudung Bawal,Hijab,6,15.0,25.0,150.0,TikTok
+2025-05-02,Kurta Slim Fit,Clothing,7,35.0,65.0,455.0,Shopee
+2025-05-02,Baju Kurung Moden,Clothing,3,45.0,85.0,255.0,Shopee
+2025-05-03,Baju Melayu,Clothing,3,50.0,120.0,360.0,Shopee
+2025-05-03,Baju Melayu,Clothing,10,50.0,120.0,1200.0,TikTok
+2025-05-04,Tudung Shawl,Hijab,5,18.0,35.0,175.0,TikTok
+2025-05-04,Baju Kurung Moden,Clothing,5,45.0,85.0,425.0,Shopee
+2025-05-04,Tudung Shawl,Hijab,2,18.0,35.0,70.0,TikTok
+2025-05-04,Kurta Slim Fit,Clothing,8,35.0,65.0,520.0,TikTok
+2025-05-05,Sampul Raya,Accessories,10,1.5,5.0,50.0,TikTok
+2025-05-05,Tudung Shawl,Hijab,3,18.0,35.0,105.0,Shopee
+2025-05-05,Kurta Slim Fit,Clothing,2,35.0,65.0,130.0,Shopee
+2025-05-05,Baju Kurung Moden,Clothing,3,45.0,85.0,255.0,TikTok
+2025-05-05,Tudung Shawl,Hijab,4,18.0,35.0,140.0,Shopee
+2025-05-05,Tudung Shawl,Hijab,3,18.0,35.0,105.0,Shopee
+2025-05-06,Baju Melayu,Clothing,2,50.0,120.0,240.0,Shopee
+2025-05-07,Kain Pelikat,Clothing,8,12.0,25.0,200.0,TikTok
+2025-05-07,Kain Pelikat,Clothing,3,12.0,25.0,75.0,TikTok
+2025-05-08,Kain Pelikat,Clothing,8,12.0,25.0,200.0,Shopee
+2025-05-08,Tudung Shawl,Hijab,2,18.0,35.0,70.0,TikTok
+2025-05-08,Sampul Raya,Accessories,2,1.5,5.0,10.0,Shopee
+2025-05-08,Sampul Raya,Accessories,2,1.5,5.0,10.0,TikTok
+2025-05-09,Tudung Shawl,Hijab,2,18.0,35.0,70.0,TikTok
+2025-05-09,Kain Pelikat,Clothing,1,12.0,25.0,25.0,TikTok
+2025-05-09,Tudung Shawl,Hijab,8,18.0,35.0,280.0,TikTok
+2025-05-09,Kain Pelikat,Clothing,5,12.0,25.0,125.0,Shopee
+2025-05-09,Baju Kurung Moden,Clothing,1,45.0,85.0,85.0,TikTok
+2025-05-09,Kain Pelikat,Clothing,1,12.0,25.0,25.0,TikTok
+2025-05-09,Tudung Shawl,Hijab,5,18.0,35.0,175.0,TikTok
+2025-05-10,Kurta Slim Fit,Clothing,1,35.0,65.0,65.0,TikTok
+2025-05-10,Tudung Shawl,Hijab,7,18.0,35.0,245.0,TikTok
+2025-05-10,Baju Melayu,Clothing,10,50.0,120.0,1200.0,TikTok
+2025-05-10,Sampul Raya,Accessories,4,1.5,5.0,20.0,TikTok
+2025-05-11,Tudung Shawl,Hijab,5,18.0,35.0,175.0,TikTok
+2025-05-11,Tudung Shawl,Hijab,10,18.0,35.0,350.0,TikTok
+2025-05-11,Tudung Bawal,Hijab,9,15.0,25.0,225.0,Shopee
+2025-05-11,Tudung Shawl,Hijab,2,18.0,35.0,70.0,Shopee
+2025-05-11,Baju Melayu,Clothing,7,50.0,120.0,840.0,TikTok
+2025-05-12,Baju Melayu,Clothing,4,50.0,120.0,480.0,TikTok
+2025-05-12,Tudung Bawal,Hijab,3,15.0,25.0,75.0,TikTok
+2025-05-12,Kurta Slim Fit,Clothing,4,35.0,65.0,260.0,Shopee
+2025-05-12,Baju Melayu,Clothing,4,50.0,120.0,480.0,Shopee
+2025-05-13,Tudung Shawl,Hijab,10,18.0,35.0,350.0,TikTok
+2025-05-14,Kain Pelikat,Clothing,3,12.0,25.0,75.0,TikTok
+2025-05-14,Kain Pelikat,Clothing,9,12.0,25.0,225.0,Shopee
+2025-05-14,Baju Kurung Moden,Clothing,7,45.0,85.0,595.0,TikTok
+2025-05-14,Tudung Bawal,Hijab,8,15.0,25.0,200.0,Shopee
+2025-05-14,Tudung Shawl,Hijab,7,18.0,35.0,245.0,TikTok
+2025-05-15,Kain Pelikat,Clothing,10,12.0,25.0,250.0,TikTok
+2025-05-15,Baju Kurung Moden,Clothing,4,45.0,85.0,340.0,TikTok
+2025-05-15,Baju Kurung Moden,Clothing,6,45.0,85.0,510.0,Shopee
+2025-05-15,Kurta Slim Fit,Clothing,6,35.0,65.0,390.0,Shopee
+2025-05-15,Kurta Slim Fit,Clothing,6,35.0,65.0,390.0,TikTok
+2025-05-16,Tudung Shawl,Hijab,6,18.0,35.0,210.0,Shopee
+2025-05-16,Kain Pelikat,Clothing,5,12.0,25.0,125.0,Shopee
+2025-05-16,Baju Melayu,Clothing,8,50.0,120.0,960.0,Shopee
+2025-05-17,Baju Kurung Moden,Clothing,9,45.0,85.0,765.0,Shopee
+2025-05-18,Baju Kurung Moden,Clothing,4,45.0,85.0,340.0,TikTok
+2025-05-18,Sampul Raya,Accessories,8,1.5,5.0,40.0,TikTok
+2025-05-19,Baju Melayu,Clothing,1,50.0,120.0,120.0,Shopee
+2025-05-20,Sampul Raya,Accessories,2,1.5,5.0,10.0,TikTok
+2025-05-20,Tudung Shawl,Hijab,7,18.0,35.0,245.0,TikTok
+2025-05-20,Baju Kurung Moden,Clothing,3,45.0,85.0,255.0,TikTok
+2025-05-22,Tudung Bawal,Hijab,1,15.0,25.0,25.0,TikTok
+2025-05-22,Tudung Shawl,Hijab,1,18.0,35.0,35.0,TikTok
+2025-05-23,Kain Pelikat,Clothing,3,12.0,25.0,75.0,Shopee
+2025-05-23,Tudung Bawal,Hijab,5,15.0,25.0,125.0,TikTok
+2025-05-23,Baju Melayu,Clothing,9,50.0,120.0,1080.0,Shopee
+2025-05-24,Tudung Bawal,Hijab,5,15.0,25.0,125.0,TikTok
+2025-05-24,Tudung Shawl,Hijab,6,18.0,35.0,210.0,Shopee
+2025-05-24,Tudung Shawl,Hijab,10,18.0,35.0,350.0,TikTok
+2025-05-24,Baju Melayu,Clothing,1,50.0,120.0,120.0,TikTok
+2025-05-25,Baju Kurung Moden,Clothing,3,45.0,85.0,255.0,Shopee
+2025-05-25,Kain Pelikat,Clothing,3,12.0,25.0,75.0,TikTok
+2025-05-25,Kain Pelikat,Clothing,8,12.0,25.0,200.0,Shopee
+2025-05-26,Sampul Raya,Accessories,3,1.5,5.0,15.0,Shopee
+2025-05-26,Sampul Raya,Accessories,2,1.5,5.0,10.0,TikTok
+2025-05-26,Tudung Bawal,Hijab,9,15.0,25.0,225.0,TikTok
+2025-05-27,Tudung Shawl,Hijab,3,18.0,35.0,105.0,TikTok
+2025-05-27,Baju Kurung Moden,Clothing,3,45.0,85.0,255.0,TikTok
+2025-05-27,Kain Pelikat,Clothing,8,12.0,25.0,200.0,TikTok
+2025-05-27,Baju Kurung Moden,Clothing,8,45.0,85.0,680.0,Shopee
+2025-05-27,Baju Kurung Moden,Clothing,9,45.0,85.0,765.0,Shopee
+2025-05-27,Baju Kurung Moden,Clothing,4,45.0,85.0,340.0,Shopee
+2025-05-28,Baju Kurung Moden,Clothing,3,45.0,85.0,255.0,Shopee
+2025-05-28,Baju Melayu,Clothing,10,50.0,120.0,1200.0,TikTok
+2025-05-29,Tudung Shawl,Hijab,1,18.0,35.0,35.0,Shopee
+2025-05-29,Tudung Bawal,Hijab,2,15.0,25.0,50.0,Shopee
+2025-05-29,Baju Melayu,Clothing,3,50.0,120.0,360.0,TikTok
+2025-05-29,Tudung Bawal,Hijab,8,15.0,25.0,200.0,TikTok
+2025-05-30,Baju Melayu,Clothing,9,50.0,120.0,1080.0,Shopee
+2025-05-31,Baju Melayu,Clothing,1,50.0,120.0,120.0,TikTok
+2025-05-31,Baju Melayu,Clothing,5,50.0,120.0,600.0,Shopee
+2025-06-01,Baju Kurung Moden,Clothing,1,45.0,85.0,85.0,TikTok
+2025-06-01,Tudung Bawal,Hijab,10,15.0,25.0,250.0,Shopee
+2025-06-01,Kain Pelikat,Clothing,9,12.0,25.0,225.0,Shopee
+2025-06-01,Baju Kurung Moden,Clothing,4,45.0,85.0,340.0,Shopee
+2025-06-02,Baju Melayu,Clothing,3,50.0,120.0,360.0,TikTok
+2025-06-02,Kain Pelikat,Clothing,8,12.0,25.0,200.0,TikTok
+2025-06-02,Kurta Slim Fit,Clothing,4,35.0,65.0,260.0,TikTok
+2025-06-02,Sampul Raya,Accessories,1,1.5,5.0,5.0,Shopee
+2025-06-02,Tudung Bawal,Hijab,6,15.0,25.0,150.0,Shopee
+2025-06-03,Baju Kurung Moden,Clothing,9,45.0,85.0,765.0,TikTok
+2025-06-03,Kain Pelikat,Clothing,3,12.0,25.0,75.0,Shopee
+2025-06-03,Kain Pelikat,Clothing,5,12.0,25.0,125.0,Shopee
+2025-06-04,Kurta Slim Fit,Clothing,1,35.0,65.0,65.0,TikTok
+2025-06-04,Tudung Bawal,Hijab,3,15.0,25.0,75.0,Shopee
+2025-06-04,Sampul Raya,Accessories,9,1.5,5.0,45.0,Shopee
+2025-06-04,Baju Kurung Moden,Clothing,9,45.0,85.0,765.0,TikTok
+2025-06-05,Tudung Bawal,Hijab,1,15.0,25.0,25.0,TikTok
+2025-06-05,Baju Kurung Moden,Clothing,10,45.0,85.0,850.0,TikTok
+2025-06-05,Tudung Shawl,Hijab,8,18.0,35.0,280.0,TikTok
+2025-06-06,Tudung Shawl,Hijab,3,18.0,35.0,105.0,Shopee
+2025-06-07,Sampul Raya,Accessories,3,1.5,5.0,15.0,TikTok
+2025-06-07,Sampul Raya,Accessories,7,1.5,5.0,35.0,Shopee
+2025-06-10,Kain Pelikat,Clothing,2,12.0,25.0,50.0,TikTok
+2025-06-10,Tudung Bawal,Hijab,5,15.0,25.0,125.0,Shopee
+2025-06-10,Sampul Raya,Accessories,8,1.5,5.0,40.0,Shopee
+2025-06-11,Baju Kurung Moden,Clothing,8,45.0,85.0,680.0,Shopee
+2025-06-11,Kurta Slim Fit,Clothing,4,35.0,65.0,260.0,TikTok
+2025-06-11,Baju Kurung Moden,Clothing,1,45.0,85.0,85.0,TikTok
+2025-06-11,Kain Pelikat,Clothing,8,12.0,25.0,200.0,Shopee
+2025-06-12,Sampul Raya,Accessories,9,1.5,5.0,45.0,TikTok
+2025-06-13,Kain Pelikat,Clothing,5,12.0,25.0,125.0,Shopee
+2025-06-13,Baju Kurung Moden,Clothing,2,45.0,85.0,170.0,Shopee
+2025-06-14,Tudung Shawl,Hijab,9,18.0,35.0,315.0,Shopee
+2025-06-14,Kain Pelikat,Clothing,9,12.0,25.0,225.0,Shopee
+2025-06-14,Tudung Shawl,Hijab,5,18.0,35.0,175.0,Shopee
+2025-06-14,Tudung Shawl,Hijab,3,18.0,35.0,105.0,TikTok
+2025-06-14,Sampul Raya,Accessories,10,1.5,5.0,50.0,Shopee
+2025-06-14,Tudung Bawal,Hijab,4,15.0,25.0,100.0,Shopee
+2025-06-15,Tudung Shawl,Hijab,10,18.0,35.0,350.0,TikTok
+2025-06-15,Baju Melayu,Clothing,3,50.0,120.0,360.0,TikTok
+2025-06-15,Kain Pelikat,Clothing,3,12.0,25.0,75.0,TikTok
+2025-06-15,Kain Pelikat,Clothing,8,12.0,25.0,200.0,Shopee
+2025-06-15,Tudung Shawl,Hijab,4,18.0,35.0,140.0,Shopee
+2025-06-16,Baju Kurung Moden,Clothing,6,45.0,85.0,510.0,Shopee
+2025-06-16,Kurta Slim Fit,Clothing,7,35.0,65.0,455.0,TikTok
+2025-06-16,Tudung Shawl,Hijab,3,18.0,35.0,105.0,Shopee
+2025-06-16,Baju Kurung Moden,Clothing,5,45.0,85.0,425.0,Shopee
+2025-06-16,Kain Pelikat,Clothing,5,12.0,25.0,125.0,TikTok
+2025-06-18,Tudung Bawal,Hijab,2,15.0,25.0,50.0,Shopee
+2025-06-18,Baju Melayu,Clothing,3,50.0,120.0,360.0,TikTok
+2025-06-18,Kain Pelikat,Clothing,8,12.0,25.0,200.0,Shopee
+2025-06-18,Baju Kurung Moden,Clothing,9,45.0,85.0,765.0,TikTok
+2025-06-18,Tudung Bawal,Hijab,3,15.0,25.0,75.0,Shopee
+2025-06-19,Tudung Bawal,Hijab,5,15.0,25.0,125.0,TikTok
+2025-06-19,Sampul Raya,Accessories,5,1.5,5.0,25.0,TikTok
+2025-06-19,Tudung Shawl,Hijab,9,18.0,35.0,315.0,TikTok
+2025-06-21,Baju Kurung Moden,Clothing,7,45.0,85.0,595.0,Shopee
+2025-06-21,Sampul Raya,Accessories,1,1.5,5.0,5.0,TikTok
+2025-06-21,Sampul Raya,Accessories,1,1.5,5.0,5.0,TikTok
+2025-06-21,Tudung Shawl,Hijab,8,18.0,35.0,280.0,Shopee
+2025-06-22,Tudung Shawl,Hijab,5,18.0,35.0,175.0,Shopee
+2025-06-22,Kurta Slim Fit,Clothing,3,35.0,65.0,195.0,Shopee
+2025-06-22,Tudung Shawl,Hijab,8,18.0,35.0,280.0,Shopee
+2025-06-22,Baju Melayu,Clothing,2,50.0,120.0,240.0,TikTok
+2025-06-22,Baju Kurung Moden,Clothing,6,45.0,85.0,510.0,TikTok
+2025-06-22,Tudung Shawl,Hijab,7,18.0,35.0,245.0,Shopee
+2025-06-22,Baju Kurung Moden,Clothing,7,45.0,85.0,595.0,TikTok
+2025-06-23,Kurta Slim Fit,Clothing,5,35.0,65.0,325.0,Shopee
+2025-06-23,Kurta Slim Fit,Clothing,8,35.0,65.0,520.0,TikTok
+2025-06-24,Tudung Bawal,Hijab,6,15.0,25.0,150.0,TikTok
+2025-06-24,Tudung Shawl,Hijab,1,18.0,35.0,35.0,Shopee
+2025-06-25,Kain Pelikat,Clothing,9,12.0,25.0,225.0,Shopee
+2025-06-26,Kain Pelikat,Clothing,2,12.0,25.0,50.0,TikTok
+2025-06-27,Kurta Slim Fit,Clothing,4,35.0,65.0,260.0,Shopee
+2025-06-27,Kurta Slim Fit,Clothing,9,35.0,65.0,585.0,Shopee
+2025-06-28,Baju Kurung Moden,Clothing,7,45.0,85.0,595.0,TikTok
+2025-06-28,Baju Melayu,Clothing,10,50.0,120.0,1200.0,Shopee
+2025-06-28,Kurta Slim Fit,Clothing,9,35.0,65.0,585.0,Shopee
+2025-06-29,Tudung Shawl,Hijab,9,18.0,35.0,315.0,TikTok
+2025-06-29,Kurta Slim Fit,Clothing,4,35.0,65.0,260.0,Shopee
+2025-06-29,Tudung Shawl,Hijab,7,18.0,35.0,245.0,TikTok
+2025-06-30,Tudung Shawl,Hijab,2,18.0,35.0,70.0,Shopee
+2025-06-30,Baju Kurung Moden,Clothing,1,45.0,85.0,85.0,Shopee
+2025-06-30,Sampul Raya,Accessories,7,1.5,5.0,35.0,Shopee
+2025-06-30,Sampul Raya,Accessories,3,1.5,5.0,15.0,Shopee
+2025-06-30,Kain Pelikat,Clothing,10,12.0,25.0,250.0,TikTok
+2025-06-30,Sampul Raya,Accessories,2,1.5,5.0,10.0,TikTok
+2025-07-01,Tudung Bawal,Hijab,5,15.0,25.0,125.0,Shopee
+2025-07-01,Sampul Raya,Accessories,1,1.5,5.0,5.0,Shopee
+2025-07-01,Baju Melayu,Clothing,5,50.0,120.0,600.0,Shopee
+2025-07-02,Tudung Bawal,Hijab,3,15.0,25.0,75.0,Shopee
+2025-07-02,Baju Melayu,Clothing,5,50.0,120.0,600.0,TikTok
+2025-07-03,Kain Pelikat,Clothing,6,12.0,25.0,150.0,Shopee
+2025-07-03,Tudung Bawal,Hijab,1,15.0,25.0,25.0,TikTok
+2025-07-03,Baju Melayu,Clothing,6,50.0,120.0,720.0,TikTok
+2025-07-03,Baju Kurung Moden,Clothing,5,45.0,85.0,425.0,Shopee
+2025-07-03,Baju Melayu,Clothing,6,50.0,120.0,720.0,Shopee
+2025-07-04,Kain Pelikat,Clothing,6,12.0,25.0,150.0,TikTok
+2025-07-04,Tudung Shawl,Hijab,6,18.0,35.0,210.0,Shopee
+2025-07-04,Tudung Bawal,Hijab,7,15.0,25.0,175.0,TikTok
+2025-07-04,Tudung Bawal,Hijab,7,15.0,25.0,175.0,Shopee
+2025-07-05,Baju Melayu,Clothing,9,50.0,120.0,1080.0,Shopee
+2025-07-05,Baju Kurung Moden,Clothing,8,45.0,85.0,680.0,TikTok
+2025-07-05,Kurta Slim Fit,Clothing,9,35.0,65.0,585.0,Shopee
+2025-07-06,Tudung Shawl,Hijab,9,18.0,35.0,315.0,Shopee
+2025-07-06,Kain Pelikat,Clothing,2,12.0,25.0,50.0,Shopee
+2025-07-06,Kurta Slim Fit,Clothing,1,35.0,65.0,65.0,Shopee
+2025-07-07,Tudung Bawal,Hijab,8,15.0,25.0,200.0,Shopee
+2025-07-07,Baju Kurung Moden,Clothing,4,45.0,85.0,340.0,TikTok
+2025-07-07,Tudung Bawal,Hijab,4,15.0,25.0,100.0,TikTok
+2025-07-08,Tudung Bawal,Hijab,2,15.0,25.0,50.0,Shopee
+2025-07-08,Baju Melayu,Clothing,8,50.0,120.0,960.0,Shopee
+2025-07-08,Baju Kurung Moden,Clothing,2,45.0,85.0,170.0,Shopee
+2025-07-09,Tudung Shawl,Hijab,2,18.0,35.0,70.0,Shopee
+2025-07-09,Baju Melayu,Clothing,3,50.0,120.0,360.0,TikTok
+2025-07-09,Baju Melayu,Clothing,6,50.0,120.0,720.0,Shopee
+2025-07-09,Tudung Bawal,Hijab,4,15.0,25.0,100.0,TikTok
+2025-07-10,Sampul Raya,Accessories,5,1.5,5.0,25.0,TikTok
+2025-07-10,Kurta Slim Fit,Clothing,5,35.0,65.0,325.0,Shopee
+2025-07-10,Baju Kurung Moden,Clothing,1,45.0,85.0,85.0,TikTok
+2025-07-11,Sampul Raya,Accessories,9,1.5,5.0,45.0,TikTok
+2025-07-11,Baju Kurung Moden,Clothing,9,45.0,85.0,765.0,Shopee
+2025-07-11,Sampul Raya,Accessories,8,1.5,5.0,40.0,Shopee
+2025-07-12,Baju Kurung Moden,Clothing,2,45.0,85.0,170.0,TikTok
+2025-07-12,Kain Pelikat,Clothing,4,12.0,25.0,100.0,TikTok
+2025-07-12,Kain Pelikat,Clothing,5,12.0,25.0,125.0,Shopee
+2025-07-12,Kurta Slim Fit,Clothing,9,35.0,65.0,585.0,TikTok
+2025-07-13,Baju Kurung Moden,Clothing,3,45.0,85.0,255.0,Shopee
+2025-07-13,Baju Kurung Moden,Clothing,4,45.0,85.0,340.0,Shopee
+2025-07-13,Baju Kurung Moden,Clothing,8,45.0,85.0,680.0,TikTok
+2025-07-13,Baju Melayu,Clothing,4,50.0,120.0,480.0,Shopee
+2025-07-14,Tudung Bawal,Hijab,2,15.0,25.0,50.0,TikTok
+2025-07-14,Baju Kurung Moden,Clothing,10,45.0,85.0,850.0,Shopee
+2025-07-14,Tudung Bawal,Hijab,1,15.0,25.0,25.0,Shopee
+2025-07-15,Baju Melayu,Clothing,7,50.0,120.0,840.0,Shopee
+2025-07-15,Kain Pelikat,Clothing,3,12.0,25.0,75.0,TikTok
+2025-07-15,Kurta Slim Fit,Clothing,1,35.0,65.0,65.0,TikTok
+2025-07-16,Baju Kurung Moden,Clothing,8,45.0,85.0,680.0,Shopee
+2025-07-17,Baju Kurung Moden,Clothing,5,45.0,85.0,425.0,Shopee
+2025-07-17,Baju Melayu,Clothing,8,50.0,120.0,960.0,Shopee
+2025-07-17,Sampul Raya,Accessories,10,1.5,5.0,50.0,TikTok
+2025-07-18,Kurta Slim Fit,Clothing,5,35.0,65.0,325.0,Shopee
+2025-07-19,Tudung Shawl,Hijab,3,18.0,35.0,105.0,Shopee
+2025-07-19,Kain Pelikat,Clothing,7,12.0,25.0,175.0,TikTok
+2025-07-20,Tudung Shawl,Hijab,4,18.0,35.0,140.0,TikTok
+2025-07-20,Kain Pelikat,Clothing,4,12.0,25.0,100.0,TikTok
+2025-07-20,Baju Melayu,Clothing,1,50.0,120.0,120.0,TikTok
+2025-07-20,Baju Kurung Moden,Clothing,7,45.0,85.0,595.0,Shopee
+2025-07-20,Kain Pelikat,Clothing,9,12.0,25.0,225.0,Shopee
+2025-07-20,Kurta Slim Fit,Clothing,1,35.0,65.0,65.0,Shopee
+2025-07-21,Baju Melayu,Clothing,4,50.0,120.0,480.0,Shopee
+2025-07-21,Sampul Raya,Accessories,4,1.5,5.0,20.0,TikTok
+2025-07-21,Tudung Shawl,Hijab,2,18.0,35.0,70.0,Shopee
+2025-07-21,Sampul Raya,Accessories,3,1.5,5.0,15.0,TikTok
+2025-07-22,Tudung Bawal,Hijab,5,15.0,25.0,125.0,TikTok
+2025-07-22,Sampul Raya,Accessories,5,1.5,5.0,25.0,TikTok
+2025-07-22,Sampul Raya,Accessories,7,1.5,5.0,35.0,Shopee
+2025-07-22,Kain Pelikat,Clothing,3,12.0,25.0,75.0,TikTok
+2025-07-22,Baju Kurung Moden,Clothing,6,45.0,85.0,510.0,Shopee
+2025-07-23,Tudung Shawl,Hijab,8,18.0,35.0,280.0,TikTok
+2025-07-24,Baju Kurung Moden,Clothing,9,45.0,85.0,765.0,TikTok
+2025-07-24,Baju Melayu,Clothing,6,50.0,120.0,720.0,Shopee
+2025-07-25,Baju Kurung Moden,Clothing,7,45.0,85.0,595.0,Shopee
+2025-07-25,Baju Melayu,Clothing,7,50.0,120.0,840.0,Shopee
+2025-07-26,Baju Melayu,Clothing,10,50.0,120.0,1200.0,TikTok
+2025-07-27,Tudung Bawal,Hijab,6,15.0,25.0,150.0,Shopee
+2025-07-27,Baju Melayu,Clothing,9,50.0,120.0,1080.0,Shopee
+2025-07-27,Kurta Slim Fit,Clothing,3,35.0,65.0,195.0,Shopee
+2025-07-27,Kain Pelikat,Clothing,9,12.0,25.0,225.0,TikTok
+2025-07-27,Tudung Shawl,Hijab,8,18.0,35.0,280.0,Shopee
+2025-07-28,Baju Melayu,Clothing,6,50.0,120.0,720.0,TikTok
+2025-07-29,Tudung Bawal,Hijab,5,15.0,25.0,125.0,Shopee
+2025-07-29,Tudung Shawl,Hijab,9,18.0,35.0,315.0,TikTok
+2025-07-29,Baju Melayu,Clothing,1,50.0,120.0,120.0,TikTok
+2025-07-29,Kurta Slim Fit,Clothing,7,35.0,65.0,455.0,Shopee
+2025-07-29,Sampul Raya,Accessories,3,1.5,5.0,15.0,TikTok
+2025-07-29,Kurta Slim Fit,Clothing,5,35.0,65.0,325.0,TikTok
+2025-07-31,Kurta Slim Fit,Clothing,4,35.0,65.0,260.0,TikTok
+2025-07-31,Tudung Shawl,Hijab,8,18.0,35.0,280.0,Shopee
+2025-07-31,Tudung Shawl,Hijab,7,18.0,35.0,245.0,TikTok
+2025-07-31,Kain Pelikat,Clothing,2,12.0,25.0,50.0,TikTok
+2025-07-31,Kain Pelikat,Clothing,5,12.0,25.0,125.0,TikTok
+2025-08-01,Kain Pelikat,Clothing,9,12.0,25.0,225.0,TikTok
+2025-08-01,Baju Melayu,Clothing,5,50.0,120.0,600.0,TikTok
+2025-08-02,Tudung Shawl,Hijab,4,18.0,35.0,140.0,Shopee
+2025-08-02,Kain Pelikat,Clothing,6,12.0,25.0,150.0,Shopee
+2025-08-03,Tudung Shawl,Hijab,9,18.0,35.0,315.0,TikTok
+2025-08-03,Baju Kurung Moden,Clothing,2,45.0,85.0,170.0,Shopee
+2025-08-03,Baju Melayu,Clothing,7,50.0,120.0,840.0,TikTok
+2025-08-03,Kurta Slim Fit,Clothing,3,35.0,65.0,195.0,Shopee
+2025-08-03,Baju Kurung Moden,Clothing,6,45.0,85.0,510.0,Shopee
+2025-08-04,Baju Melayu,Clothing,5,50.0,120.0,600.0,TikTok
+2025-08-04,Sampul Raya,Accessories,5,1.5,5.0,25.0,Shopee
+2025-08-04,Sampul Raya,Accessories,7,1.5,5.0,35.0,Shopee
+2025-08-04,Baju Melayu,Clothing,1,50.0,120.0,120.0,Shopee
+2025-08-05,Tudung Shawl,Hijab,1,18.0,35.0,35.0,Shopee
+2025-08-05,Kurta Slim Fit,Clothing,9,35.0,65.0,585.0,Shopee
+2025-08-05,Sampul Raya,Accessories,1,1.5,5.0,5.0,Shopee
+2025-08-06,Sampul Raya,Accessories,3,1.5,5.0,15.0,Shopee
+2025-08-06,Kain Pelikat,Clothing,7,12.0,25.0,175.0,Shopee
+2025-08-07,Kurta Slim Fit,Clothing,8,35.0,65.0,520.0,TikTok
+2025-08-07,Sampul Raya,Accessories,9,1.5,5.0,45.0,Shopee
+2025-08-07,Sampul Raya,Accessories,3,1.5,5.0,15.0,TikTok
+2025-08-07,Tudung Shawl,Hijab,8,18.0,35.0,280.0,TikTok
+2025-08-08,Sampul Raya,Accessories,6,1.5,5.0,30.0,Shopee
+2025-08-08,Baju Melayu,Clothing,9,50.0,120.0,1080.0,Shopee
+2025-08-08,Kurta Slim Fit,Clothing,10,35.0,65.0,650.0,Shopee
+2025-08-08,Kain Pelikat,Clothing,8,12.0,25.0,200.0,TikTok
+2025-08-08,Baju Kurung Moden,Clothing,10,45.0,85.0,850.0,Shopee
+2025-08-09,Kain Pelikat,Clothing,8,12.0,25.0,200.0,TikTok
+2025-08-09,Kain Pelikat,Clothing,6,12.0,25.0,150.0,Shopee
+2025-08-09,Tudung Bawal,Hijab,1,15.0,25.0,25.0,TikTok
+2025-08-10,Tudung Bawal,Hijab,5,15.0,25.0,125.0,TikTok
+2025-08-10,Sampul Raya,Accessories,1,1.5,5.0,5.0,TikTok
+2025-08-10,Kain Pelikat,Clothing,7,12.0,25.0,175.0,Shopee
+2025-08-10,Baju Melayu,Clothing,1,50.0,120.0,120.0,TikTok
+2025-08-11,Kurta Slim Fit,Clothing,3,35.0,65.0,195.0,Shopee
+2025-08-11,Baju Kurung Moden,Clothing,7,45.0,85.0,595.0,Shopee
+2025-08-11,Kurta Slim Fit,Clothing,1,35.0,65.0,65.0,TikTok
+2025-08-12,Kurta Slim Fit,Clothing,7,35.0,65.0,455.0,TikTok
+2025-08-12,Kurta Slim Fit,Clothing,6,35.0,65.0,390.0,TikTok
+2025-08-13,Kurta Slim Fit,Clothing,6,35.0,65.0,390.0,Shopee
+2025-08-13,Tudung Bawal,Hijab,3,15.0,25.0,75.0,TikTok
+2025-08-13,Sampul Raya,Accessories,9,1.5,5.0,45.0,TikTok
+2025-08-13,Tudung Bawal,Hijab,4,15.0,25.0,100.0,TikTok
+2025-08-13,Kain Pelikat,Clothing,1,12.0,25.0,25.0,Shopee
+2025-08-13,Baju Kurung Moden,Clothing,6,45.0,85.0,510.0,TikTok
+2025-08-14,Kurta Slim Fit,Clothing,1,35.0,65.0,65.0,TikTok
+2025-08-14,Kain Pelikat,Clothing,3,12.0,25.0,75.0,Shopee
+2025-08-14,Baju Kurung Moden,Clothing,5,45.0,85.0,425.0,TikTok
+2025-08-14,Kain Pelikat,Clothing,6,12.0,25.0,150.0,Shopee
+2025-08-14,Tudung Bawal,Hijab,1,15.0,25.0,25.0,Shopee
+2025-08-15,Tudung Bawal,Hijab,2,15.0,25.0,50.0,TikTok
+2025-08-15,Sampul Raya,Accessories,2,1.5,5.0,10.0,TikTok
+2025-08-15,Kain Pelikat,Clothing,7,12.0,25.0,175.0,Shopee
+2025-08-16,Tudung Shawl,Hijab,3,18.0,35.0,105.0,TikTok
+2025-08-18,Baju Melayu,Clothing,7,50.0,120.0,840.0,TikTok
+2025-08-18,Kain Pelikat,Clothing,2,12.0,25.0,50.0,TikTok
+2025-08-18,Kurta Slim Fit,Clothing,10,35.0,65.0,650.0,Shopee
+2025-08-18,Baju Melayu,Clothing,2,50.0,120.0,240.0,Shopee
+2025-08-19,Kurta Slim Fit,Clothing,3,35.0,65.0,195.0,Shopee
+2025-08-19,Tudung Shawl,Hijab,5,18.0,35.0,175.0,TikTok
+2025-08-19,Kurta Slim Fit,Clothing,3,35.0,65.0,195.0,Shopee
+2025-08-20,Tudung Bawal,Hijab,4,15.0,25.0,100.0,Shopee
+2025-08-20,Tudung Bawal,Hijab,9,15.0,25.0,225.0,TikTok
+2025-08-22,Sampul Raya,Accessories,9,1.5,5.0,45.0,TikTok
+2025-08-22,Tudung Shawl,Hijab,9,18.0,35.0,315.0,TikTok
+2025-08-22,Tudung Bawal,Hijab,3,15.0,25.0,75.0,TikTok
+2025-08-22,Tudung Shawl,Hijab,10,18.0,35.0,350.0,TikTok
+2025-08-22,Baju Kurung Moden,Clothing,1,45.0,85.0,85.0,Shopee
+2025-08-24,Sampul Raya,Accessories,2,1.5,5.0,10.0,Shopee
+2025-08-24,Baju Melayu,Clothing,5,50.0,120.0,600.0,TikTok
+2025-08-25,Tudung Bawal,Hijab,2,15.0,25.0,50.0,TikTok
+2025-08-25,Tudung Shawl,Hijab,2,18.0,35.0,70.0,TikTok
+2025-08-25,Baju Kurung Moden,Clothing,8,45.0,85.0,680.0,Shopee
+2025-08-26,Kurta Slim Fit,Clothing,2,35.0,65.0,130.0,TikTok
+2025-08-26,Tudung Shawl,Hijab,8,18.0,35.0,280.0,TikTok
+2025-08-26,Baju Melayu,Clothing,4,50.0,120.0,480.0,Shopee
+2025-08-26,Kain Pelikat,Clothing,10,12.0,25.0,250.0,Shopee
+2025-08-26,Kurta Slim Fit,Clothing,2,35.0,65.0,130.0,TikTok
+2025-08-26,Tudung Bawal,Hijab,7,15.0,25.0,175.0,TikTok
+2025-08-26,Sampul Raya,Accessories,4,1.5,5.0,20.0,Shopee
+2025-08-27,Tudung Bawal,Hijab,9,15.0,25.0,225.0,TikTok
+2025-08-28,Tudung Bawal,Hijab,9,15.0,25.0,225.0,Shopee
+2025-08-28,Sampul Raya,Accessories,4,1.5,5.0,20.0,TikTok
+2025-08-28,Kurta Slim Fit,Clothing,9,35.0,65.0,585.0,Shopee
+2025-08-29,Baju Melayu,Clothing,4,50.0,120.0,480.0,Shopee
+2025-08-29,Baju Melayu,Clothing,4,50.0,120.0,480.0,Shopee
+2025-08-29,Tudung Bawal,Hijab,2,15.0,25.0,50.0,Shopee
+2025-08-29,Baju Melayu,Clothing,8,50.0,120.0,960.0,TikTok
+2025-08-29,Tudung Shawl,Hijab,5,18.0,35.0,175.0,TikTok
+2025-08-30,Baju Kurung Moden,Clothing,1,45.0,85.0,85.0,Shopee
+2025-08-30,Sampul Raya,Accessories,5,1.5,5.0,25.0,TikTok
+2025-08-30,Sampul Raya,Accessories,2,1.5,5.0,10.0,Shopee
+2025-08-30,Tudung Bawal,Hijab,6,15.0,25.0,150.0,TikTok
+2025-09-01,Sampul Raya,Accessories,8,1.5,5.0,40.0,TikTok
+2025-09-02,Kurta Slim Fit,Clothing,4,35.0,65.0,260.0,TikTok
+2025-09-02,Kurta Slim Fit,Clothing,2,35.0,65.0,130.0,TikTok
+2025-09-02,Tudung Bawal,Hijab,6,15.0,25.0,150.0,Shopee
+2025-09-02,Tudung Bawal,Hijab,5,15.0,25.0,125.0,Shopee
+2025-09-03,Baju Melayu,Clothing,4,50.0,120.0,480.0,Shopee
+2025-09-03,Kain Pelikat,Clothing,1,12.0,25.0,25.0,Shopee
+2025-09-03,Kurta Slim Fit,Clothing,1,35.0,65.0,65.0,TikTok
+2025-09-03,Sampul Raya,Accessories,4,1.5,5.0,20.0,TikTok
+2025-09-03,Baju Kurung Moden,Clothing,5,45.0,85.0,425.0,TikTok
+2025-09-04,Baju Melayu,Clothing,8,50.0,120.0,960.0,Shopee
+2025-09-04,Tudung Bawal,Hijab,3,15.0,25.0,75.0,TikTok
+2025-09-04,Tudung Shawl,Hijab,1,18.0,35.0,35.0,TikTok
+2025-09-05,Sampul Raya,Accessories,10,1.5,5.0,50.0,TikTok
+2025-09-05,Baju Melayu,Clothing,6,50.0,120.0,720.0,TikTok
+2025-09-05,Baju Kurung Moden,Clothing,8,45.0,85.0,680.0,TikTok
+2025-09-05,Kain Pelikat,Clothing,10,12.0,25.0,250.0,TikTok
+2025-09-06,Tudung Bawal,Hijab,4,15.0,25.0,100.0,Shopee
+2025-09-06,Tudung Bawal,Hijab,10,15.0,25.0,250.0,TikTok
+2025-09-06,Baju Kurung Moden,Clothing,4,45.0,85.0,340.0,TikTok
+2025-09-07,Tudung Bawal,Hijab,6,15.0,25.0,150.0,TikTok
+2025-09-07,Kain Pelikat,Clothing,8,12.0,25.0,200.0,Shopee
+2025-09-07,Tudung Shawl,Hijab,2,18.0,35.0,70.0,TikTok
+2025-09-07,Kain Pelikat,Clothing,8,12.0,25.0,200.0,Shopee
+2025-09-07,Kurta Slim Fit,Clothing,6,35.0,65.0,390.0,Shopee
+2025-09-08,Kurta Slim Fit,Clothing,3,35.0,65.0,195.0,TikTok
+2025-09-08,Tudung Bawal,Hijab,5,15.0,25.0,125.0,Shopee
+2025-09-09,Tudung Shawl,Hijab,9,18.0,35.0,315.0,Shopee
+2025-09-09,Baju Kurung Moden,Clothing,7,45.0,85.0,595.0,TikTok
+2025-09-09,Baju Kurung Moden,Clothing,6,45.0,85.0,510.0,TikTok
+2025-09-09,Kain Pelikat,Clothing,5,12.0,25.0,125.0,TikTok
+2025-09-09,Kain Pelikat,Clothing,4,12.0,25.0,100.0,TikTok
+2025-09-09,Kurta Slim Fit,Clothing,9,35.0,65.0,585.0,Shopee
+2025-09-10,Baju Melayu,Clothing,2,50.0,120.0,240.0,TikTok
+2025-09-10,Baju Melayu,Clothing,6,50.0,120.0,720.0,TikTok
+2025-09-10,Baju Kurung Moden,Clothing,9,45.0,85.0,765.0,Shopee
+2025-09-10,Tudung Bawal,Hijab,7,15.0,25.0,175.0,Shopee
+2025-09-10,Baju Kurung Moden,Clothing,2,45.0,85.0,170.0,Shopee
+2025-09-10,Tudung Bawal,Hijab,8,15.0,25.0,200.0,TikTok
+2025-09-10,Tudung Bawal,Hijab,3,15.0,25.0,75.0,TikTok
+2025-09-10,Tudung Bawal,Hijab,8,15.0,25.0,200.0,TikTok
+2025-09-11,Baju Kurung Moden,Clothing,7,45.0,85.0,595.0,Shopee
+2025-09-11,Baju Kurung Moden,Clothing,7,45.0,85.0,595.0,TikTok
+2025-09-11,Tudung Bawal,Hijab,6,15.0,25.0,150.0,TikTok
+2025-09-11,Baju Melayu,Clothing,2,50.0,120.0,240.0,Shopee
+2025-09-11,Baju Kurung Moden,Clothing,5,45.0,85.0,425.0,Shopee
+2025-09-11,Baju Kurung Moden,Clothing,1,45.0,85.0,85.0,TikTok
+2025-09-11,Kain Pelikat,Clothing,9,12.0,25.0,225.0,Shopee
+2025-09-11,Kurta Slim Fit,Clothing,1,35.0,65.0,65.0,Shopee
+2025-09-12,Baju Melayu,Clothing,4,50.0,120.0,480.0,TikTok
+2025-09-12,Baju Melayu,Clothing,10,50.0,120.0,1200.0,TikTok
+2025-09-12,Baju Melayu,Clothing,2,50.0,120.0,240.0,Shopee
+2025-09-12,Baju Melayu,Clothing,6,50.0,120.0,720.0,TikTok
+2025-09-12,Baju Kurung Moden,Clothing,8,45.0,85.0,680.0,Shopee
+2025-09-13,Baju Melayu,Clothing,7,50.0,120.0,840.0,TikTok
+2025-09-14,Sampul Raya,Accessories,2,1.5,5.0,10.0,TikTok
+2025-09-14,Kain Pelikat,Clothing,7,12.0,25.0,175.0,Shopee
+2025-09-14,Kain Pelikat,Clothing,4,12.0,25.0,100.0,Shopee
+2025-09-14,Kain Pelikat,Clothing,6,12.0,25.0,150.0,TikTok
+2025-09-14,Baju Melayu,Clothing,3,50.0,120.0,360.0,TikTok
+2025-09-14,Kurta Slim Fit,Clothing,3,35.0,65.0,195.0,Shopee
+2025-09-15,Baju Melayu,Clothing,5,50.0,120.0,600.0,Shopee
+2025-09-15,Tudung Bawal,Hijab,4,15.0,25.0,100.0,Shopee
+2025-09-16,Baju Melayu,Clothing,5,50.0,120.0,600.0,TikTok
+2025-09-16,Kain Pelikat,Clothing,3,12.0,25.0,75.0,TikTok
+2025-09-16,Kurta Slim Fit,Clothing,4,35.0,65.0,260.0,Shopee
+2025-09-16,Kurta Slim Fit,Clothing,6,35.0,65.0,390.0,Shopee
+2025-09-16,Tudung Bawal,Hijab,7,15.0,25.0,175.0,TikTok
+2025-09-17,Kurta Slim Fit,Clothing,5,35.0,65.0,325.0,TikTok
+2025-09-17,Kain Pelikat,Clothing,10,12.0,25.0,250.0,TikTok
+2025-09-17,Sampul Raya,Accessories,9,1.5,5.0,45.0,TikTok
+2025-09-17,Tudung Shawl,Hijab,4,18.0,35.0,140.0,Shopee
+2025-09-18,Tudung Shawl,Hijab,1,18.0,35.0,35.0,TikTok
+2025-09-18,Tudung Bawal,Hijab,6,15.0,25.0,150.0,Shopee
+2025-09-19,Tudung Bawal,Hijab,9,15.0,25.0,225.0,Shopee
+2025-09-19,Tudung Bawal,Hijab,1,15.0,25.0,25.0,TikTok
+2025-09-19,Sampul Raya,Accessories,8,1.5,5.0,40.0,TikTok
+2025-09-19,Baju Melayu,Clothing,6,50.0,120.0,720.0,TikTok
+2025-09-20,Kain Pelikat,Clothing,1,12.0,25.0,25.0,Shopee
+2025-09-20,Baju Melayu,Clothing,6,50.0,120.0,720.0,Shopee
+2025-09-20,Baju Kurung Moden,Clothing,2,45.0,85.0,170.0,TikTok
+2025-09-21,Kain Pelikat,Clothing,3,12.0,25.0,75.0,Shopee
+2025-09-21,Tudung Shawl,Hijab,9,18.0,35.0,315.0,TikTok
+2025-09-21,Tudung Shawl,Hijab,5,18.0,35.0,175.0,TikTok
+2025-09-21,Baju Melayu,Clothing,10,50.0,120.0,1200.0,TikTok
+2025-09-21,Kain Pelikat,Clothing,2,12.0,25.0,50.0,TikTok
+2025-09-21,Tudung Bawal,Hijab,10,15.0,25.0,250.0,Shopee
+2025-09-22,Baju Melayu,Clothing,4,50.0,120.0,480.0,Shopee
+2025-09-22,Kurta Slim Fit,Clothing,5,35.0,65.0,325.0,TikTok
+2025-09-22,Sampul Raya,Accessories,1,1.5,5.0,5.0,TikTok
+2025-09-22,Baju Melayu,Clothing,8,50.0,120.0,960.0,TikTok
+2025-09-22,Kain Pelikat,Clothing,10,12.0,25.0,250.0,Shopee
+2025-09-23,Baju Melayu,Clothing,1,50.0,120.0,120.0,TikTok
+2025-09-23,Tudung Bawal,Hijab,7,15.0,25.0,175.0,TikTok
+2025-09-23,Kurta Slim Fit,Clothing,9,35.0,65.0,585.0,Shopee
+2025-09-23,Baju Melayu,Clothing,8,50.0,120.0,960.0,TikTok
+2025-09-23,Kurta Slim Fit,Clothing,6,35.0,65.0,390.0,TikTok
+2025-09-24,Sampul Raya,Accessories,6,1.5,5.0,30.0,TikTok
+2025-09-24,Tudung Bawal,Hijab,1,15.0,25.0,25.0,Shopee
+2025-09-25,Tudung Shawl,Hijab,10,18.0,35.0,350.0,Shopee
+2025-09-25,Baju Kurung Moden,Clothing,10,45.0,85.0,850.0,Shopee
+2025-09-26,Tudung Shawl,Hijab,2,18.0,35.0,70.0,TikTok
+2025-09-26,Tudung Bawal,Hijab,10,15.0,25.0,250.0,TikTok
+2025-09-26,Tudung Bawal,Hijab,9,15.0,25.0,225.0,TikTok
+2025-09-27,Kurta Slim Fit,Clothing,7,35.0,65.0,455.0,Shopee
+2025-09-27,Kurta Slim Fit,Clothing,6,35.0,65.0,390.0,Shopee
+2025-09-28,Baju Melayu,Clothing,1,50.0,120.0,120.0,Shopee
+2025-09-28,Kurta Slim Fit,Clothing,4,35.0,65.0,260.0,Shopee
+2025-09-28,Sampul Raya,Accessories,5,1.5,5.0,25.0,Shopee
+2025-09-28,Baju Kurung Moden,Clothing,10,45.0,85.0,850.0,TikTok
+2025-09-29,Sampul Raya,Accessories,9,1.5,5.0,45.0,TikTok
+2025-09-29,Kurta Slim Fit,Clothing,10,35.0,65.0,650.0,TikTok
+2025-09-29,Kain Pelikat,Clothing,3,12.0,25.0,75.0,Shopee
+2025-09-29,Sampul Raya,Accessories,8,1.5,5.0,40.0,Shopee
+2025-09-29,Tudung Shawl,Hijab,5,18.0,35.0,175.0,Shopee
+2025-09-30,Kain Pelikat,Clothing,9,12.0,25.0,225.0,TikTok
+2025-09-30,Tudung Bawal,Hijab,4,15.0,25.0,100.0,Shopee
+2025-09-30,Tudung Shawl,Hijab,5,18.0,35.0,175.0,TikTok
+2025-10-01,Baju Melayu,Clothing,1,50.0,120.0,120.0,TikTok
+2025-10-01,Kain Pelikat,Clothing,5,12.0,25.0,125.0,Shopee
+2025-10-01,Sampul Raya,Accessories,6,1.5,5.0,30.0,Shopee
+2025-10-01,Tudung Shawl,Hijab,7,18.0,35.0,245.0,Shopee
+2025-10-02,Sampul Raya,Accessories,10,1.5,5.0,50.0,Shopee
+2025-10-02,Kain Pelikat,Clothing,5,12.0,25.0,125.0,Shopee
+2025-10-03,Tudung Bawal,Hijab,9,15.0,25.0,225.0,TikTok
+2025-10-03,Kurta Slim Fit,Clothing,1,35.0,65.0,65.0,Shopee
+2025-10-03,Kain Pelikat,Clothing,1,12.0,25.0,25.0,Shopee
+2025-10-03,Sampul Raya,Accessories,8,1.5,5.0,40.0,Shopee
+2025-10-04,Tudung Bawal,Hijab,4,15.0,25.0,100.0,TikTok
+2025-10-04,Baju Melayu,Clothing,9,50.0,120.0,1080.0,TikTok
+2025-10-04,Tudung Bawal,Hijab,8,15.0,25.0,200.0,Shopee
+2025-10-04,Tudung Bawal,Hijab,4,15.0,25.0,100.0,TikTok
+2025-10-04,Baju Kurung Moden,Clothing,1,45.0,85.0,85.0,Shopee
+2025-10-04,Tudung Shawl,Hijab,3,18.0,35.0,105.0,Shopee
+2025-10-04,Kain Pelikat,Clothing,10,12.0,25.0,250.0,Shopee
+2025-10-04,Sampul Raya,Accessories,4,1.5,5.0,20.0,Shopee
+2025-10-04,Baju Melayu,Clothing,5,50.0,120.0,600.0,TikTok
+2025-10-05,Sampul Raya,Accessories,5,1.5,5.0,25.0,TikTok
+2025-10-06,Tudung Shawl,Hijab,8,18.0,35.0,280.0,Shopee
+2025-10-06,Kain Pelikat,Clothing,1,12.0,25.0,25.0,TikTok
+2025-10-06,Baju Melayu,Clothing,2,50.0,120.0,240.0,TikTok
+2025-10-07,Tudung Shawl,Hijab,9,18.0,35.0,315.0,Shopee
+2025-10-07,Tudung Bawal,Hijab,7,15.0,25.0,175.0,Shopee
+2025-10-08,Kain Pelikat,Clothing,10,12.0,25.0,250.0,TikTok
+2025-10-09,Baju Kurung Moden,Clothing,10,45.0,85.0,850.0,Shopee
+2025-10-09,Sampul Raya,Accessories,9,1.5,5.0,45.0,Shopee
+2025-10-09,Baju Melayu,Clothing,8,50.0,120.0,960.0,Shopee
+2025-10-09,Tudung Shawl,Hijab,1,18.0,35.0,35.0,TikTok
+2025-10-10,Kurta Slim Fit,Clothing,10,35.0,65.0,650.0,Shopee
+2025-10-11,Kurta Slim Fit,Clothing,1,35.0,65.0,65.0,TikTok
+2025-10-11,Baju Melayu,Clothing,9,50.0,120.0,1080.0,TikTok
+2025-10-11,Sampul Raya,Accessories,4,1.5,5.0,20.0,TikTok
+2025-10-11,Kurta Slim Fit,Clothing,7,35.0,65.0,455.0,TikTok
+2025-10-12,Baju Melayu,Clothing,7,50.0,120.0,840.0,TikTok
+2025-10-12,Baju Melayu,Clothing,6,50.0,120.0,720.0,TikTok
+2025-10-12,Tudung Shawl,Hijab,1,18.0,35.0,35.0,Shopee
+2025-10-13,Baju Melayu,Clothing,6,50.0,120.0,720.0,Shopee
+2025-10-13,Tudung Bawal,Hijab,1,15.0,25.0,25.0,TikTok
+2025-10-13,Baju Melayu,Clothing,9,50.0,120.0,1080.0,Shopee
+2025-10-13,Baju Kurung Moden,Clothing,8,45.0,85.0,680.0,TikTok
+2025-10-13,Tudung Bawal,Hijab,10,15.0,25.0,250.0,Shopee
+2025-10-13,Kurta Slim Fit,Clothing,3,35.0,65.0,195.0,Shopee
+2025-10-14,Kain Pelikat,Clothing,2,12.0,25.0,50.0,Shopee
+2025-10-15,Kain Pelikat,Clothing,1,12.0,25.0,25.0,Shopee
+2025-10-15,Kain Pelikat,Clothing,3,12.0,25.0,75.0,Shopee
+2025-10-15,Baju Melayu,Clothing,8,50.0,120.0,960.0,Shopee
+2025-10-16,Kain Pelikat,Clothing,5,12.0,25.0,125.0,Shopee
+2025-10-16,Tudung Bawal,Hijab,8,15.0,25.0,200.0,TikTok
+2025-10-16,Tudung Bawal,Hijab,5,15.0,25.0,125.0,Shopee
+2025-10-16,Baju Kurung Moden,Clothing,2,45.0,85.0,170.0,Shopee
+2025-10-17,Baju Kurung Moden,Clothing,8,45.0,85.0,680.0,TikTok
+2025-10-17,Sampul Raya,Accessories,10,1.5,5.0,50.0,TikTok
+2025-10-17,Baju Kurung Moden,Clothing,6,45.0,85.0,510.0,TikTok
+2025-10-17,Kurta Slim Fit,Clothing,4,35.0,65.0,260.0,TikTok
+2025-10-17,Kurta Slim Fit,Clothing,1,35.0,65.0,65.0,TikTok
+2025-10-17,Sampul Raya,Accessories,4,1.5,5.0,20.0,Shopee
+2025-10-18,Baju Melayu,Clothing,4,50.0,120.0,480.0,TikTok
+2025-10-18,Kurta Slim Fit,Clothing,8,35.0,65.0,520.0,TikTok
+2025-10-18,Kurta Slim Fit,Clothing,6,35.0,65.0,390.0,TikTok
+2025-10-18,Baju Melayu,Clothing,4,50.0,120.0,480.0,TikTok
+2025-10-18,Tudung Bawal,Hijab,2,15.0,25.0,50.0,Shopee
+2025-10-19,Kain Pelikat,Clothing,4,12.0,25.0,100.0,TikTok
+2025-10-19,Kurta Slim Fit,Clothing,6,35.0,65.0,390.0,TikTok
+2025-10-20,Tudung Bawal,Hijab,5,15.0,25.0,125.0,Shopee
+2025-10-20,Sampul Raya,Accessories,2,1.5,5.0,10.0,TikTok
+2025-10-20,Tudung Shawl,Hijab,8,18.0,35.0,280.0,TikTok
+2025-10-21,Baju Kurung Moden,Clothing,10,45.0,85.0,850.0,TikTok
+2025-10-21,Tudung Bawal,Hijab,9,15.0,25.0,225.0,Shopee
+2025-10-21,Baju Kurung Moden,Clothing,7,45.0,85.0,595.0,TikTok
+2025-10-22,Baju Kurung Moden,Clothing,5,45.0,85.0,425.0,TikTok
+2025-10-23,Sampul Raya,Accessories,3,1.5,5.0,15.0,Shopee
+2025-10-23,Sampul Raya,Accessories,3,1.5,5.0,15.0,Shopee
+2025-10-23,Baju Kurung Moden,Clothing,7,45.0,85.0,595.0,Shopee
+2025-10-23,Baju Kurung Moden,Clothing,10,45.0,85.0,850.0,TikTok
+2025-10-24,Tudung Bawal,Hijab,9,15.0,25.0,225.0,TikTok
+2025-10-24,Sampul Raya,Accessories,1,1.5,5.0,5.0,TikTok
+2025-10-24,Baju Kurung Moden,Clothing,10,45.0,85.0,850.0,TikTok
+2025-10-24,Kain Pelikat,Clothing,9,12.0,25.0,225.0,Shopee
+2025-10-24,Sampul Raya,Accessories,5,1.5,5.0,25.0,Shopee
+2025-10-24,Kain Pelikat,Clothing,9,12.0,25.0,225.0,Shopee
+2025-10-25,Sampul Raya,Accessories,8,1.5,5.0,40.0,TikTok
+2025-10-25,Tudung Bawal,Hijab,8,15.0,25.0,200.0,Shopee
+2025-10-26,Tudung Bawal,Hijab,7,15.0,25.0,175.0,TikTok
+2025-10-26,Tudung Bawal,Hijab,5,15.0,25.0,125.0,Shopee
+2025-10-27,Tudung Shawl,Hijab,1,18.0,35.0,35.0,Shopee
+2025-10-27,Baju Melayu,Clothing,2,50.0,120.0,240.0,TikTok
+2025-10-27,Sampul Raya,Accessories,6,1.5,5.0,30.0,TikTok
+2025-10-27,Kain Pelikat,Clothing,6,12.0,25.0,150.0,TikTok
+2025-10-27,Baju Melayu,Clothing,6,50.0,120.0,720.0,TikTok
+2025-10-28,Tudung Shawl,Hijab,1,18.0,35.0,35.0,TikTok
+2025-10-28,Tudung Bawal,Hijab,7,15.0,25.0,175.0,Shopee
+2025-10-28,Tudung Shawl,Hijab,1,18.0,35.0,35.0,TikTok
+2025-10-28,Kurta Slim Fit,Clothing,2,35.0,65.0,130.0,Shopee
+2025-10-28,Sampul Raya,Accessories,7,1.5,5.0,35.0,Shopee
+2025-10-29,Baju Melayu,Clothing,9,50.0,120.0,1080.0,TikTok
+2025-10-29,Baju Melayu,Clothing,2,50.0,120.0,240.0,Shopee
+2025-10-29,Tudung Bawal,Hijab,8,15.0,25.0,200.0,Shopee
+2025-10-29,Baju Melayu,Clothing,6,50.0,120.0,720.0,Shopee
+2025-10-29,Baju Kurung Moden,Clothing,9,45.0,85.0,765.0,TikTok
+2025-10-30,Baju Kurung Moden,Clothing,1,45.0,85.0,85.0,Shopee
+2025-10-31,Kain Pelikat,Clothing,5,12.0,25.0,125.0,TikTok
+2025-10-31,Baju Kurung Moden,Clothing,3,45.0,85.0,255.0,Shopee
+2025-11-01,Kurta Slim Fit,Clothing,7,35.0,65.0,455.0,Shopee
+2025-11-01,Baju Melayu,Clothing,6,50.0,120.0,720.0,Shopee
+2025-11-01,Kurta Slim Fit,Clothing,4,35.0,65.0,260.0,Shopee
+2025-11-02,Tudung Shawl,Hijab,10,18.0,35.0,350.0,TikTok
+2025-11-02,Baju Melayu,Clothing,7,50.0,120.0,840.0,TikTok
+2025-11-02,Tudung Shawl,Hijab,9,18.0,35.0,315.0,Shopee
+2025-11-02,Tudung Bawal,Hijab,8,15.0,25.0,200.0,Shopee
+2025-11-02,Baju Melayu,Clothing,6,50.0,120.0,720.0,TikTok
+2025-11-02,Kurta Slim Fit,Clothing,9,35.0,65.0,585.0,TikTok
+2025-11-02,Tudung Shawl,Hijab,9,18.0,35.0,315.0,TikTok
+2025-11-03,Kurta Slim Fit,Clothing,6,35.0,65.0,390.0,Shopee
+2025-11-03,Kurta Slim Fit,Clothing,1,35.0,65.0,65.0,TikTok
+2025-11-03,Kurta Slim Fit,Clothing,2,35.0,65.0,130.0,TikTok
+2025-11-03,Baju Melayu,Clothing,7,50.0,120.0,840.0,TikTok
+2025-11-04,Baju Melayu,Clothing,7,50.0,120.0,840.0,Shopee
+2025-11-04,Tudung Bawal,Hijab,2,15.0,25.0,50.0,Shopee
+2025-11-04,Baju Melayu,Clothing,10,50.0,120.0,1200.0,Shopee
+2025-11-04,Sampul Raya,Accessories,6,1.5,5.0,30.0,TikTok
+2025-11-04,Baju Melayu,Clothing,6,50.0,120.0,720.0,Shopee
+2025-11-05,Baju Kurung Moden,Clothing,6,45.0,85.0,510.0,TikTok
+2025-11-05,Kain Pelikat,Clothing,9,12.0,25.0,225.0,Shopee
+2025-11-05,Baju Kurung Moden,Clothing,4,45.0,85.0,340.0,Shopee
+2025-11-06,Kurta Slim Fit,Clothing,8,35.0,65.0,520.0,TikTok
+2025-11-07,Kain Pelikat,Clothing,9,12.0,25.0,225.0,TikTok
+2025-11-07,Kurta Slim Fit,Clothing,9,35.0,65.0,585.0,TikTok
+2025-11-07,Baju Melayu,Clothing,4,50.0,120.0,480.0,Shopee
+2025-11-07,Tudung Bawal,Hijab,7,15.0,25.0,175.0,Shopee
+2025-11-07,Sampul Raya,Accessories,2,1.5,5.0,10.0,Shopee
+2025-11-07,Kain Pelikat,Clothing,9,12.0,25.0,225.0,Shopee
+2025-11-07,Baju Melayu,Clothing,3,50.0,120.0,360.0,Shopee
+2025-11-07,Baju Melayu,Clothing,10,50.0,120.0,1200.0,Shopee
+2025-11-07,Sampul Raya,Accessories,9,1.5,5.0,45.0,Shopee
+2025-11-07,Tudung Shawl,Hijab,3,18.0,35.0,105.0,TikTok
+2025-11-08,Kain Pelikat,Clothing,5,12.0,25.0,125.0,TikTok
+2025-11-08,Kurta Slim Fit,Clothing,10,35.0,65.0,650.0,Shopee
+2025-11-09,Baju Melayu,Clothing,8,50.0,120.0,960.0,TikTok
+2025-11-09,Sampul Raya,Accessories,3,1.5,5.0,15.0,TikTok
+2025-11-09,Kurta Slim Fit,Clothing,6,35.0,65.0,390.0,Shopee
+2025-11-09,Kurta Slim Fit,Clothing,4,35.0,65.0,260.0,Shopee
+2025-11-09,Baju Melayu,Clothing,3,50.0,120.0,360.0,TikTok
+2025-11-10,Baju Kurung Moden,Clothing,10,45.0,85.0,850.0,Shopee
+2025-11-11,Kain Pelikat,Clothing,7,12.0,25.0,175.0,Shopee
+2025-11-11,Baju Melayu,Clothing,9,50.0,120.0,1080.0,Shopee
+2025-11-11,Baju Kurung Moden,Clothing,3,45.0,85.0,255.0,Shopee
+2025-11-11,Baju Melayu,Clothing,2,50.0,120.0,240.0,TikTok
+2025-11-12,Baju Kurung Moden,Clothing,8,45.0,85.0,680.0,TikTok
+2025-11-12,Tudung Bawal,Hijab,9,15.0,25.0,225.0,TikTok
+2025-11-12,Baju Melayu,Clothing,1,50.0,120.0,120.0,Shopee
+2025-11-12,Tudung Bawal,Hijab,5,15.0,25.0,125.0,Shopee
+2025-11-13,Baju Kurung Moden,Clothing,3,45.0,85.0,255.0,TikTok
+2025-11-13,Tudung Shawl,Hijab,10,18.0,35.0,350.0,TikTok
+2025-11-14,Kain Pelikat,Clothing,10,12.0,25.0,250.0,Shopee
+2025-11-15,Baju Melayu,Clothing,7,50.0,120.0,840.0,Shopee
+2025-11-16,Kurta Slim Fit,Clothing,8,35.0,65.0,520.0,TikTok
+2025-11-16,Baju Kurung Moden,Clothing,2,45.0,85.0,170.0,TikTok
+2025-11-17,Sampul Raya,Accessories,6,1.5,5.0,30.0,TikTok
+2025-11-17,Sampul Raya,Accessories,1,1.5,5.0,5.0,TikTok
+2025-11-17,Baju Melayu,Clothing,7,50.0,120.0,840.0,Shopee
+2025-11-17,Kain Pelikat,Clothing,10,12.0,25.0,250.0,Shopee
+2025-11-17,Baju Kurung Moden,Clothing,2,45.0,85.0,170.0,TikTok
+2025-11-17,Kurta Slim Fit,Clothing,2,35.0,65.0,130.0,Shopee
+2025-11-18,Sampul Raya,Accessories,10,1.5,5.0,50.0,Shopee
+2025-11-18,Tudung Bawal,Hijab,3,15.0,25.0,75.0,TikTok
+2025-11-18,Kurta Slim Fit,Clothing,9,35.0,65.0,585.0,Shopee
+2025-11-18,Baju Melayu,Clothing,2,50.0,120.0,240.0,Shopee
+2025-11-18,Kain Pelikat,Clothing,8,12.0,25.0,200.0,Shopee
+2025-11-18,Baju Kurung Moden,Clothing,1,45.0,85.0,85.0,TikTok
+2025-11-19,Kurta Slim Fit,Clothing,1,35.0,65.0,65.0,Shopee
+2025-11-19,Sampul Raya,Accessories,4,1.5,5.0,20.0,TikTok
+2025-11-20,Tudung Shawl,Hijab,9,18.0,35.0,315.0,Shopee
+2025-11-21,Kain Pelikat,Clothing,7,12.0,25.0,175.0,TikTok
+2025-11-22,Kain Pelikat,Clothing,5,12.0,25.0,125.0,TikTok
+2025-11-22,Kurta Slim Fit,Clothing,5,35.0,65.0,325.0,Shopee
+2025-11-23,Baju Melayu,Clothing,3,50.0,120.0,360.0,Shopee
+2025-11-24,Baju Kurung Moden,Clothing,7,45.0,85.0,595.0,TikTok
+2025-11-25,Kain Pelikat,Clothing,4,12.0,25.0,100.0,TikTok
+2025-11-25,Kurta Slim Fit,Clothing,5,35.0,65.0,325.0,Shopee
+2025-11-25,Sampul Raya,Accessories,8,1.5,5.0,40.0,Shopee
+2025-11-26,Sampul Raya,Accessories,7,1.5,5.0,35.0,TikTok
+2025-11-26,Tudung Bawal,Hijab,8,15.0,25.0,200.0,TikTok
+2025-11-26,Sampul Raya,Accessories,1,1.5,5.0,5.0,Shopee
+2025-11-26,Tudung Bawal,Hijab,9,15.0,25.0,225.0,Shopee
+2025-11-27,Sampul Raya,Accessories,3,1.5,5.0,15.0,Shopee
+2025-11-27,Kurta Slim Fit,Clothing,10,35.0,65.0,650.0,Shopee
+2025-11-27,Tudung Shawl,Hijab,10,18.0,35.0,350.0,TikTok
+2025-11-27,Tudung Shawl,Hijab,3,18.0,35.0,105.0,Shopee
+2025-11-29,Baju Melayu,Clothing,5,50.0,120.0,600.0,TikTok
+2025-11-29,Sampul Raya,Accessories,2,1.5,5.0,10.0,Shopee
+2025-11-30,Sampul Raya,Accessories,3,1.5,5.0,15.0,Shopee
+2025-11-30,Kurta Slim Fit,Clothing,7,35.0,65.0,455.0,TikTok
+2025-11-30,Tudung Bawal,Hijab,6,15.0,25.0,150.0,TikTok
+2025-12-01,Tudung Bawal,Hijab,2,15.0,25.0,50.0,Shopee
+2025-12-01,Kain Pelikat,Clothing,8,12.0,25.0,200.0,Shopee
+2025-12-02,Tudung Bawal,Hijab,9,15.0,25.0,225.0,Shopee
+2025-12-02,Kurta Slim Fit,Clothing,4,35.0,65.0,260.0,TikTok
+2025-12-03,Kain Pelikat,Clothing,2,12.0,25.0,50.0,TikTok
+2025-12-04,Tudung Shawl,Hijab,7,18.0,35.0,245.0,Shopee
+2025-12-04,Kain Pelikat,Clothing,2,12.0,25.0,50.0,Shopee
+2025-12-04,Kurta Slim Fit,Clothing,7,35.0,65.0,455.0,TikTok
+2025-12-04,Baju Melayu,Clothing,8,50.0,120.0,960.0,TikTok
+2025-12-04,Baju Melayu,Clothing,1,50.0,120.0,120.0,Shopee
+2025-12-04,Tudung Bawal,Hijab,1,15.0,25.0,25.0,Shopee
+2025-12-05,Baju Kurung Moden,Clothing,3,45.0,85.0,255.0,Shopee
+2025-12-05,Kurta Slim Fit,Clothing,9,35.0,65.0,585.0,Shopee
+2025-12-05,Baju Kurung Moden,Clothing,1,45.0,85.0,85.0,TikTok
+2025-12-05,Baju Kurung Moden,Clothing,6,45.0,85.0,510.0,TikTok
+2025-12-05,Kain Pelikat,Clothing,4,12.0,25.0,100.0,Shopee
+2025-12-05,Kurta Slim Fit,Clothing,7,35.0,65.0,455.0,Shopee
+2025-12-05,Tudung Shawl,Hijab,3,18.0,35.0,105.0,Shopee
+2025-12-06,Sampul Raya,Accessories,3,1.5,5.0,15.0,TikTok
+2025-12-06,Tudung Shawl,Hijab,9,18.0,35.0,315.0,TikTok
+2025-12-06,Tudung Shawl,Hijab,7,18.0,35.0,245.0,Shopee
+2025-12-06,Tudung Shawl,Hijab,9,18.0,35.0,315.0,Shopee
+2025-12-07,Baju Kurung Moden,Clothing,8,45.0,85.0,680.0,Shopee
+2025-12-07,Tudung Shawl,Hijab,9,18.0,35.0,315.0,TikTok
+2025-12-07,Baju Melayu,Clothing,3,50.0,120.0,360.0,TikTok
+2025-12-07,Kain Pelikat,Clothing,7,12.0,25.0,175.0,Shopee
+2025-12-08,Tudung Shawl,Hijab,7,18.0,35.0,245.0,TikTok
+2025-12-08,Baju Kurung Moden,Clothing,5,45.0,85.0,425.0,Shopee
+2025-12-08,Baju Kurung Moden,Clothing,3,45.0,85.0,255.0,TikTok
+2025-12-09,Tudung Bawal,Hijab,8,15.0,25.0,200.0,Shopee
+2025-12-09,Tudung Bawal,Hijab,4,15.0,25.0,100.0,TikTok
+2025-12-09,Baju Kurung Moden,Clothing,2,45.0,85.0,170.0,TikTok
+2025-12-09,Tudung Bawal,Hijab,3,15.0,25.0,75.0,Shopee
+2025-12-10,Kurta Slim Fit,Clothing,3,35.0,65.0,195.0,Shopee
+2025-12-10,Baju Melayu,Clothing,10,50.0,120.0,1200.0,TikTok
+2025-12-10,Baju Melayu,Clothing,9,50.0,120.0,1080.0,Shopee
+2025-12-10,Kain Pelikat,Clothing,10,12.0,25.0,250.0,TikTok
+2025-12-10,Tudung Bawal,Hijab,6,15.0,25.0,150.0,Shopee
+2025-12-11,Sampul Raya,Accessories,5,1.5,5.0,25.0,TikTok
+2025-12-11,Tudung Bawal,Hijab,4,15.0,25.0,100.0,Shopee
+2025-12-11,Baju Melayu,Clothing,10,50.0,120.0,1200.0,TikTok
+2025-12-11,Tudung Shawl,Hijab,5,18.0,35.0,175.0,TikTok
+2025-12-11,Baju Melayu,Clothing,3,50.0,120.0,360.0,TikTok
+2025-12-12,Sampul Raya,Accessories,9,1.5,5.0,45.0,Shopee
+2025-12-12,Tudung Bawal,Hijab,2,15.0,25.0,50.0,Shopee
+2025-12-12,Baju Melayu,Clothing,4,50.0,120.0,480.0,Shopee
+2025-12-12,Baju Melayu,Clothing,8,50.0,120.0,960.0,TikTok
+2025-12-13,Kurta Slim Fit,Clothing,2,35.0,65.0,130.0,TikTok
+2025-12-13,Kurta Slim Fit,Clothing,7,35.0,65.0,455.0,Shopee
+2025-12-14,Sampul Raya,Accessories,7,1.5,5.0,35.0,TikTok
+2025-12-14,Baju Melayu,Clothing,7,50.0,120.0,840.0,Shopee
+2025-12-14,Kain Pelikat,Clothing,1,12.0,25.0,25.0,Shopee
+2025-12-15,Kain Pelikat,Clothing,2,12.0,25.0,50.0,Shopee
+2025-12-16,Kain Pelikat,Clothing,1,12.0,25.0,25.0,TikTok
+2025-12-16,Tudung Shawl,Hijab,9,18.0,35.0,315.0,Shopee
+2025-12-16,Baju Kurung Moden,Clothing,10,45.0,85.0,850.0,TikTok
+2025-12-16,Baju Kurung Moden,Clothing,7,45.0,85.0,595.0,Shopee
+2025-12-16,Tudung Bawal,Hijab,3,15.0,25.0,75.0,Shopee
+2025-12-17,Tudung Bawal,Hijab,4,15.0,25.0,100.0,TikTok
+2025-12-17,Baju Melayu,Clothing,2,50.0,120.0,240.0,Shopee
+2025-12-18,Tudung Shawl,Hijab,4,18.0,35.0,140.0,TikTok
+2025-12-18,Sampul Raya,Accessories,5,1.5,5.0,25.0,TikTok
+2025-12-18,Kain Pelikat,Clothing,5,12.0,25.0,125.0,TikTok
+2025-12-19,Tudung Shawl,Hijab,7,18.0,35.0,245.0,TikTok
+2025-12-19,Baju Kurung Moden,Clothing,5,45.0,85.0,425.0,TikTok
+2025-12-20,Tudung Bawal,Hijab,8,15.0,25.0,200.0,Shopee
+2025-12-20,Kain Pelikat,Clothing,8,12.0,25.0,200.0,Shopee
+2025-12-20,Kurta Slim Fit,Clothing,5,35.0,65.0,325.0,Shopee
+2025-12-20,Baju Melayu,Clothing,3,50.0,120.0,360.0,TikTok
+2025-12-20,Kain Pelikat,Clothing,1,12.0,25.0,25.0,Shopee
+2025-12-20,Kurta Slim Fit,Clothing,3,35.0,65.0,195.0,TikTok
+2025-12-21,Tudung Bawal,Hijab,9,15.0,25.0,225.0,TikTok
+2025-12-21,Kurta Slim Fit,Clothing,3,35.0,65.0,195.0,Shopee
+2025-12-21,Baju Kurung Moden,Clothing,9,45.0,85.0,765.0,Shopee
+2025-12-21,Tudung Shawl,Hijab,4,18.0,35.0,140.0,TikTok
+2025-12-21,Sampul Raya,Accessories,4,1.5,5.0,20.0,TikTok
+2025-12-21,Kain Pelikat,Clothing,5,12.0,25.0,125.0,Shopee
+2025-12-21,Kain Pelikat,Clothing,4,12.0,25.0,100.0,TikTok
+2025-12-22,Tudung Bawal,Hijab,1,15.0,25.0,25.0,TikTok
+2025-12-22,Baju Kurung Moden,Clothing,9,45.0,85.0,765.0,TikTok
+2025-12-23,Tudung Bawal,Hijab,5,15.0,25.0,125.0,TikTok
+2025-12-23,Tudung Bawal,Hijab,3,15.0,25.0,75.0,TikTok
+2025-12-23,Tudung Shawl,Hijab,9,18.0,35.0,315.0,TikTok
+2025-12-23,Baju Melayu,Clothing,3,50.0,120.0,360.0,Shopee
+2025-12-23,Tudung Shawl,Hijab,3,18.0,35.0,105.0,TikTok
+2025-12-23,Kain Pelikat,Clothing,8,12.0,25.0,200.0,TikTok
+2025-12-24,Tudung Bawal,Hijab,6,15.0,25.0,150.0,Shopee
+2025-12-24,Baju Kurung Moden,Clothing,10,45.0,85.0,850.0,TikTok
+2025-12-24,Tudung Bawal,Hijab,3,15.0,25.0,75.0,TikTok
+2025-12-24,Baju Kurung Moden,Clothing,7,45.0,85.0,595.0,Shopee
+2025-12-25,Tudung Shawl,Hijab,7,18.0,35.0,245.0,TikTok
+2025-12-25,Baju Kurung Moden,Clothing,10,45.0,85.0,850.0,Shopee
+2025-12-25,Kain Pelikat,Clothing,7,12.0,25.0,175.0,Shopee
+2025-12-25,Baju Melayu,Clothing,10,50.0,120.0,1200.0,TikTok
+2025-12-26,Baju Kurung Moden,Clothing,2,45.0,85.0,170.0,Shopee
+2025-12-26,Baju Melayu,Clothing,7,50.0,120.0,840.0,TikTok
+2025-12-27,Tudung Bawal,Hijab,9,15.0,25.0,225.0,TikTok
+2025-12-27,Baju Kurung Moden,Clothing,10,45.0,85.0,850.0,Shopee
+2025-12-28,Kain Pelikat,Clothing,2,12.0,25.0,50.0,TikTok
+2025-12-28,Baju Melayu,Clothing,4,50.0,120.0,480.0,Shopee
+2025-12-28,Baju Melayu,Clothing,9,50.0,120.0,1080.0,TikTok
+2025-12-28,Sampul Raya,Accessories,10,1.5,5.0,50.0,Shopee
+2025-12-29,Baju Melayu,Clothing,7,50.0,120.0,840.0,TikTok
+2025-12-29,Tudung Bawal,Hijab,8,15.0,25.0,200.0,Shopee
+2025-12-29,Sampul Raya,Accessories,9,1.5,5.0,45.0,Shopee
+2025-12-29,Kurta Slim Fit,Clothing,4,35.0,65.0,260.0,Shopee
+2025-12-30,Sampul Raya,Accessories,8,1.5,5.0,40.0,Shopee
+2025-12-30,Baju Kurung Moden,Clothing,10,45.0,85.0,850.0,Shopee
+2025-12-31,Tudung Shawl,Hijab,7,18.0,35.0,245.0,Shopee
+2025-12-31,Sampul Raya,Accessories,9,1.5,5.0,45.0,Shopee
+2025-12-31,Kain Pelikat,Clothing,2,12.0,25.0,50.0,Shopee
+2025-12-31,Baju Melayu,Clothing,5,50.0,120.0,600.0,Shopee
+2026-01-01,Tudung Bawal,Hijab,2,15.0,25.0,50.0,Shopee
+2026-01-01,Baju Kurung Moden,Clothing,3,45.0,85.0,255.0,Shopee
+2026-01-01,Baju Melayu,Clothing,10,50.0,120.0,1200.0,Shopee
+2026-01-02,Kurta Slim Fit,Clothing,1,35.0,65.0,65.0,Shopee
+2026-01-02,Baju Melayu,Clothing,2,50.0,120.0,240.0,Shopee
+2026-01-02,Sampul Raya,Accessories,1,1.5,5.0,5.0,TikTok
+2026-01-02,Kurta Slim Fit,Clothing,2,35.0,65.0,130.0,Shopee
+2026-01-02,Baju Melayu,Clothing,9,50.0,120.0,1080.0,Shopee
+2026-01-03,Baju Kurung Moden,Clothing,4,45.0,85.0,340.0,TikTok
+2026-01-03,Kain Pelikat,Clothing,6,12.0,25.0,150.0,Shopee
+2026-01-04,Sampul Raya,Accessories,7,1.5,5.0,35.0,TikTok
+2026-01-04,Kurta Slim Fit,Clothing,9,35.0,65.0,585.0,TikTok
+2026-01-04,Baju Kurung Moden,Clothing,6,45.0,85.0,510.0,TikTok
+2026-01-04,Kurta Slim Fit,Clothing,8,35.0,65.0,520.0,TikTok
+2026-01-06,Tudung Shawl,Hijab,8,18.0,35.0,280.0,TikTok
+2026-01-06,Baju Kurung Moden,Clothing,8,45.0,85.0,680.0,TikTok
+2026-01-06,Baju Kurung Moden,Clothing,9,45.0,85.0,765.0,Shopee
+2026-01-06,Sampul Raya,Accessories,3,1.5,5.0,15.0,Shopee
+2026-01-06,Baju Kurung Moden,Clothing,8,45.0,85.0,680.0,Shopee
+2026-01-07,Tudung Shawl,Hijab,5,18.0,35.0,175.0,TikTok
+2026-01-08,Kurta Slim Fit,Clothing,6,35.0,65.0,390.0,TikTok
+2026-01-08,Baju Kurung Moden,Clothing,6,45.0,85.0,510.0,Shopee
+2026-01-08,Baju Melayu,Clothing,2,50.0,120.0,240.0,Shopee
+2026-01-08,Baju Kurung Moden,Clothing,6,45.0,85.0,510.0,Shopee
+2026-01-09,Tudung Shawl,Hijab,2,18.0,35.0,70.0,Shopee
+2026-01-10,Tudung Shawl,Hijab,2,18.0,35.0,70.0,TikTok
+2026-01-10,Tudung Shawl,Hijab,10,18.0,35.0,350.0,Shopee
+2026-01-10,Tudung Shawl,Hijab,8,18.0,35.0,280.0,TikTok
+2026-01-10,Tudung Shawl,Hijab,10,18.0,35.0,350.0,TikTok
+2026-01-10,Tudung Bawal,Hijab,10,15.0,25.0,250.0,TikTok
+2026-01-10,Baju Melayu,Clothing,1,50.0,120.0,120.0,TikTok
+2026-01-11,Sampul Raya,Accessories,3,1.5,5.0,15.0,Shopee
+2026-01-11,Baju Kurung Moden,Clothing,2,45.0,85.0,170.0,Shopee
+2026-01-11,Sampul Raya,Accessories,7,1.5,5.0,35.0,Shopee
+2026-01-11,Baju Melayu,Clothing,9,50.0,120.0,1080.0,Shopee
+2026-01-11,Baju Kurung Moden,Clothing,1,45.0,85.0,85.0,Shopee
+2026-01-11,Kurta Slim Fit,Clothing,9,35.0,65.0,585.0,Shopee
+2026-01-12,Sampul Raya,Accessories,5,1.5,5.0,25.0,Shopee
+2026-01-12,Sampul Raya,Accessories,2,1.5,5.0,10.0,Shopee
+2026-01-13,Tudung Bawal,Hijab,10,15.0,25.0,250.0,Shopee
+2026-01-14,Kain Pelikat,Clothing,10,12.0,25.0,250.0,TikTok
+2026-01-14,Baju Kurung Moden,Clothing,3,45.0,85.0,255.0,TikTok
+2026-01-14,Kurta Slim Fit,Clothing,5,35.0,65.0,325.0,TikTok
+2026-01-15,Kain Pelikat,Clothing,7,12.0,25.0,175.0,TikTok
+2026-01-15,Baju Kurung Moden,Clothing,9,45.0,85.0,765.0,Shopee
+2026-01-16,Kurta Slim Fit,Clothing,3,35.0,65.0,195.0,TikTok
+2026-01-16,Kain Pelikat,Clothing,8,12.0,25.0,200.0,Shopee
+2026-01-16,Tudung Shawl,Hijab,9,18.0,35.0,315.0,TikTok
+2026-01-17,Sampul Raya,Accessories,3,1.5,5.0,15.0,TikTok
+2026-01-17,Baju Kurung Moden,Clothing,2,45.0,85.0,170.0,TikTok
+2026-01-18,Baju Kurung Moden,Clothing,1,45.0,85.0,85.0,TikTok
+2026-01-18,Kurta Slim Fit,Clothing,10,35.0,65.0,650.0,Shopee
+2026-01-18,Tudung Bawal,Hijab,7,15.0,25.0,175.0,Shopee
+2026-01-18,Sampul Raya,Accessories,5,1.5,5.0,25.0,TikTok
+2026-01-19,Sampul Raya,Accessories,10,1.5,5.0,50.0,TikTok
+2026-01-19,Sampul Raya,Accessories,2,1.5,5.0,10.0,Shopee
+2026-01-19,Baju Melayu,Clothing,7,50.0,120.0,840.0,TikTok
+2026-01-19,Baju Melayu,Clothing,6,50.0,120.0,720.0,TikTok
+2026-01-19,Kain Pelikat,Clothing,1,12.0,25.0,25.0,Shopee
+2026-01-20,Kain Pelikat,Clothing,5,12.0,25.0,125.0,TikTok
+2026-01-20,Kain Pelikat,Clothing,5,12.0,25.0,125.0,TikTok
+2026-01-20,Kurta Slim Fit,Clothing,7,35.0,65.0,455.0,TikTok
+2026-01-20,Kain Pelikat,Clothing,4,12.0,25.0,100.0,TikTok
+2026-01-20,Baju Kurung Moden,Clothing,1,45.0,85.0,85.0,Shopee
+2026-01-21,Tudung Bawal,Hijab,2,15.0,25.0,50.0,TikTok
+2026-01-21,Baju Melayu,Clothing,7,50.0,120.0,840.0,Shopee
+2026-01-21,Tudung Bawal,Hijab,6,15.0,25.0,150.0,Shopee
+2026-01-21,Tudung Bawal,Hijab,7,15.0,25.0,175.0,Shopee
+2026-01-21,Tudung Bawal,Hijab,6,15.0,25.0,150.0,Shopee
+2026-01-21,Sampul Raya,Accessories,6,1.5,5.0,30.0,Shopee
+2026-01-21,Kain Pelikat,Clothing,7,12.0,25.0,175.0,TikTok
+2026-01-21,Tudung Bawal,Hijab,10,15.0,25.0,250.0,Shopee
+2026-01-22,Baju Kurung Moden,Clothing,9,45.0,85.0,765.0,Shopee
+2026-01-22,Tudung Shawl,Hijab,6,18.0,35.0,210.0,TikTok
+2026-01-22,Kain Pelikat,Clothing,9,12.0,25.0,225.0,Shopee
+2026-01-23,Sampul Raya,Accessories,1,1.5,5.0,5.0,TikTok
+2026-01-23,Sampul Raya,Accessories,3,1.5,5.0,15.0,Shopee
+2026-01-23,Sampul Raya,Accessories,10,1.5,5.0,50.0,TikTok
+2026-01-23,Kain Pelikat,Clothing,1,12.0,25.0,25.0,Shopee
+2026-01-23,Baju Kurung Moden,Clothing,10,45.0,85.0,850.0,TikTok
+2026-01-24,Tudung Shawl,Hijab,4,18.0,35.0,140.0,TikTok
+2026-01-24,Tudung Bawal,Hijab,4,15.0,25.0,100.0,TikTok
+2026-01-24,Kurta Slim Fit,Clothing,1,35.0,65.0,65.0,Shopee
+2026-01-24,Tudung Shawl,Hijab,9,18.0,35.0,315.0,Shopee
+2026-01-25,Kurta Slim Fit,Clothing,4,35.0,65.0,260.0,TikTok
+2026-01-25,Baju Melayu,Clothing,8,50.0,120.0,960.0,Shopee
+2026-01-25,Baju Melayu,Clothing,8,50.0,120.0,960.0,TikTok
+2026-01-25,Baju Kurung Moden,Clothing,5,45.0,85.0,425.0,Shopee
+2026-01-26,Tudung Bawal,Hijab,4,15.0,25.0,100.0,TikTok
+2026-01-26,Kurta Slim Fit,Clothing,3,35.0,65.0,195.0,Shopee
+2026-01-26,Tudung Bawal,Hijab,6,15.0,25.0,150.0,TikTok
+2026-01-26,Baju Kurung Moden,Clothing,6,45.0,85.0,510.0,TikTok
+2026-01-27,Tudung Shawl,Hijab,1,18.0,35.0,35.0,TikTok
+2026-01-27,Baju Kurung Moden,Clothing,6,45.0,85.0,510.0,Shopee
+2026-01-28,Tudung Bawal,Hijab,8,15.0,25.0,200.0,TikTok
+2026-01-29,Kurta Slim Fit,Clothing,5,35.0,65.0,325.0,Shopee
+2026-01-29,Kurta Slim Fit,Clothing,5,35.0,65.0,325.0,TikTok
+2026-01-30,Sampul Raya,Accessories,4,1.5,5.0,20.0,Shopee
+2026-01-30,Tudung Shawl,Hijab,5,18.0,35.0,175.0,TikTok
+2026-01-31,Kurta Slim Fit,Clothing,7,35.0,65.0,455.0,Shopee
+2026-01-31,Baju Melayu,Clothing,7,50.0,120.0,840.0,TikTok
+2026-02-01,Kurta Slim Fit,Clothing,8,35.0,65.0,520.0,Shopee
+2026-02-02,Sampul Raya,Accessories,2,1.5,5.0,10.0,TikTok
+2026-02-02,Kain Pelikat,Clothing,2,12.0,25.0,50.0,TikTok
+2026-02-02,Kurta Slim Fit,Clothing,4,35.0,65.0,260.0,TikTok
+2026-02-03,Tudung Shawl,Hijab,7,18.0,35.0,245.0,TikTok
+2026-02-03,Sampul Raya,Accessories,9,1.5,5.0,45.0,Shopee
+2026-02-03,Baju Kurung Moden,Clothing,10,45.0,85.0,850.0,Shopee
+2026-02-03,Kain Pelikat,Clothing,3,12.0,25.0,75.0,Shopee
+2026-02-03,Tudung Shawl,Hijab,2,18.0,35.0,70.0,TikTok
+2026-02-03,Tudung Bawal,Hijab,4,15.0,25.0,100.0,Shopee
+2026-02-04,Kurta Slim Fit,Clothing,3,35.0,65.0,195.0,Shopee
+2026-02-04,Baju Kurung Moden,Clothing,9,45.0,85.0,765.0,Shopee
+2026-02-04,Sampul Raya,Accessories,8,1.5,5.0,40.0,TikTok
+2026-02-05,Tudung Bawal,Hijab,8,15.0,25.0,200.0,Shopee
+2026-02-05,Kurta Slim Fit,Clothing,3,35.0,65.0,195.0,TikTok
+2026-02-05,Kurta Slim Fit,Clothing,9,35.0,65.0,585.0,TikTok
+2026-02-05,Sampul Raya,Accessories,5,1.5,5.0,25.0,TikTok
+2026-02-05,Kain Pelikat,Clothing,3,12.0,25.0,75.0,TikTok
+2026-02-05,Kain Pelikat,Clothing,7,12.0,25.0,175.0,Shopee
+2026-02-05,Sampul Raya,Accessories,8,1.5,5.0,40.0,Shopee
+2026-02-06,Kurta Slim Fit,Clothing,3,35.0,65.0,195.0,Shopee
+2026-02-06,Kurta Slim Fit,Clothing,7,35.0,65.0,455.0,TikTok
+2026-02-06,Kain Pelikat,Clothing,9,12.0,25.0,225.0,Shopee
+2026-02-06,Kain Pelikat,Clothing,9,12.0,25.0,225.0,TikTok
+2026-02-07,Tudung Bawal,Hijab,4,15.0,25.0,100.0,TikTok
+2026-02-07,Kain Pelikat,Clothing,4,12.0,25.0,100.0,TikTok
+2026-02-07,Tudung Shawl,Hijab,1,18.0,35.0,35.0,TikTok
+2026-02-08,Kain Pelikat,Clothing,4,12.0,25.0,100.0,Shopee
+2026-02-08,Sampul Raya,Accessories,4,1.5,5.0,20.0,TikTok
+2026-02-09,Tudung Bawal,Hijab,3,15.0,25.0,75.0,Shopee
+2026-02-09,Tudung Shawl,Hijab,8,18.0,35.0,280.0,TikTok
+2026-02-10,Tudung Shawl,Hijab,1,18.0,35.0,35.0,Shopee
+2026-02-10,Sampul Raya,Accessories,10,1.5,5.0,50.0,Shopee
+2026-02-10,Kurta Slim Fit,Clothing,7,35.0,65.0,455.0,TikTok
+2026-02-10,Baju Melayu,Clothing,10,50.0,120.0,1200.0,Shopee
+2026-02-10,Sampul Raya,Accessories,9,1.5,5.0,45.0,Shopee
+2026-02-10,Baju Kurung Moden,Clothing,7,45.0,85.0,595.0,TikTok
+2026-02-11,Sampul Raya,Accessories,3,1.5,5.0,15.0,Shopee
+2026-02-11,Sampul Raya,Accessories,8,1.5,5.0,40.0,TikTok
+2026-02-12,Baju Kurung Moden,Clothing,7,45.0,85.0,595.0,Shopee
+2026-02-12,Kurta Slim Fit,Clothing,4,35.0,65.0,260.0,Shopee
+2026-02-12,Tudung Shawl,Hijab,1,18.0,35.0,35.0,TikTok
+2026-02-12,Tudung Bawal,Hijab,7,15.0,25.0,175.0,TikTok
+2026-02-13,Tudung Shawl,Hijab,10,18.0,35.0,350.0,TikTok
+2026-02-13,Kain Pelikat,Clothing,4,12.0,25.0,100.0,Shopee
+2026-02-13,Sampul Raya,Accessories,7,1.5,5.0,35.0,TikTok
+2026-02-13,Sampul Raya,Accessories,3,1.5,5.0,15.0,Shopee
+2026-02-14,Baju Kurung Moden,Clothing,10,45.0,85.0,850.0,TikTok
+2026-02-14,Baju Melayu,Clothing,3,50.0,120.0,360.0,Shopee
+2026-02-14,Baju Kurung Moden,Clothing,6,45.0,85.0,510.0,TikTok
+2026-02-14,Kain Pelikat,Clothing,1,12.0,25.0,25.0,Shopee
+2026-02-14,Baju Melayu,Clothing,10,50.0,120.0,1200.0,TikTok
+2026-02-15,Baju Melayu,Clothing,9,50.0,120.0,1080.0,Shopee
+2026-02-15,Baju Kurung Moden,Clothing,8,45.0,85.0,680.0,Shopee
+2026-02-15,Sampul Raya,Accessories,6,1.5,5.0,30.0,TikTok
+2026-02-15,Tudung Bawal,Hijab,2,15.0,25.0,50.0,TikTok
+2026-02-15,Tudung Bawal,Hijab,5,15.0,25.0,125.0,TikTok
+2026-02-15,Sampul Raya,Accessories,7,1.5,5.0,35.0,Shopee
+2026-02-15,Tudung Shawl,Hijab,3,18.0,35.0,105.0,Shopee
+2026-02-16,Tudung Bawal,Hijab,10,15.0,25.0,250.0,Shopee
+2026-02-16,Tudung Shawl,Hijab,1,18.0,35.0,35.0,TikTok
+2026-02-17,Baju Kurung Moden,Clothing,7,45.0,85.0,595.0,TikTok
+2026-02-17,Baju Melayu,Clothing,4,50.0,120.0,480.0,Shopee
+2026-02-17,Tudung Shawl,Hijab,2,18.0,35.0,70.0,TikTok
+2026-02-18,Kain Pelikat,Clothing,4,12.0,25.0,100.0,TikTok
+2026-02-18,Tudung Bawal,Hijab,9,15.0,25.0,225.0,TikTok
+2026-02-19,Kain Pelikat,Clothing,5,12.0,25.0,125.0,TikTok
+2026-02-19,Sampul Raya,Accessories,7,1.5,5.0,35.0,Shopee
+2026-02-20,Tudung Shawl,Hijab,7,18.0,35.0,245.0,Shopee
+2026-02-20,Sampul Raya,Accessories,2,1.5,5.0,10.0,Shopee
+2026-02-21,Kurta Slim Fit,Clothing,1,35.0,65.0,65.0,Shopee
+2026-02-21,Baju Melayu,Clothing,2,50.0,120.0,240.0,TikTok
+2026-02-21,Baju Kurung Moden,Clothing,9,45.0,85.0,765.0,Shopee
+2026-02-21,Tudung Shawl,Hijab,9,18.0,35.0,315.0,Shopee
+2026-02-21,Baju Kurung Moden,Clothing,7,45.0,85.0,595.0,TikTok
+2026-02-21,Tudung Bawal,Hijab,3,15.0,25.0,75.0,TikTok
+2026-02-21,Kain Pelikat,Clothing,9,12.0,25.0,225.0,Shopee
+2026-02-22,Tudung Bawal,Hijab,9,15.0,25.0,225.0,Shopee
+2026-02-22,Tudung Bawal,Hijab,2,15.0,25.0,50.0,TikTok
+2026-02-23,Baju Kurung Moden,Clothing,7,45.0,85.0,595.0,TikTok
+2026-02-23,Baju Melayu,Clothing,5,50.0,120.0,600.0,Shopee
+2026-02-24,Kurta Slim Fit,Clothing,9,35.0,65.0,585.0,TikTok
+2026-02-24,Tudung Shawl,Hijab,3,18.0,35.0,105.0,Shopee
+2026-02-24,Baju Kurung Moden,Clothing,8,45.0,85.0,680.0,TikTok
+2026-02-24,Kain Pelikat,Clothing,5,12.0,25.0,125.0,Shopee
+2026-02-24,Tudung Bawal,Hijab,8,15.0,25.0,200.0,TikTok
+2026-02-24,Kain Pelikat,Clothing,2,12.0,25.0,50.0,TikTok
+2026-02-25,Kurta Slim Fit,Clothing,5,35.0,65.0,325.0,TikTok
+2026-02-25,Baju Kurung Moden,Clothing,2,45.0,85.0,170.0,TikTok
+2026-02-25,Kurta Slim Fit,Clothing,2,35.0,65.0,130.0,TikTok
+2026-02-26,Tudung Shawl,Hijab,4,18.0,35.0,140.0,TikTok
+2026-02-27,Sampul Raya,Accessories,9,1.5,5.0,45.0,TikTok
+2026-02-27,Sampul Raya,Accessories,2,1.5,5.0,10.0,TikTok
+2026-02-28,Kurta Slim Fit,Clothing,2,35.0,65.0,130.0,Shopee
+2026-02-28,Kain Pelikat,Clothing,8,12.0,25.0,200.0,Shopee
+2026-03-01,Sampul Raya,Accessories,9,1.5,5.0,45.0,TikTok
+2026-03-01,Baju Kurung Moden,Clothing,1,45.0,85.0,85.0,Shopee
+2026-03-02,Tudung Bawal,Hijab,2,15.0,25.0,50.0,TikTok
+2026-03-02,Sampul Raya,Accessories,7,1.5,5.0,35.0,Shopee
+2026-03-03,Tudung Shawl,Hijab,3,18.0,35.0,105.0,TikTok
+2026-03-03,Baju Kurung Moden,Clothing,9,45.0,85.0,765.0,TikTok
+2026-03-03,Kurta Slim Fit,Clothing,4,35.0,65.0,260.0,Shopee
+2026-03-03,Tudung Shawl,Hijab,7,18.0,35.0,245.0,TikTok
+2026-03-03,Baju Kurung Moden,Clothing,3,45.0,85.0,255.0,Shopee
+2026-03-03,Baju Kurung Moden,Clothing,5,45.0,85.0,425.0,Shopee
+2026-03-04,Sampul Raya,Accessories,4,1.5,5.0,20.0,TikTok
+2026-03-05,Kain Pelikat,Clothing,6,12.0,25.0,150.0,TikTok
+2026-03-05,Kain Pelikat,Clothing,2,12.0,25.0,50.0,Shopee
+2026-03-05,Tudung Bawal,Hijab,5,15.0,25.0,125.0,Shopee
+2026-03-05,Tudung Bawal,Hijab,1,15.0,25.0,25.0,TikTok
+2026-03-05,Sampul Raya,Accessories,6,1.5,5.0,30.0,TikTok
+2026-03-05,Sampul Raya,Accessories,7,1.5,5.0,35.0,TikTok
+2026-03-05,Kain Pelikat,Clothing,9,12.0,25.0,225.0,TikTok
+2026-03-06,Baju Melayu,Clothing,7,50.0,120.0,840.0,TikTok
+2026-03-07,Tudung Shawl,Hijab,3,18.0,35.0,105.0,Shopee
+2026-03-07,Kurta Slim Fit,Clothing,8,35.0,65.0,520.0,TikTok
+2026-03-08,Tudung Shawl,Hijab,9,18.0,35.0,315.0,TikTok
+2026-03-08,Kain Pelikat,Clothing,3,12.0,25.0,75.0,Shopee
+2026-03-08,Baju Melayu,Clothing,1,50.0,120.0,120.0,TikTok
+2026-03-08,Sampul Raya,Accessories,1,1.5,5.0,5.0,Shopee
+2026-03-08,Baju Melayu,Clothing,1,50.0,120.0,120.0,Shopee
+2026-03-09,Tudung Shawl,Hijab,3,18.0,35.0,105.0,TikTok
+2026-03-09,Tudung Shawl,Hijab,4,18.0,35.0,140.0,Shopee
+2026-03-10,Sampul Raya,Accessories,9,1.5,5.0,45.0,Shopee
+2026-03-10,Baju Melayu,Clothing,10,50.0,120.0,1200.0,Shopee
+2026-03-10,Kurta Slim Fit,Clothing,10,35.0,65.0,650.0,TikTok
+2026-03-10,Tudung Bawal,Hijab,7,15.0,25.0,175.0,TikTok
+2026-03-11,Kain Pelikat,Clothing,6,12.0,25.0,150.0,Shopee
+2026-03-11,Kain Pelikat,Clothing,6,12.0,25.0,150.0,TikTok
+2026-03-11,Tudung Bawal,Hijab,2,15.0,25.0,50.0,Shopee
+2026-03-12,Baju Kurung Moden,Clothing,2,45.0,85.0,170.0,TikTok
+2026-03-12,Kurta Slim Fit,Clothing,1,35.0,65.0,65.0,TikTok
+2026-03-12,Baju Melayu,Clothing,10,50.0,120.0,1200.0,TikTok
+2026-03-12,Kurta Slim Fit,Clothing,6,35.0,65.0,390.0,TikTok
+2026-03-12,Baju Kurung Moden,Clothing,9,45.0,85.0,765.0,TikTok
+2026-03-13,Baju Kurung Moden,Clothing,4,45.0,85.0,340.0,TikTok
+2026-03-14,Sampul Raya,Accessories,3,1.5,5.0,15.0,Shopee
+2026-03-14,Tudung Bawal,Hijab,5,15.0,25.0,125.0,TikTok
+2026-03-14,Tudung Shawl,Hijab,3,18.0,35.0,105.0,TikTok
+2026-03-15,Baju Melayu,Clothing,10,50.0,120.0,1200.0,Shopee
+2026-03-15,Kurta Slim Fit,Clothing,7,35.0,65.0,455.0,Shopee
+2026-03-15,Kain Pelikat,Clothing,3,12.0,25.0,75.0,TikTok
+2026-03-16,Sampul Raya,Accessories,5,1.5,5.0,25.0,Shopee
+2026-03-16,Baju Melayu,Clothing,6,50.0,120.0,720.0,Shopee
+2026-03-17,Tudung Shawl,Hijab,8,18.0,35.0,280.0,Shopee
+2026-03-17,Kurta Slim Fit,Clothing,4,35.0,65.0,260.0,TikTok
+2026-03-17,Baju Kurung Moden,Clothing,4,45.0,85.0,340.0,Shopee
+2026-03-17,Baju Kurung Moden,Clothing,1,45.0,85.0,85.0,TikTok
+2026-03-17,Tudung Bawal,Hijab,2,15.0,25.0,50.0,TikTok
+2026-03-19,Baju Melayu,Clothing,4,50.0,120.0,480.0,Shopee
+2026-03-20,Kain Pelikat,Clothing,7,12.0,25.0,175.0,Shopee
+2026-03-20,Kurta Slim Fit,Clothing,5,35.0,65.0,325.0,Shopee
+2026-03-20,Tudung Bawal,Hijab,5,15.0,25.0,125.0,Shopee
+2026-03-21,Sampul Raya,Accessories,3,1.5,5.0,15.0,Shopee
+2026-03-21,Sampul Raya,Accessories,5,1.5,5.0,25.0,Shopee
+2026-03-21,Kurta Slim Fit,Clothing,10,35.0,65.0,650.0,TikTok
+2026-03-22,Baju Melayu,Clothing,1,50.0,120.0,120.0,Shopee
+2026-03-22,Sampul Raya,Accessories,7,1.5,5.0,35.0,Shopee
+2026-03-22,Sampul Raya,Accessories,8,1.5,5.0,40.0,TikTok
+2026-03-23,Sampul Raya,Accessories,7,1.5,5.0,35.0,TikTok
+2026-03-23,Baju Melayu,Clothing,1,50.0,120.0,120.0,TikTok
+2026-03-23,Kain Pelikat,Clothing,3,12.0,25.0,75.0,TikTok
+2026-03-23,Baju Kurung Moden,Clothing,3,45.0,85.0,255.0,TikTok
+2026-03-23,Tudung Bawal,Hijab,4,15.0,25.0,100.0,TikTok
+2026-03-23,Sampul Raya,Accessories,4,1.5,5.0,20.0,TikTok
+2026-03-24,Tudung Bawal,Hijab,10,15.0,25.0,250.0,Shopee
+2026-03-24,Sampul Raya,Accessories,6,1.5,5.0,30.0,TikTok
+2026-03-26,Baju Melayu,Clothing,1,50.0,120.0,120.0,Shopee
+2026-03-26,Baju Kurung Moden,Clothing,1,45.0,85.0,85.0,Shopee
+2026-03-26,Baju Kurung Moden,Clothing,8,45.0,85.0,680.0,TikTok
+2026-03-26,Tudung Bawal,Hijab,9,15.0,25.0,225.0,Shopee
+2026-03-26,Tudung Shawl,Hijab,10,18.0,35.0,350.0,TikTok
+2026-03-26,Baju Kurung Moden,Clothing,3,45.0,85.0,255.0,Shopee
+2026-03-26,Tudung Bawal,Hijab,4,15.0,25.0,100.0,TikTok
+2026-03-27,Baju Kurung Moden,Clothing,4,45.0,85.0,340.0,Shopee
+2026-03-27,Tudung Shawl,Hijab,4,18.0,35.0,140.0,TikTok
+2026-03-27,Kain Pelikat,Clothing,1,12.0,25.0,25.0,TikTok
+2026-03-27,Tudung Bawal,Hijab,6,15.0,25.0,150.0,TikTok
+2026-03-27,Baju Melayu,Clothing,9,50.0,120.0,1080.0,Shopee
+2026-03-27,Kurta Slim Fit,Clothing,6,35.0,65.0,390.0,TikTok
+2026-03-27,Baju Melayu,Clothing,10,50.0,120.0,1200.0,Shopee
+2026-03-27,Tudung Bawal,Hijab,3,15.0,25.0,75.0,Shopee
+2026-03-28,Tudung Bawal,Hijab,9,15.0,25.0,225.0,TikTok
+2026-03-28,Tudung Shawl,Hijab,2,18.0,35.0,70.0,TikTok
+2026-03-30,Tudung Bawal,Hijab,4,15.0,25.0,100.0,Shopee
+2026-03-30,Baju Melayu,Clothing,3,50.0,120.0,360.0,TikTok
+2026-03-30,Kain Pelikat,Clothing,9,12.0,25.0,225.0,TikTok
+2026-03-30,Kain Pelikat,Clothing,4,12.0,25.0,100.0,Shopee
+2026-03-31,Tudung Bawal,Hijab,5,15.0,25.0,125.0,TikTok
+2026-03-31,Kurta Slim Fit,Clothing,8,35.0,65.0,520.0,Shopee
+2026-03-31,Tudung Shawl,Hijab,10,18.0,35.0,350.0,Shopee
+2026-03-31,Kain Pelikat,Clothing,3,12.0,25.0,75.0,Shopee
+2026-03-31,Tudung Shawl,Hijab,10,18.0,35.0,350.0,TikTok
+2026-03-31,Sampul Raya,Accessories,7,1.5,5.0,35.0,TikTok
+2026-03-31,Baju Kurung Moden,Clothing,10,45.0,85.0,850.0,Shopee
+2026-03-31,Baju Kurung Moden,Clothing,1,45.0,85.0,85.0,Shopee
+2026-04-01,Baju Kurung Moden,Clothing,10,45.0,85.0,850.0,Shopee
+2026-04-01,Kain Pelikat,Clothing,9,12.0,25.0,225.0,Shopee
+2026-04-01,Baju Melayu,Clothing,6,50.0,120.0,720.0,Shopee
+2026-04-01,Baju Melayu,Clothing,6,50.0,120.0,720.0,TikTok
+2026-04-02,Tudung Shawl,Hijab,5,18.0,35.0,175.0,Shopee
+2026-04-02,Tudung Bawal,Hijab,7,15.0,25.0,175.0,TikTok
+2026-04-02,Kain Pelikat,Clothing,2,12.0,25.0,50.0,TikTok
+2026-04-03,Tudung Shawl,Hijab,1,18.0,35.0,35.0,TikTok
+2026-04-03,Baju Melayu,Clothing,9,50.0,120.0,1080.0,Shopee
+2026-04-03,Baju Melayu,Clothing,8,50.0,120.0,960.0,TikTok
+2026-04-03,Baju Kurung Moden,Clothing,9,45.0,85.0,765.0,Shopee
+2026-04-04,Kurta Slim Fit,Clothing,9,35.0,65.0,585.0,TikTok
+2026-04-05,Baju Kurung Moden,Clothing,3,45.0,85.0,255.0,TikTok
+2026-04-05,Tudung Bawal,Hijab,6,15.0,25.0,150.0,Shopee
+2026-04-06,Kain Pelikat,Clothing,9,12.0,25.0,225.0,TikTok
+2026-04-06,Tudung Shawl,Hijab,1,18.0,35.0,35.0,Shopee
+2026-04-06,Kain Pelikat,Clothing,4,12.0,25.0,100.0,Shopee
+2026-04-06,Kurta Slim Fit,Clothing,8,35.0,65.0,520.0,TikTok
+2026-04-07,Tudung Bawal,Hijab,8,15.0,25.0,200.0,TikTok
+2026-04-07,Kurta Slim Fit,Clothing,6,35.0,65.0,390.0,Shopee
+2026-04-07,Sampul Raya,Accessories,7,1.5,5.0,35.0,TikTok
+2026-04-07,Tudung Shawl,Hijab,1,18.0,35.0,35.0,Shopee
+2026-04-08,Baju Melayu,Clothing,2,50.0,120.0,240.0,Shopee
+2026-04-08,Baju Kurung Moden,Clothing,9,45.0,85.0,765.0,TikTok
+2026-04-08,Kain Pelikat,Clothing,2,12.0,25.0,50.0,Shopee
+2026-04-09,Baju Melayu,Clothing,9,50.0,120.0,1080.0,Shopee
+2026-04-09,Tudung Bawal,Hijab,2,15.0,25.0,50.0,TikTok
+2026-04-10,Kain Pelikat,Clothing,9,12.0,25.0,225.0,TikTok
+2026-04-11,Tudung Shawl,Hijab,5,18.0,35.0,175.0,Shopee
+2026-04-11,Sampul Raya,Accessories,3,1.5,5.0,15.0,Shopee
+2026-04-11,Tudung Bawal,Hijab,7,15.0,25.0,175.0,TikTok
+2026-04-11,Baju Melayu,Clothing,2,50.0,120.0,240.0,TikTok
+2026-04-11,Tudung Bawal,Hijab,4,15.0,25.0,100.0,TikTok
+2026-04-11,Kain Pelikat,Clothing,5,12.0,25.0,125.0,Shopee
+2026-04-12,Tudung Shawl,Hijab,7,18.0,35.0,245.0,TikTok
+2026-04-12,Baju Kurung Moden,Clothing,3,45.0,85.0,255.0,TikTok
+2026-04-12,Tudung Shawl,Hijab,3,18.0,35.0,105.0,Shopee
+2026-04-13,Kain Pelikat,Clothing,4,12.0,25.0,100.0,TikTok
+2026-04-13,Baju Kurung Moden,Clothing,9,45.0,85.0,765.0,Shopee
+2026-04-13,Tudung Bawal,Hijab,1,15.0,25.0,25.0,Shopee
+2026-04-13,Tudung Shawl,Hijab,4,18.0,35.0,140.0,Shopee
+2026-04-13,Sampul Raya,Accessories,1,1.5,5.0,5.0,Shopee
+2026-04-13,Kain Pelikat,Clothing,1,12.0,25.0,25.0,TikTok
+2026-04-14,Sampul Raya,Accessories,6,1.5,5.0,30.0,TikTok
+2026-04-14,Sampul Raya,Accessories,9,1.5,5.0,45.0,Shopee
+2026-04-14,Tudung Shawl,Hijab,8,18.0,35.0,280.0,Shopee
+2026-04-15,Tudung Shawl,Hijab,10,18.0,35.0,350.0,TikTok
+2026-04-15,Kurta Slim Fit,Clothing,7,35.0,65.0,455.0,Shopee
+2026-04-15,Sampul Raya,Accessories,4,1.5,5.0,20.0,TikTok
+2026-04-15,Sampul Raya,Accessories,6,1.5,5.0,30.0,TikTok
+2026-04-15,Kain Pelikat,Clothing,6,12.0,25.0,150.0,TikTok
+2026-04-15,Kain Pelikat,Clothing,6,12.0,25.0,150.0,TikTok
+2026-04-16,Sampul Raya,Accessories,3,1.5,5.0,15.0,Shopee
+2026-04-16,Tudung Shawl,Hijab,1,18.0,35.0,35.0,TikTok
+2026-04-16,Kain Pelikat,Clothing,9,12.0,25.0,225.0,Shopee
+2026-04-16,Kain Pelikat,Clothing,6,12.0,25.0,150.0,Shopee
+2026-04-16,Sampul Raya,Accessories,7,1.5,5.0,35.0,TikTok
+2026-04-17,Kurta Slim Fit,Clothing,9,35.0,65.0,585.0,TikTok
+2026-04-17,Kurta Slim Fit,Clothing,10,35.0,65.0,650.0,TikTok
+2026-04-18,Baju Melayu,Clothing,7,50.0,120.0,840.0,Shopee
+2026-04-19,Tudung Shawl,Hijab,7,18.0,35.0,245.0,TikTok
+2026-04-19,Baju Kurung Moden,Clothing,6,45.0,85.0,510.0,TikTok
+2026-04-19,Baju Melayu,Clothing,8,50.0,120.0,960.0,TikTok
+2026-04-20,Baju Melayu,Clothing,6,50.0,120.0,720.0,Shopee
+2026-04-20,Baju Kurung Moden,Clothing,8,45.0,85.0,680.0,TikTok
+2026-04-20,Baju Kurung Moden,Clothing,8,45.0,85.0,680.0,Shopee
+2026-04-20,Sampul Raya,Accessories,7,1.5,5.0,35.0,Shopee
+2026-04-20,Kain Pelikat,Clothing,1,12.0,25.0,25.0,TikTok
+2026-04-21,Baju Kurung Moden,Clothing,5,45.0,85.0,425.0,TikTok
+2026-04-21,Sampul Raya,Accessories,9,1.5,5.0,45.0,Shopee
+2026-04-21,Baju Kurung Moden,Clothing,5,45.0,85.0,425.0,Shopee
+2026-04-21,Kain Pelikat,Clothing,1,12.0,25.0,25.0,TikTok
+2026-04-22,Kain Pelikat,Clothing,6,12.0,25.0,150.0,Shopee
+2026-04-22,Kurta Slim Fit,Clothing,2,35.0,65.0,130.0,Shopee
+2026-04-22,Sampul Raya,Accessories,4,1.5,5.0,20.0,Shopee
+2026-04-23,Kurta Slim Fit,Clothing,5,35.0,65.0,325.0,Shopee
+2026-04-23,Sampul Raya,Accessories,5,1.5,5.0,25.0,TikTok
+2026-04-23,Baju Kurung Moden,Clothing,5,45.0,85.0,425.0,TikTok
+2026-04-23,Tudung Bawal,Hijab,10,15.0,25.0,250.0,TikTok
+2026-04-24,Baju Kurung Moden,Clothing,5,45.0,85.0,425.0,Shopee
+2026-04-24,Baju Kurung Moden,Clothing,1,45.0,85.0,85.0,Shopee
+2026-04-25,Sampul Raya,Accessories,8,1.5,5.0,40.0,Shopee
+2026-04-25,Kain Pelikat,Clothing,7,12.0,25.0,175.0,Shopee
+2026-04-25,Kurta Slim Fit,Clothing,5,35.0,65.0,325.0,Shopee
+2026-04-25,Kurta Slim Fit,Clothing,5,35.0,65.0,325.0,Shopee
+2026-04-25,Kurta Slim Fit,Clothing,4,35.0,65.0,260.0,Shopee
+2026-04-25,Kurta Slim Fit,Clothing,10,35.0,65.0,650.0,Shopee
+2026-04-26,Tudung Shawl,Hijab,3,18.0,35.0,105.0,Shopee
+2026-04-26,Baju Kurung Moden,Clothing,3,45.0,85.0,255.0,Shopee
