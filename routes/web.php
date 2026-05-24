@@ -2,9 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::get('/', function () {
-    return view('import');
-});
-use App\Http\Controllers\ProductController;
+Route::get('/', [App\Http\Controllers\SalesImportController::class, 'index']);
+use App\Http\Controllers\SalesImportController;
 
-Route::post('/import-products', [ProductController::class, 'import'])->name('products.import');
+Route::post('/import-sales', [SalesImportController::class, 'import'])->name('sales.import');
