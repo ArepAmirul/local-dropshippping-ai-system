@@ -1,3 +1,4 @@
+import React from 'react';
 import { ShoppingCart, Package, AlertTriangle, DollarSign, TrendingUp, Eye, ArrowUp, ArrowDown } from 'lucide-react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, PieChart, Pie, Cell } from 'recharts';
 import { useState } from 'react';

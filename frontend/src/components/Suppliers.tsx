@@ -1,3 +1,4 @@
+import React from 'react';
 import { Star, MapPin, Package, TrendingUp, CheckCircle } from 'lucide-react';
 
 export function Suppliers() {

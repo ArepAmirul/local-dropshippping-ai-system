@@ -1,3 +1,4 @@
+import React from 'react';
 import { Bell, User, Lock, Palette, Globe, CreditCard } from 'lucide-react';
 
 export function Settings() {
