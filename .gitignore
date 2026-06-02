@@ -1,27 +1,14 @@
-# --- General System Files ---
+/node_modules
+/public/storage
+/public/hot
+/storage/*.key
+/vendor
 .env
-.DS_Store
-Thumbs.db
-*.log
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
 auth.json
-
-# --- Backend (Laravel) ---
-/backend/vendor/
-/backend/node_modules/
-/backend/public/storage
-/backend/storage/*.key
-/backend/.phpunit.result.cache
-/backend/.env
-/backend/.env.backup
-
-# --- Frontend (Vue.js) ---
-/frontend/node_modules/
-/frontend/dist/
-/frontend/.npm/
-/frontend/.env
-
-# --- AI Engine (Python) ---
-/ai-engine/__pycache__/
-/ai-engine/venv/
-/ai-engine/.env
-/ai-engine/.ipynb_checkpoints/
+npm-debug.log
+yarn-error.log
+/.vscode
