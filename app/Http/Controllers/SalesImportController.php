@@ -9,16 +9,19 @@ class SalesImportController extends Controller
 {
     // This part loads the dashboard boxes
     public function index()
-    {
-        $allSales = SalesHistory::latest()->get();
+{
+    $allSales = SalesHistory::latest()->get();
 
-        // These two lines calculate the numbers for your boxes
-        $totalOrders = $allSales->count();
-        $totalItems = $allSales->sum('quantity_sold');
+    $totalOrders = $allSales->count();
+    $totalItems = $allSales->sum('quantity_sold');
 
-        return view('import', compact('allSales', 'totalOrders', 'totalItems'));
-    }
-
+    return response()->json([
+        'status' => 'success',
+        'totalOrders' => $totalOrders,
+        'totalItems' => $totalItems,
+        'allSales' => $allSales
+    ]);
+}
     // This part handles the file upload
     public function import(Request $request)
     {
