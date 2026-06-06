@@ -21,7 +21,7 @@ class ProductController extends Controller
         // 4. This reads the data line-by-line and saves it to the database
         while (($row = fgetcsv($handle, 1000, ',')) !== FALSE) {
             Product::create([
-                'name'  => $row[0], // Column 1 in your CSV
+                'name' => $row[0],  // Column 1 in your CSV
                 'price' => $row[1], // Column 2 in your CSV
                 'stock' => $row[2], // Column 3 in your CSV
             ]);
@@ -30,5 +30,27 @@ class ProductController extends Controller
         // 5. Close the file and go back to the page with a success message
         fclose($handle);
         return back()->with('success', 'Products imported successfully!');
+    }
+
+    /**
+     * AMBIL SEMUA PRODUK (Fungsi Plug In Ke Frontend)
+     */
+    public function getAllProducts()
+    {
+        try {
+            $products = Product::all();
+
+            return response()->json([
+                'status' => 'success',
+                'count' => $products->count(),
+                'products' => $products
+            ], 200);
+
+        } catch (\Exception $e) {
+            return response()->json([
+                'status' => 'error',
+                'message' => $e->getMessage()
+            ], 500);
+        }
     }
 }
