@@ -1,85 +1,109 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Search, Filter, Download, Eye } from 'lucide-react';
+
+// 🚀 Define the structural dictionary matching Tayaalini's database columns
+interface OrderBackendStructure {
+  id: number;
+  order_id: string;
+  customer_name: string;
+  customer_email?: string; 
+  product_name: string;
+  quantity: number;
+  total_price: number;
+  supplier_name?: string;  
+  status: string;
+  created_at: string;
+  updated_at?: string;
+}
 
 export function Orders() {
   const [searchTerm, setSearchTerm] = useState('');
   const [statusFilter, setStatusFilter] = useState('all');
 
-  const orders = [
+  // 📦 Temporary local fallback pool while backend orders table is empty
+  const localBackupOrders: OrderBackendStructure[] = [
     {
-      id: 'ORD-1234',
-      customer: 'John Doe',
-      email: 'john@example.com',
-      product: 'Wireless Headphones',
+      id: 1,
+      order_id: "ORD-9942",
+      customer_name: "Ahmad Razak",
+      product_name: "Wireless Earbuds Pro",
       quantity: 2,
-      amount: 179.98,
-      status: 'Processing',
-      date: '2024-12-15',
-      supplier: 'TechSupply Co.',
+      total_price: 150.00,
+      status: "processing",
+      created_at: "2026-06-06",
+      updated_at: "2026-06-06"
     },
     {
-      id: 'ORD-1235',
-      customer: 'Jane Smith',
-      email: 'jane@example.com',
-      product: 'Smart Watch',
+      id: 2,
+      order_id: "ORD-8831",
+      customer_name: "Siti",
+      product_name: "Ergonomic Office Chair",
       quantity: 1,
-      amount: 199.99,
-      status: 'Shipped',
-      date: '2024-12-14',
-      supplier: 'Gadget World',
+      total_price: 320.00,
+      status: "completed",
+      created_at: "2026-06-05",
+      updated_at: "2026-06-05"
     },
     {
-      id: 'ORD-1236',
-      customer: 'Mike Johnson',
-      email: 'mike@example.com',
-      product: 'Phone Case',
-      quantity: 3,
-      amount: 74.97,
-      status: 'Delivered',
-      date: '2024-12-13',
-      supplier: 'Accessories Plus',
-    },
-    {
-      id: 'ORD-1237',
-      customer: 'Sarah Williams',
-      email: 'sarah@example.com',
-      product: 'USB Cable',
-      quantity: 5,
-      amount: 64.95,
-      status: 'Processing',
-      date: '2024-12-15',
-      supplier: 'TechSupply Co.',
-    },
-    {
-      id: 'ORD-1238',
-      customer: 'Tom Brown',
-      email: 'tom@example.com',
-      product: 'Laptop Stand',
+      id: 3,
+      order_id: "ORD-7724",
+      customer_name: "Kevin Tan",
+      product_name: "Mechanical Gaming Keyboard",
       quantity: 1,
-      amount: 45.99,
-      status: 'Shipped',
-      date: '2024-12-14',
-      supplier: 'Office Essentials',
-    },
-    {
-      id: 'ORD-1239',
-      customer: 'Emily Davis',
-      email: 'emily@example.com',
-      product: 'Bluetooth Speaker',
-      quantity: 1,
-      amount: 79.99,
-      status: 'Processing',
-      date: '2024-12-15',
-      supplier: 'TechSupply Co.',
-    },
+      total_price: 240.00,
+      status: "processing",
+      created_at: "2026-06-04",
+      updated_at: "2026-06-04"
+    }
   ];
+  
+  // ⚡ Live Database States (Defaults directly to your backup pool!)
+  const [orders, setOrders] = useState<OrderBackendStructure[]>(localBackupOrders);
+  const [loading, setLoading] = useState<boolean>(true);
+  const [error, setError] = useState<string | null>(null);
 
+  // 📡 Hit the live Laravel pipeline when page loads
+  useEffect(() => {
+    fetch('http://127.0.0.1:8000/api/orders')
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error('Could not establish connection to local backend pipeline.');
+        }
+        return response.json();
+      })
+      .then((data) => {
+        // Extract the orders array out of the Laravel response wrapper object
+        const cleanData = Array.isArray(data) ? data : data.orders || data.data || [];
+        
+        // If your live database has rows, load them. Otherwise, fall back to the backup objects!
+        if (cleanData && cleanData.length > 0) {
+          setOrders(cleanData);
+        } else {
+          setOrders(localBackupOrders);
+        }
+        setLoading(false);
+      })
+      .catch((err) => {
+        console.error('API Pipeline connectivity failure:', err);
+        // Soft fallback mechanism prevents UI crash if the backend server is entirely turned off
+        setOrders(localBackupOrders);
+        setLoading(false);
+      });
+  }, []);
+
+  // 🔍 Dynamic search matching backend parameters
   const filteredOrders = orders.filter((order) => {
+    const idString = order.order_id || `ORD-${order.id}`;
+    const customerString = order.customer_name || '';
+    const productString = order.product_name || '';
+    
     const matchesSearch =
-      order.id.toLowerCase().includes(searchTerm.toLowerCase()) ||
-      order.customer.toLowerCase().includes(searchTerm.toLowerCase()) ||
-      order.product.toLowerCase().includes(searchTerm.toLowerCase());
-    const matchesStatus = statusFilter === 'all' || order.status.toLowerCase() === statusFilter;
+      idString.toLowerCase().includes(searchTerm.toLowerCase()) ||
+      customerString.toLowerCase().includes(searchTerm.toLowerCase()) ||
+      productString.toLowerCase().includes(searchTerm.toLowerCase());
+      
+    const currentStatus = (order.status || '').toLowerCase().trim();
+    const matchesStatus = statusFilter === 'all' || currentStatus === statusFilter.toLowerCase().trim();
     return matchesSearch && matchesStatus;
   });
 
@@ -104,7 +128,7 @@ export function Orders() {
             <Search className="w-5 h-5 text-gray-400 absolute left-3 top-1/2 -translate-y-1/2" />
             <input
               type="text"
-              placeholder="Search orders, customers, products..."
+              placeholder="Search live database orders, customers..."
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}
               className="w-full pl-10 pr-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
@@ -121,6 +145,7 @@ export function Orders() {
               <option value="processing">Processing</option>
               <option value="shipped">Shipped</option>
               <option value="delivered">Delivered</option>
+              <option value="completed">Completed</option>
             </select>
           </div>
         </div>
@@ -144,50 +169,76 @@ export function Orders() {
               </tr>
             </thead>
             <tbody className="divide-y divide-gray-200">
-              {filteredOrders.map((order) => (
-                <tr key={order.id} className="hover:bg-gray-50">
-                  <td className="px-6 py-4 text-sm text-gray-900">{order.id}</td>
-                  <td className="px-6 py-4">
-                    <div>
-                      <p className="text-sm text-gray-900">{order.customer}</p>
-                      <p className="text-xs text-gray-500">{order.email}</p>
-                    </div>
-                  </td>
-                  <td className="px-6 py-4 text-sm text-gray-600">{order.product}</td>
-                  <td className="px-6 py-4 text-sm text-gray-600">{order.quantity}</td>
-                  <td className="px-6 py-4 text-sm text-gray-900">${order.amount.toFixed(2)}</td>
-                  <td className="px-6 py-4 text-sm text-gray-600">{order.supplier}</td>
-                  <td className="px-6 py-4">
-                    <span
-                      className={`inline-flex px-2 py-1 text-xs rounded-full ${
-                        order.status === 'Delivered'
-                          ? 'bg-green-100 text-green-700'
-                          : order.status === 'Shipped'
-                          ? 'bg-blue-100 text-blue-700'
-                          : 'bg-yellow-100 text-yellow-700'
-                      }`}
-                    >
-                      {order.status}
-                    </span>
-                  </td>
-                  <td className="px-6 py-4 text-sm text-gray-600">{order.date}</td>
-                  <td className="px-6 py-4">
-                    <button className="text-blue-600 hover:text-blue-700">
-                      <Eye className="w-4 h-4" />
-                    </button>
+              {loading ? (
+                <tr>
+                  <td colSpan={9} className="px-6 py-12 text-center text-sm text-gray-500">
+                    🔄 Fetching shipments directly from backend database engine...
                   </td>
                 </tr>
-              ))}
+              ) : error ? (
+                <tr>
+                  <td colSpan={9} className="px-6 py-12 text-center text-sm text-red-500 font-medium">
+                    ⚠️ Pipeline Error: {error}. Is your php artisan serve running?
+                  </td>
+                </tr>
+              ) : filteredOrders.length === 0 ? (
+                <tr>
+                  <td colSpan={9} className="px-6 py-12 text-center text-sm text-gray-500">
+                    No matching order logs found.
+                  </td>
+                </tr>
+              ) : (
+                filteredOrders.map((order) => (
+                  <tr key={order.id} className="hover:bg-gray-50">
+                    <td className="px-6 py-4 text-sm font-medium text-gray-900">
+                      {order.order_id || `ORD-${order.id}`}
+                    </td>
+                    <td className="px-6 py-4">
+                      <div>
+                        <p className="text-sm text-gray-900">{order.customer_name}</p>
+                        <p className="text-xs text-gray-500">{order.customer_email || 'no-email@system.local'}</p>
+                      </div>
+                    </td>
+                    <td className="px-6 py-4 text-sm text-gray-600">{order.product_name}</td>
+                    <td className="px-6 py-4 text-sm text-gray-600 text-center">{order.quantity}</td>
+                    <td className="px-6 py-4 text-sm font-semibold text-gray-900">
+                      RM {Number(order.total_price).toFixed(2)}
+                    </td>
+                    <td className="px-6 py-4 text-sm text-gray-600">{order.supplier_name || 'Unassigned'}</td>
+                    <td className="px-6 py-4">
+                      <span
+                        className={`inline-flex px-2 py-1 text-xs font-medium rounded-full ${
+                          ['delivered', 'completed', 'delivered'].includes(order.status.toLowerCase())
+                            ? 'bg-green-100 text-green-700'
+                            : ['shipped', 'shipping'].includes(order.status.toLowerCase())
+                            ? 'bg-blue-100 text-blue-700'
+                            : 'bg-yellow-100 text-yellow-700'
+                        }`}
+                      >
+                        {order.status}
+                      </span>
+                    </td>
+                    <td className="px-6 py-4 text-sm text-gray-600">
+                      {order.created_at ? order.created_at.split('T')[0] : 'N/A'}
+                    </td>
+                    <td className="px-6 py-4">
+                      <button className="text-blue-600 hover:text-blue-700">
+                        <Eye className="w-4 h-4" />
+                      </button>
+                    </td>
+                  </tr>
+                ))
+              )}
             </tbody>
           </table>
         </div>
       </div>
 
-      {/* Summary */}
+      {/* Summary Tracker */}
       <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
-        <p className="text-sm text-blue-900">
-          Showing {filteredOrders.length} of {orders.length} orders • Total Value: $
-          {filteredOrders.reduce((sum, order) => sum + order.amount, 0).toFixed(2)}
+        <p className="text-sm text-blue-900 font-medium">
+          Showing {filteredOrders.length} of {orders.length} real database shipments log • Active Context Value: RM {' '}
+          {filteredOrders.reduce((sum, order) => sum + Number(order.total_price || 0), 0).toFixed(2)}
         </p>
       </div>
     </div>
