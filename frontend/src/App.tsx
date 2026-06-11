@@ -7,7 +7,23 @@ import { Suppliers } from './components/Suppliers';
 import { AIAssistant } from './components/AIAssistant';
 import { Analytics } from './components/Analytics';
 import { Settings } from './components/Settings';
-import { LayoutDashboard, Package, ShoppingCart, Users, Sparkles, BarChart3, Settings as SettingsIcon, Menu, X } from 'lucide-react';
+
+// CRITICAL STEP: Import Alisa's new forecasting view!
+import AiInsights from './components/AiInsights'; 
+
+// Added TrendingUp icon for the forecasting tab visual marker
+import { 
+  LayoutDashboard, 
+  ShoppingCart, 
+  Package, 
+  Users, 
+  Sparkles, 
+  BarChart3, 
+  TrendingUp, 
+  Settings as SettingsIcon, 
+  Menu, 
+  X 
+} from 'lucide-react';
 
 export default function App() {
   const [activeTab, setActiveTab] = useState('dashboard');
@@ -18,7 +34,11 @@ export default function App() {
     { id: 'orders', label: 'Orders', icon: ShoppingCart },
     { id: 'products', label: 'Products', icon: Package },
     { id: 'suppliers', label: 'Suppliers', icon: Users },
-    { id: 'ai', label: 'AI Insights', icon: Sparkles },
+    { id: 'ai', label: 'AI Assistant', icon: Sparkles },
+    
+    // NEW ELEMENT: Alisa's Core Forecasting Tab!
+    { id: 'forecast', label: 'AI Forecasting', icon: TrendingUp }, 
+    
     { id: 'analytics', label: 'Analytics', icon: BarChart3 },
     { id: 'settings', label: 'Settings', icon: SettingsIcon },
   ];
@@ -38,7 +58,7 @@ export default function App() {
               <div className="w-8 h-8 bg-gradient-to-br from-blue-500 to-blue-700 rounded-lg flex items-center justify-center">
                 <Package className="w-5 h-5 text-white" />
               </div>
-              <span className="text-gray-900">DropShip Pro</span>
+              <span className="text-gray-900 font-semibold">DropShip Pro</span>
             </div>
           )}
           <button
@@ -59,7 +79,7 @@ export default function App() {
                 onClick={() => setActiveTab(item.id)}
                 className={`w-full flex items-center gap-3 px-4 py-3 transition-colors ${
                   activeTab === item.id
-                    ? 'bg-blue-50 text-blue-600 border-r-4 border-blue-600'
+                    ? 'bg-blue-50 text-blue-600 border-r-4 border-blue-600 font-medium'
                     : 'text-gray-600 hover:bg-gray-50'
                 }`}
               >
@@ -75,10 +95,10 @@ export default function App() {
           <div className="border-t border-gray-200 p-4">
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 bg-blue-100 rounded-full flex items-center justify-center">
-                <span className="text-sm text-blue-700">AU</span>
+                <span className="text-sm text-blue-700 font-bold">AU</span>
               </div>
               <div className="flex-1">
-                <p className="text-sm text-gray-900">Admin User</p>
+                <p className="text-sm text-gray-900 font-medium">Admin User</p>
                 <p className="text-xs text-gray-500">admin@dropship.com</p>
               </div>
             </div>
@@ -93,6 +113,10 @@ export default function App() {
         {activeTab === 'products' && <Products />}
         {activeTab === 'suppliers' && <Suppliers />}
         {activeTab === 'ai' && <AIAssistant />}
+        
+        {/* NEW MOUNT LAYER: Renders Alisa's file when tab selection state equals 'forecast' */}
+        {activeTab === 'forecast' && <AiInsights />} 
+        
         {activeTab === 'analytics' && <Analytics />}
         {activeTab === 'settings' && <Settings />}
       </main>

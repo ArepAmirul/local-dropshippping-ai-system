@@ -1,14 +1,32 @@
-/node_modules
-/public/storage
-/public/hot
-/storage/*.key
+# Dependencies (ignores node_modules anywhere in the project)
+node_modules/
 /vendor
+
+# Local Environments & Secrets
 .env
 .env.backup
+.env.production
+auth.json
+
+# Build Outputs & Framework Caches
+dist/
+/public/storage
+/public/hot
 .phpunit.result.cache
+
+# Configuration files
 Homestead.json
 Homestead.yaml
-auth.json
+
+# Logs
 npm-debug.log
 yarn-error.log
+
+# IDEs and Editors
 /.vscode
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp

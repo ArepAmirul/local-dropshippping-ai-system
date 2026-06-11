@@ -64,7 +64,7 @@ export function Orders() {
 
   // 📡 Hit the live Laravel pipeline when page loads
   useEffect(() => {
-    fetch('http://127.0.0.1:8000/api/orders')
+    fetch('http://127.0.0.1:8888/api/orders')
       .then((response) => {
         if (!response.ok) {
           throw new Error('Could not establish connection to local backend pipeline.');

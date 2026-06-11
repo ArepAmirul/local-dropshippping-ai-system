@@ -4,78 +4,98 @@ import { Search, Plus, Edit, Trash2, TrendingUp, AlertTriangle } from 'lucide-re
 export function Products() {
   const [searchTerm, setSearchTerm] = useState('');
 
+  // Alisa's actual core product dataset synchronized with backend parameters
   const products = [
     {
-      id: 'PRD-001',
-      name: 'Wireless Headphones',
-      category: 'Electronics',
-      supplier: 'TechSupply Co.',
-      cost: 45.0,
-      price: 89.99,
-      stock: 45,
-      sold: 234,
+      id: 'CLO-BM-001',
+      name: 'Baju Melayu',
+      category: 'Clothing',
+      supplier: 'KL Textile Hub',
+      cost: 60.0,
+      price: 120.0,
+      stock: 75,
+      sold: 74,
       status: 'Active',
       aiScore: 92,
+      emoji: '👕'
     },
     {
-      id: 'PRD-002',
-      name: 'Smart Watch',
-      category: 'Wearables',
-      supplier: 'Gadget World',
-      cost: 120.0,
-      price: 199.99,
-      stock: 23,
-      sold: 156,
-      status: 'Active',
+      id: 'CLO-BK-002',
+      name: 'Baju Kurung Moden',
+      category: 'Clothing',
+      supplier: 'Kelantan Silk Mfg',
+      cost: 40.0,
+      price: 85.0,
+      stock: 50,
+      sold: 52,
+      status: 'Warning',
       aiScore: 88,
+      emoji: '✨'
     },
     {
-      id: 'PRD-003',
-      name: 'Phone Case',
-      category: 'Accessories',
-      supplier: 'Accessories Plus',
-      cost: 8.0,
-      price: 24.99,
-      stock: 150,
-      sold: 445,
-      status: 'Active',
-      aiScore: 76,
-    },
-    {
-      id: 'PRD-004',
-      name: 'USB Cable',
-      category: 'Accessories',
-      supplier: 'TechSupply Co.',
-      cost: 4.5,
-      price: 12.99,
-      stock: 8,
-      sold: 567,
+      id: 'CLO-KS-003',
+      name: 'Kurta Slim Fit',
+      category: 'Clothing',
+      supplier: 'KL Textile Hub',
+      cost: 30.0,
+      price: 65.0,
+      stock: 5,
+      sold: 38,
       status: 'Low Stock',
       aiScore: 84,
+      emoji: '👕'
     },
     {
-      id: 'PRD-005',
-      name: 'Laptop Stand',
-      category: 'Office',
-      supplier: 'Office Essentials',
-      cost: 22.0,
-      price: 45.99,
-      stock: 67,
-      sold: 189,
+      id: 'HIJ-TB-004',
+      name: 'Tudung Bawal',
+      category: 'Hijab',
+      supplier: 'Hijab Wholesale Direct',
+      cost: 10.0,
+      price: 25.0,
+      stock: 10,
+      sold: 29,
+      status: 'Low Stock',
+      aiScore: 90,
+      emoji: '🧕'
+    },
+    {
+      id: 'HIJ-TS-005',
+      name: 'Tudung Shawl',
+      category: 'Hijab',
+      supplier: 'Hijab Wholesale Direct',
+      cost: 15.0,
+      price: 35.0,
+      stock: 45,
+      sold: 18,
       status: 'Active',
       aiScore: 79,
+      emoji: '🧕'
     },
     {
-      id: 'PRD-006',
-      name: 'Bluetooth Speaker',
-      category: 'Electronics',
-      supplier: 'TechSupply Co.',
-      cost: 38.0,
-      price: 79.99,
-      stock: 34,
-      sold: 298,
-      status: 'Active',
-      aiScore: 90,
+      id: 'CLO-KP-006',
+      name: 'Kain Pelikat',
+      category: 'Clothing',
+      supplier: 'Nusantara Weavers',
+      cost: 12.0,
+      price: 25.0,
+      stock: 15,
+      sold: 22,
+      status: 'Low Stock',
+      aiScore: 76,
+      emoji: '👕'
+    },
+    {
+      id: 'ACC-SR-007',
+      name: 'Sampul Raya',
+      category: 'Accessories',
+      supplier: 'Raya Print Solution',
+      cost: 1.5,
+      price: 5.0,
+      stock: 100,
+      sold: 210,
+      status: 'Warning',
+      aiScore: 95,
+      emoji: '🧧'
     },
   ];
 
@@ -83,7 +103,8 @@ export function Products() {
     (product) =>
       product.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
       product.category.toLowerCase().includes(searchTerm.toLowerCase()) ||
-      product.supplier.toLowerCase().includes(searchTerm.toLowerCase())
+      product.supplier.toLowerCase().includes(searchTerm.toLowerCase()) ||
+      product.id.toLowerCase().includes(searchTerm.toLowerCase())
   );
 
   return (
@@ -91,10 +112,10 @@ export function Products() {
       {/* Header */}
       <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
         <div>
-          <h2 className="text-gray-900">Product Catalog</h2>
+          <h2 className="text-gray-900 text-xl font-semibold">Product Catalog</h2>
           <p className="text-sm text-gray-500 mt-1">Manage your dropshipping product inventory</p>
         </div>
-        <button className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors flex items-center gap-2">
+        <button className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors flex items-center gap-2 text-sm font-medium shadow-sm">
           <Plus className="w-4 h-4" />
           Add Product
         </button>
@@ -109,7 +130,7 @@ export function Products() {
             placeholder="Search products, categories, suppliers..."
             value={searchTerm}
             onChange={(e) => setSearchTerm(e.target.value)}
-            className="w-full pl-10 pr-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+            className="w-full pl-10 pr-4 py-2.5 border border-gray-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500/20 focus:border-blue-500 transition-all"
           />
         </div>
       </div>
@@ -119,66 +140,68 @@ export function Products() {
         {filteredProducts.map((product) => {
           const margin = ((product.price - product.cost) / product.price) * 100;
           return (
-            <div key={product.id} className="bg-white rounded-lg shadow-sm border border-gray-200 overflow-hidden">
+            <div key={product.id} className="bg-white rounded-lg shadow-sm border border-gray-200 overflow-hidden flex flex-col">
               {/* Product Image Placeholder */}
-              <div className="h-48 bg-gradient-to-br from-gray-100 to-gray-200 flex items-center justify-center">
-                <span className="text-4xl text-gray-400">📦</span>
+              <div className="h-44 bg-gradient-to-br from-gray-50 to-gray-100 flex items-center justify-center border-b border-gray-100">
+                <span className="text-5xl select-none">{product.emoji}</span>
               </div>
 
-              <div className="p-4">
-                <div className="flex items-start justify-between mb-2">
+              <div className="p-5 flex-1 flex flex-col">
+                <div className="flex items-start justify-between mb-3">
                   <div className="flex-1">
-                    <h3 className="text-gray-900">{product.name}</h3>
-                    <p className="text-xs text-gray-500 mt-1">{product.id}</p>
+                    <h3 className="text-gray-900 font-semibold text-base">{product.name}</h3>
+                    <p className="text-xs font-mono text-gray-400 mt-0.5">{product.id}</p>
                   </div>
                   <div className="flex items-center gap-1">
-                    <div className="w-6 h-6 bg-gradient-to-r from-blue-500 to-purple-600 rounded flex items-center justify-center">
-                      <span className="text-white text-xs">{product.aiScore}</span>
+                    <div className="w-6 h-6 bg-gradient-to-r from-blue-500 to-purple-600 rounded flex items-center justify-center shadow-sm">
+                      <span className="text-white text-xs font-bold">{product.aiScore}</span>
                     </div>
                   </div>
                 </div>
 
-                <div className="space-y-2 mb-4">
-                  <div className="flex justify-between text-sm">
-                    <span className="text-gray-500">Category:</span>
-                    <span className="text-gray-900">{product.category}</span>
+                <div className="space-y-2 mb-4 flex-1 text-sm">
+                  <div className="flex justify-between">
+                    <span className="text-gray-400">Category:</span>
+                    <span className="text-gray-800 font-medium">{product.category}</span>
                   </div>
-                  <div className="flex justify-between text-sm">
-                    <span className="text-gray-500">Supplier:</span>
-                    <span className="text-gray-900">{product.supplier}</span>
+                  <div className="flex justify-between">
+                    <span className="text-gray-400">Supplier:</span>
+                    <span className="text-gray-800 font-medium">{product.supplier}</span>
                   </div>
-                  <div className="flex justify-between text-sm">
-                    <span className="text-gray-500">Cost:</span>
-                    <span className="text-gray-900">${product.cost.toFixed(2)}</span>
+                  <div className="flex justify-between">
+                    <span className="text-gray-400">Cost:</span>
+                    <span className="text-gray-900 font-semibold">RM {product.cost.toFixed(2)}</span>
                   </div>
-                  <div className="flex justify-between text-sm">
-                    <span className="text-gray-500">Price:</span>
-                    <span className="text-gray-900">${product.price.toFixed(2)}</span>
+                  <div className="flex justify-between">
+                    <span className="text-gray-400">Price:</span>
+                    <span className="text-gray-900 font-semibold">RM {product.price.toFixed(2)}</span>
                   </div>
-                  <div className="flex justify-between text-sm">
-                    <span className="text-gray-500">Margin:</span>
-                    <span className="text-green-600 flex items-center gap-1">
+                  <div className="flex justify-between">
+                    <span className="text-gray-400">Margin:</span>
+                    <span className="text-green-600 font-semibold flex items-center gap-1">
                       <TrendingUp className="w-3 h-3" />
                       {margin.toFixed(1)}%
                     </span>
                   </div>
                 </div>
 
-                <div className="flex items-center justify-between mb-4 pb-4 border-b border-gray-200">
+                <div className="flex items-center justify-between mb-4 pb-4 border-b border-gray-100 text-sm">
                   <div>
-                    <p className="text-xs text-gray-500">Stock</p>
-                    <p className="text-sm text-gray-900">{product.stock} units</p>
+                    <p className="text-xs text-gray-400 font-medium">Stock</p>
+                    <p className="text-gray-900 font-bold mt-0.5">{product.stock} units</p>
                   </div>
                   <div>
-                    <p className="text-xs text-gray-500">Sold</p>
-                    <p className="text-sm text-gray-900">{product.sold} units</p>
+                    <p className="text-xs text-gray-400 font-medium">Sold</p>
+                    <p className="text-gray-900 font-bold mt-0.5">{product.sold} units</p>
                   </div>
                   <div>
                     <span
-                      className={`inline-flex px-2 py-1 text-xs rounded-full ${
+                      className={`inline-flex px-2.5 py-0.5 text-xs font-semibold rounded-full ${
                         product.status === 'Low Stock'
-                          ? 'bg-red-100 text-red-700'
-                          : 'bg-green-100 text-green-700'
+                          ? 'bg-red-50 text-red-700 border border-red-100'
+                          : product.status === 'Warning'
+                          ? 'bg-yellow-50 text-yellow-700 border border-yellow-100'
+                          : 'bg-green-50 text-green-700 border border-green-100'
                       }`}
                     >
                       {product.status}
@@ -187,18 +210,18 @@ export function Products() {
                 </div>
 
                 {product.status === 'Low Stock' && (
-                  <div className="mb-4 p-2 bg-red-50 border border-red-200 rounded flex items-center gap-2">
+                  <div className="mb-4 p-2.5 bg-red-50 border border-red-100 rounded-lg flex items-center gap-2">
                     <AlertTriangle className="w-4 h-4 text-red-600 flex-shrink-0" />
-                    <p className="text-xs text-red-700">Reorder recommended</p>
+                    <p className="text-xs text-red-700 font-medium">Reorder recommended immediately</p>
                   </div>
                 )}
 
                 <div className="flex gap-2">
-                  <button className="flex-1 px-3 py-2 border border-gray-300 text-gray-700 rounded-lg hover:bg-gray-50 transition-colors flex items-center justify-center gap-2">
+                  <button className="flex-1 px-3 py-2 border border-gray-200 text-gray-700 rounded-lg hover:bg-gray-50 transition-colors flex items-center justify-center gap-1.5 text-sm font-medium">
                     <Edit className="w-4 h-4" />
                     Edit
                   </button>
-                  <button className="px-3 py-2 border border-red-300 text-red-600 rounded-lg hover:bg-red-50 transition-colors">
+                  <button className="px-3 py-2 border border-red-200 text-red-600 rounded-lg hover:bg-red-50 transition-colors">
                     <Trash2 className="w-4 h-4" />
                   </button>
                 </div>

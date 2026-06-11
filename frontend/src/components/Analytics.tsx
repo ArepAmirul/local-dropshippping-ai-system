@@ -30,7 +30,7 @@ export function Analytics() {
 
   useEffect(() => {
     // Fetch live data straight from the Laravel backend endpoint
-    fetch('http://127.0.0.1:8000/api/analytics')
+    fetch('http://127.0.0.1:8888/api/analytics')
       .then((response) => {
         if (!response.ok) {
           throw new Error('Network pipeline connection failed');

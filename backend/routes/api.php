@@ -8,6 +8,7 @@ use App\Http\Controllers\OrderController;
 use App\Http\Controllers\SupplierController;
 use App\Http\Controllers\AiAssistantController;
 use App\Http\Controllers\SettingsController;
+use App\Http\Controllers\AiEngineController;
 
 Route::get('/user', function (Request $request) {
     return $request->user();
@@ -22,3 +23,4 @@ Route::get('/orders', [OrderController::class, 'getAllOrders']);
 Route::get('/suppliers', [SupplierController::class, 'getAllSuppliers']);
 Route::get('/ai-insights', [AiAssistantController::class, 'getAiInsights']);
 Route::get('/settings', [SettingsController::class, 'getSystemSettings']);
+Route::get('/ai-forecast', [AiEngineController::class, 'getForecastData']);
